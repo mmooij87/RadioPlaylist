@@ -1,12 +1,12 @@
-name: Update Playlist
+name: Kink Radio Playlist Scraper
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # Run every 10 minutes
+    - cron: '*/1 * * * *'  # Run every 10 minutes
   workflow_dispatch:  # Allow manual triggering
 
 jobs:
-  update-playlist:
+  scrape-and-update:
     runs-on: ubuntu-latest
     timeout-minutes: 5  # Set timeout to 5 minutes
     
@@ -31,7 +31,7 @@ jobs:
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'github-actions@github.com'
-          git add -A
+          git add docs/playlist.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update playlist data" && git push)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
