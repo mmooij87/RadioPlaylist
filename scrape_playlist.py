@@ -4,6 +4,7 @@ import json
 import os
 from datetime import datetime
 import time
+import pytz  # Add pytz for timezone handling
 
 def scrape_kink_playlist():
     url = "https://onlineradiobox.com/nl/kink/playlist/"
@@ -51,11 +52,15 @@ def scrape_kink_playlist():
                     
                     print(f"Found song (no link): {artist} - {title} at {time_text}")
                     
+                    # Use CET timezone for timestamp
+                    cet_timezone = pytz.timezone('Europe/Amsterdam')
+                    current_time_cet = datetime.now(cet_timezone)
+                    
                     playlist_data.append({
                         "time": time_text,
                         "artist": artist,
                         "title": title,
-                        "timestamp": datetime.now().isoformat()
+                        "timestamp": current_time_cet.isoformat()
                     })
             elif time_element and track_element:
                 time_text = time_element.text.strip()
@@ -70,11 +75,15 @@ def scrape_kink_playlist():
                 
                 print(f"Found song: {artist} - {title} at {time_text}")
                 
+                # Use CET timezone for timestamp
+                cet_timezone = pytz.timezone('Europe/Amsterdam')
+                current_time_cet = datetime.now(cet_timezone)
+                
                 playlist_data.append({
                     "time": time_text,
                     "artist": artist,
                     "title": title,
-                    "timestamp": datetime.now().isoformat()
+                    "timestamp": current_time_cet.isoformat()
                 })
             else:
                 if row.find('td'):  # Only report missing elements for actual data rows
