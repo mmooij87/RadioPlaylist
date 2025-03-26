@@ -2,36 +2,57 @@ name: Kink Radio Playlist Scraper
 
 on:
   schedule:
-    - cron: '*/1 * * * *'  # Run every 10 minutes
-  workflow_dispatch:  # Allow manual triggering
+    - cron: '*/10 * * * *'  # Reduced to every 10 minutes
+  workflow_dispatch:  # Manual trigger
 
 jobs:
   scrape-and-update:
     runs-on: ubuntu-latest
-    timeout-minutes: 5  # Set timeout to 5 minutes
-    
+    timeout-minutes: 5
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
-        
-      - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.9'
-          
+          cache: 'pip'
+
+      - name: Cache scraper dependencies
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/pip
+            ~/.cache/scraper
+          key: ${{ runner.os }}-scraper-${{ hashFiles('**/requirements.txt', 'scrape_playlist.py') }}
+          restore-keys: |
+            ${{ runner.os }}-scraper-
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4
-          
+
+      - name: Create cache directory
+        run: mkdir -p ~/.cache/scraper
+
       - name: Run playlist scraper
-        run: python scrape_playlist.py
-        
+        id: scraper
+        run: |
+          python scrape_playlist.py \
+            --cache-dir ~/.cache/scraper \
+            --max-age 600  # 10-minute cache tolerance
+
       - name: Commit and push if changed
         run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'github-actions@github.com'
-          git add docs/playlist.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update playlist data" && git push)
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          if [[ -n "$(git status --porcelain docs/playlist.json)" ]]; then
+            git add docs/playlist.json
+            git commit -m "Update playlist data"
+            git push
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
