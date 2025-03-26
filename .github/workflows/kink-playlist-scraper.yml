@@ -8,12 +8,12 @@ on:
 jobs:
   scrape-and-update:
     runs-on: ubuntu-latest
+    env:
+      TZ: Europe/Amsterdam  # Set timezone for all steps in the job
     
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      # Removed the setup-timezone action to avoid conflicts
 
       - name: Setup Python
         uses: actions/setup-python@v5
