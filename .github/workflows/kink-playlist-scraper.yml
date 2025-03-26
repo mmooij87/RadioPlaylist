@@ -15,12 +15,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Add back the timezone setup action to ensure system-level timezone is set
-      - name: Set timezone to Europe/Amsterdam
-        uses: zcong1993/setup-timezone@master
-        with:
-          timezone: Europe/Amsterdam
-
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
@@ -48,10 +42,6 @@ jobs:
       - name: Run playlist scraper
         id: scraper
         run: |
-          # Verify the system timezone is set correctly
-          echo "System timezone: $(date +%Z)"
-          echo "Current time: $(date)"
-          
           python scrape_playlist.py \
             --cache-dir ~/.cache/scraper \
             --max-age 300  # 5-minute cache tolerance

@@ -17,13 +17,8 @@ def scrape_kink_playlist(cache_dir=None, max_age=0):
     print(f"Environment TZ: {os.environ.get('TZ', 'Not set')}")
     print(f"Current time in CET: {current_time_cet.strftime('%Y-%m-%d %H:%M:%S')}")
     
-    # Adjust for the 5-hour offset if needed
-    # This is a temporary fix until we identify the root cause
-    adjusted_time = current_time_cet.replace(hour=(current_time_cet.hour + 5) % 24)
-    print(f"Adjusted time (adding 5 hours): {adjusted_time.strftime('%Y-%m-%d %H:%M:%S')}")
-    
-    # Format the date for the URL using the adjusted time
-    date_str = adjusted_time.strftime("%Y-%m-%d")
+    # Format the date for the URL to ensure we get the correct day's playlist
+    date_str = current_time_cet.strftime("%Y-%m-%d")
     
     # Use the date in the URL to get the specific day's playlist
     url = f"https://onlineradiobox.com/nl/kink/playlist/{date_str}/"
