@@ -45,9 +45,20 @@ jobs:
       - name: Run playlist scraper
         id: scraper
         run: |
+          # Verify the system timezone is set correctly
+          echo "System timezone: $(date +%Z)"
+          echo "Current time: $(date)"
+          
+          # Set TZ environment variable explicitly for this run
+          export TZ=Europe/Amsterdam
+          echo "TZ environment variable: $TZ"
+          echo "Time after TZ set: $(date)"
+          
           python scrape_playlist.py \
             --cache-dir ~/.cache/scraper \
             --max-age 300  # 5-minute cache tolerance
+        env:
+          TZ: Europe/Amsterdam
 
       - name: Commit and push if changed
         run: |

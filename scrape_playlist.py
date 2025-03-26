@@ -12,6 +12,11 @@ def scrape_kink_playlist(cache_dir=None, max_age=0):
     cet_timezone = pytz.timezone('Europe/Amsterdam')
     current_time_cet = datetime.now(cet_timezone)
     
+    # Debug timezone information
+    print(f"System timezone: {time.tzname}")
+    print(f"Environment TZ: {os.environ.get('TZ', 'Not set')}")
+    print(f"Current time in CET: {current_time_cet.strftime('%Y-%m-%d %H:%M:%S')}")
+    
     # Format the date for the URL to ensure we get the correct day's playlist
     date_str = current_time_cet.strftime("%Y-%m-%d")
     
@@ -26,7 +31,6 @@ def scrape_kink_playlist(cache_dir=None, max_age=0):
     
     try:
         print(f"Fetching data from {url}...")
-        print(f"Current time in CET: {current_time_cet.strftime('%Y-%m-%d %H:%M:%S')}")
         response = requests.get(url, headers=headers)
         response.raise_for_status()
         
