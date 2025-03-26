@@ -39,6 +39,8 @@ jobs:
 
       - name: Run playlist scraper
         id: scraper
+        env:
+          TZ: 'Europe/Amsterdam'  # Set timezone to CET/Amsterdam
         run: |
           python scrape_playlist.py \
             --cache-dir ~/.cache/scraper \
