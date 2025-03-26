@@ -2,12 +2,13 @@ name: Update Playlist
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Run every 5 minutes
+    - cron: '*/10 * * * *'  # Run every 10 minutes
   workflow_dispatch:  # Allow manual triggering
 
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
+    timeout-minutes: 5  # Set timeout to 5 minutes
     
     steps:
       - name: Checkout repository
