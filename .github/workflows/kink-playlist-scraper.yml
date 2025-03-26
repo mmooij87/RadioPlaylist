@@ -15,6 +15,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # Add back the timezone setup action to ensure system-level timezone is set
+      - name: Set timezone to Europe/Amsterdam
+        uses: zcong1993/setup-timezone@master
+        with:
+          timezone: Europe/Amsterdam
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
