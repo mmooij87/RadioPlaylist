@@ -3,25 +3,35 @@ from bs4 import BeautifulSoup
 import json
 import os
 from datetime import datetime
-import time
-import pytz  # Add pytz for timezone handling
-import argparse  # Add for command line arguments
+import pytz
+import argparse
+import locale
 
 def scrape_kink_playlist(cache_dir=None, max_age=0):
+    # Set locale to Dutch (Netherlands)
+    try:
+        locale.setlocale(locale.LC_TIME, 'nl_NL.utf8')
+    except locale.Error:
+        try:
+            locale.setlocale(locale.LC_TIME, 'nl_NL')
+        except locale.Error:
+            print("Warning: Could not set Dutch locale, using default")
+    
     # Set up timezone for Amsterdam/CET
     cet_timezone = pytz.timezone('Europe/Amsterdam')
-    current_time_cet = datetime.now(cet_timezone)
+    current_time_utc = datetime.utcnow()
+    current_time_cet = current_time_utc.replace(tzinfo=pytz.UTC).astimezone(cet_timezone)
     
-    # Debug timezone information
-    print(f"System timezone: {time.tzname}")
-    print(f"Environment TZ: {os.environ.get('TZ', 'Not set')}")
-    print(f"Current time in CET: {current_time_cet.strftime('%Y-%m-%d %H:%M:%S')}")
+    # Format date similar to JavaScript's toLocaleString
+    formatted_date = current_time_cet.strftime('%Y-%m-%d %H:%M:%S')
+    print(f"Current time in Amsterdam: {formatted_date}")
     
-    # Format the date for the URL to ensure we get the correct day's playlist
+    # Format the date for the URL
     date_str = current_time_cet.strftime("%Y-%m-%d")
     
     # Use the date in the URL to get the specific day's playlist
     url = f"https://onlineradiobox.com/nl/kink/playlist/{date_str}/"
+    
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
         # Add headers that might help with timezone
@@ -69,11 +79,14 @@ def scrape_kink_playlist(cache_dir=None, max_age=0):
                     
                     print(f"Found song (no link): {artist} - {title} at {time_text}")
                     
+                    # Create ISO timestamp from the Amsterdam time
+                    timestamp = current_time_cet.isoformat()
+                    
                     playlist_data.append({
                         "time": time_text,
                         "artist": artist,
                         "title": title,
-                        "timestamp": current_time_cet.isoformat()
+                        "timestamp": timestamp
                     })
             elif time_element and track_element:
                 time_text = time_element.text.strip()
