@@ -13,6 +13,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Set timezone to Europe/Amsterdam
+        uses: zcong1993/setup-timezone@master
+        with:
+          timezone: Europe/Amsterdam
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
@@ -39,12 +44,7 @@ jobs:
 
       - name: Run playlist scraper
         id: scraper
-        env:
-          TZ: 'Europe/Amsterdam'  # Set timezone to CET/Amsterdam
         run: |
-          # Set browser timezone to CET/Amsterdam before running the script
-          export TZ=Europe/Amsterdam
-          # Run the script with timezone environment variables
           python scrape_playlist.py \
             --cache-dir ~/.cache/scraper \
             --max-age 300  # 5-minute cache tolerance
