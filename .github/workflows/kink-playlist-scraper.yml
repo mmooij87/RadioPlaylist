@@ -13,10 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set timezone to Europe/Amsterdam
-        uses: zcong1993/setup-timezone@master
-        with:
-          timezone: Europe/Amsterdam
+      # Removed the setup-timezone action to avoid conflicts
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -48,11 +45,6 @@ jobs:
           # Verify the system timezone is set correctly
           echo "System timezone: $(date +%Z)"
           echo "Current time: $(date)"
-          
-          # Set TZ environment variable explicitly for this run
-          export TZ=Europe/Amsterdam
-          echo "TZ environment variable: $TZ"
-          echo "Time after TZ set: $(date)"
           
           python scrape_playlist.py \
             --cache-dir ~/.cache/scraper \
