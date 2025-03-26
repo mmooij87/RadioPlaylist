@@ -5,15 +5,28 @@ import os
 from datetime import datetime
 import time
 import pytz  # Add pytz for timezone handling
+import argparse  # Add for command line arguments
 
-def scrape_kink_playlist():
-    url = "https://onlineradiobox.com/nl/kink/playlist/"
+def scrape_kink_playlist(cache_dir=None, max_age=0):
+    # Set up timezone for Amsterdam/CET
+    cet_timezone = pytz.timezone('Europe/Amsterdam')
+    current_time_cet = datetime.now(cet_timezone)
+    
+    # Format the date for the URL to ensure we get the correct day's playlist
+    date_str = current_time_cet.strftime("%Y-%m-%d")
+    
+    # Use the date in the URL to get the specific day's playlist
+    url = f"https://onlineradiobox.com/nl/kink/playlist/{date_str}/"
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        # Add headers that might help with timezone
+        "Accept-Language": "nl-NL,nl;q=0.9,en-US;q=0.8,en;q=0.7",
+        "Referer": "https://onlineradiobox.com/nl/kink/",
     }
     
     try:
         print(f"Fetching data from {url}...")
+        print(f"Current time in CET: {current_time_cet.strftime('%Y-%m-%d %H:%M:%S')}")
         response = requests.get(url, headers=headers)
         response.raise_for_status()
         
@@ -52,10 +65,6 @@ def scrape_kink_playlist():
                     
                     print(f"Found song (no link): {artist} - {title} at {time_text}")
                     
-                    # Use CET timezone for timestamp
-                    cet_timezone = pytz.timezone('Europe/Amsterdam')
-                    current_time_cet = datetime.now(cet_timezone)
-                    
                     playlist_data.append({
                         "time": time_text,
                         "artist": artist,
@@ -74,10 +83,6 @@ def scrape_kink_playlist():
                     title = track_text
                 
                 print(f"Found song: {artist} - {title} at {time_text}")
-                
-                # Use CET timezone for timestamp
-                cet_timezone = pytz.timezone('Europe/Amsterdam')
-                current_time_cet = datetime.now(cet_timezone)
                 
                 playlist_data.append({
                     "time": time_text,
@@ -116,8 +121,14 @@ def save_playlist(playlist_data):
     print(f"Playlist replaced with {len(playlist_data)} new songs")
 
 if __name__ == "__main__":
+    # Parse command line arguments
+    parser = argparse.ArgumentParser(description='Scrape Kink Radio playlist')
+    parser.add_argument('--cache-dir', help='Directory to store cache files')
+    parser.add_argument('--max-age', type=int, default=0, help='Maximum age of cache in seconds')
+    args = parser.parse_args()
+    
     print("Starting Kink Radio playlist scraper...")
-    playlist_data = scrape_kink_playlist()
+    playlist_data = scrape_kink_playlist(args.cache_dir, args.max_age)
     if playlist_data:
         print(f"Successfully scraped {len(playlist_data)} songs")
         save_playlist(playlist_data)
