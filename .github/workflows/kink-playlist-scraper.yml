@@ -42,6 +42,9 @@ jobs:
         env:
           TZ: 'Europe/Amsterdam'  # Set timezone to CET/Amsterdam
         run: |
+          # Set browser timezone to CET/Amsterdam before running the script
+          export TZ=Europe/Amsterdam
+          # Run the script with timezone environment variables
           python scrape_playlist.py \
             --cache-dir ~/.cache/scraper \
             --max-age 300  # 5-minute cache tolerance
