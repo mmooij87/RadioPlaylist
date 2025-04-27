@@ -1,416 +1,200 @@
 [
   {
     "time": "Live",
-    "artist": "Arctic Monkeys",
-    "title": "Fluorescent Adolescent",
-    "timestamp": "2025-04-27T10:56:01.316656+02:00"
-  },
-  {
-    "time": "04:51",
-    "artist": "Beaches, The",
-    "title": "Last Girls At The Party",
-    "timestamp": "2025-04-27T04:51:00+02:00"
-  },
-  {
-    "time": "04:49",
-    "artist": "Smiths",
-    "title": "Girlfriend in a Coma",
-    "timestamp": "2025-04-27T04:49:00+02:00"
-  },
-  {
-    "time": "04:45",
-    "artist": "Kings Of Leon",
-    "title": "Temple",
-    "timestamp": "2025-04-27T04:45:00+02:00"
-  },
-  {
-    "time": "04:43",
-    "artist": "Coldplay",
-    "title": "Don't Panic",
-    "timestamp": "2025-04-27T04:43:00+02:00"
-  },
-  {
-    "time": "04:40",
-    "artist": "POM",
-    "title": "a menace",
-    "timestamp": "2025-04-27T04:40:00+02:00"
-  },
-  {
-    "time": "04:37",
-    "artist": "Supergrass",
-    "title": "Alright",
-    "timestamp": "2025-04-27T04:37:00+02:00"
-  },
-  {
-    "time": "04:29",
-    "artist": "Rolling Stones",
-    "title": "Start Me Up",
-    "timestamp": "2025-04-27T04:29:00+02:00"
-  },
-  {
-    "time": "04:25",
-    "artist": "De Staat",
-    "title": "Tie Me Down (feat Luwten)",
-    "timestamp": "2025-04-27T04:25:00+02:00"
-  },
-  {
-    "time": "04:21",
-    "artist": "Travis",
-    "title": "Why Does It Always Rain On Me",
-    "timestamp": "2025-04-27T04:21:00+02:00"
-  },
-  {
-    "time": "04:18",
-    "artist": "Turnstile",
-    "title": "Never Enough",
-    "timestamp": "2025-04-27T04:18:00+02:00"
-  },
-  {
-    "time": "04:09",
-    "artist": "Guns N' Roses",
-    "title": "November Rain",
-    "timestamp": "2025-04-27T04:09:00+02:00"
-  },
-  {
-    "time": "04:04",
-    "artist": "Stereophonics",
-    "title": "Maybe Tomorrow",
-    "timestamp": "2025-04-27T04:04:00+02:00"
-  },
-  {
-    "time": "03:56",
-    "artist": "U2",
-    "title": "Mysterious Ways",
-    "timestamp": "2025-04-27T03:56:00+02:00"
-  },
-  {
-    "time": "03:52",
-    "artist": "White Stripes",
-    "title": "My Doorbell",
-    "timestamp": "2025-04-27T03:52:00+02:00"
-  },
-  {
-    "time": "03:49",
-    "artist": "Wet Leg",
-    "title": "Catch These Fists",
-    "timestamp": "2025-04-27T03:49:00+02:00"
-  },
-  {
-    "time": "03:45",
-    "artist": "Talking Heads",
-    "title": "Slippery People (live)",
-    "timestamp": "2025-04-27T03:45:00+02:00"
-  },
-  {
-    "time": "03:42",
-    "artist": "Weezer",
-    "title": "Island in the Sun",
-    "timestamp": "2025-04-27T03:42:00+02:00"
-  },
-  {
-    "time": "03:38",
-    "artist": "Sam Fender",
-    "title": "Arm's Length",
-    "timestamp": "2025-04-27T03:38:00+02:00"
-  },
-  {
-    "time": "03:34",
-    "artist": "Red Hot Chili Peppers",
-    "title": "Give It Away",
-    "timestamp": "2025-04-27T03:34:00+02:00"
-  },
-  {
-    "time": "03:26",
-    "artist": "Paramore",
-    "title": "Hard Times",
-    "timestamp": "2025-04-27T03:26:00+02:00"
-  },
-  {
-    "time": "03:23",
-    "artist": "Oasis",
-    "title": "Whatever",
-    "timestamp": "2025-04-27T03:23:00+02:00"
-  },
-  {
-    "time": "03:20",
-    "artist": "Moss",
-    "title": "I Apologise (Dear Simon)",
-    "timestamp": "2025-04-27T03:20:00+02:00"
-  },
-  {
-    "time": "03:17",
-    "artist": "Black Keys, The",
-    "title": "The Night Before",
-    "timestamp": "2025-04-27T03:17:00+02:00"
-  },
-  {
-    "time": "03:11",
-    "artist": "Cure",
-    "title": "Pictures Of You - Radio",
-    "timestamp": "2025-04-27T03:11:00+02:00"
-  },
-  {
-    "time": "03:07",
-    "artist": "Simple Minds",
-    "title": "Someone Somewhere (in Summertime)",
-    "timestamp": "2025-04-27T03:07:00+02:00"
-  },
-  {
-    "time": "03:02",
-    "artist": "Living Colour",
-    "title": "Cult of Personality",
-    "timestamp": "2025-04-27T03:02:00+02:00"
-  },
-  {
-    "time": "02:54",
-    "artist": "The Wombats",
-    "title": "Blood On The Hospital Floor",
-    "timestamp": "2025-04-27T02:54:00+02:00"
-  },
-  {
-    "time": "02:51",
-    "artist": "Golden Earring",
-    "title": "I Can't Sleep Without You (Live)",
-    "timestamp": "2025-04-27T02:51:00+02:00"
-  },
-  {
-    "time": "02:45",
-    "artist": "Paolo Nutini",
-    "title": "Iron Sky",
-    "timestamp": "2025-04-27T02:45:00+02:00"
-  },
-  {
-    "time": "02:41",
-    "artist": "Pearl Jam",
-    "title": "The Fixer",
-    "timestamp": "2025-04-27T02:41:00+02:00"
-  },
-  {
-    "time": "02:38",
-    "artist": "Pulp",
-    "title": "Spike Island (KINK XL)",
-    "timestamp": "2025-04-27T02:38:00+02:00"
-  },
-  {
-    "time": "02:33",
-    "artist": "Counting Crows",
-    "title": "Mr. Jones",
-    "timestamp": "2025-04-27T02:33:00+02:00"
-  },
-  {
-    "time": "02:26",
-    "artist": "Elbow",
-    "title": "Grounds for Divorce",
-    "timestamp": "2025-04-27T02:26:00+02:00"
-  },
-  {
-    "time": "02:23",
-    "artist": "Blink-182",
-    "title": "What's My Age Again",
-    "timestamp": "2025-04-27T02:23:00+02:00"
-  },
-  {
-    "time": "02:20",
-    "artist": "The War On Drugs",
-    "title": "Oceans Of Darkness",
-    "timestamp": "2025-04-27T02:20:00+02:00"
+    "artist": "Cranberries",
+    "title": "Ode To My Family",
+    "timestamp": "2025-04-27T11:19:57.640202+02:00"
   },
   {
     "time": "02:16",
-    "artist": "Fleetwood Mac",
-    "title": "Chain",
+    "artist": "PEER",
+    "title": "I Want It",
     "timestamp": "2025-04-27T02:16:00+02:00"
   },
   {
     "time": "02:12",
-    "artist": "Linkin Park",
-    "title": "Up From The Bottom",
+    "artist": "Lenny Kravitz",
+    "title": "Again",
     "timestamp": "2025-04-27T02:12:00+02:00"
   },
   {
     "time": "02:09",
-    "artist": "Texas",
-    "title": "Black Eyed Boy",
+    "artist": "David Bowie",
+    "title": "Changes",
     "timestamp": "2025-04-27T02:09:00+02:00"
   },
   {
-    "time": "02:04",
-    "artist": "Audioslave",
-    "title": "Like A Stone",
-    "timestamp": "2025-04-27T02:04:00+02:00"
+    "time": "02:05",
+    "artist": "Nothing But Thieves",
+    "title": "Tomorrow Is Closed",
+    "timestamp": "2025-04-27T02:05:00+02:00"
+  },
+  {
+    "time": "01:57",
+    "artist": "Beastie Boys",
+    "title": "Sabotage",
+    "timestamp": "2025-04-27T01:57:00+02:00"
   },
   {
     "time": "01:54",
-    "artist": "Editors",
-    "title": "Smokers Outside The Hospital Doors",
+    "artist": "Arctic Monkeys",
+    "title": "Fluorescent Adolescent",
     "timestamp": "2025-04-27T01:54:00+02:00"
   },
   {
-    "time": "01:50",
-    "artist": "Lenny Kravitz",
-    "title": "It Ain't Over Til It's Over",
-    "timestamp": "2025-04-27T01:50:00+02:00"
+    "time": "01:51",
+    "artist": "Beaches, The",
+    "title": "Last Girls At The Party",
+    "timestamp": "2025-04-27T01:51:00+02:00"
   },
   {
-    "time": "01:47",
-    "artist": "Inhaler",
-    "title": "Your House",
-    "timestamp": "2025-04-27T01:47:00+02:00"
+    "time": "01:49",
+    "artist": "Smiths",
+    "title": "Girlfriend in a Coma",
+    "timestamp": "2025-04-27T01:49:00+02:00"
+  },
+  {
+    "time": "01:45",
+    "artist": "Kings Of Leon",
+    "title": "Temple",
+    "timestamp": "2025-04-27T01:45:00+02:00"
   },
   {
     "time": "01:43",
-    "artist": "Gem",
-    "title": "Look",
+    "artist": "Coldplay",
+    "title": "Don't Panic",
     "timestamp": "2025-04-27T01:43:00+02:00"
   },
   {
+    "time": "01:40",
+    "artist": "POM",
+    "title": "a menace",
+    "timestamp": "2025-04-27T01:40:00+02:00"
+  },
+  {
     "time": "01:37",
-    "artist": "Kate Bush",
-    "title": "Running Up That Hill",
+    "artist": "Supergrass",
+    "title": "Alright",
     "timestamp": "2025-04-27T01:37:00+02:00"
   },
   {
-    "time": "01:34",
-    "artist": "Fontaines D.C.",
-    "title": "It's Amazing To Be Young",
-    "timestamp": "2025-04-27T01:34:00+02:00"
+    "time": "01:29",
+    "artist": "Rolling Stones",
+    "title": "Start Me Up",
+    "timestamp": "2025-04-27T01:29:00+02:00"
   },
   {
-    "time": "01:31",
-    "artist": "Green Day",
-    "title": "Longview",
-    "timestamp": "2025-04-27T01:31:00+02:00"
+    "time": "01:25",
+    "artist": "De Staat",
+    "title": "Tie Me Down (feat Luwten)",
+    "timestamp": "2025-04-27T01:25:00+02:00"
   },
   {
-    "time": "01:24",
-    "artist": "Son Mieux",
-    "title": "Multicolor",
-    "timestamp": "2025-04-27T01:24:00+02:00"
+    "time": "01:21",
+    "artist": "Travis",
+    "title": "Why Does It Always Rain On Me",
+    "timestamp": "2025-04-27T01:21:00+02:00"
   },
   {
-    "time": "01:20",
-    "artist": "R.E.M.",
-    "title": "Drive",
-    "timestamp": "2025-04-27T01:20:00+02:00"
-  },
-  {
-    "time": "01:17",
-    "artist": "Wodan Boys",
-    "title": "Geezer Glamour Danger",
-    "timestamp": "2025-04-27T01:17:00+02:00"
-  },
-  {
-    "time": "01:14",
-    "artist": "System Of A Down",
-    "title": "Toxicity",
-    "timestamp": "2025-04-27T01:14:00+02:00"
+    "time": "01:18",
+    "artist": "Turnstile",
+    "title": "Never Enough",
+    "timestamp": "2025-04-27T01:18:00+02:00"
   },
   {
     "time": "01:09",
-    "artist": "Snow Patrol",
-    "title": "Crack The Shutters",
+    "artist": "Guns N' Roses",
+    "title": "November Rain",
     "timestamp": "2025-04-27T01:09:00+02:00"
   },
   {
-    "time": "01:06",
-    "artist": "Urban Dance Squad",
-    "title": "Fast Lane",
-    "timestamp": "2025-04-27T01:06:00+02:00"
+    "time": "01:04",
+    "artist": "Stereophonics",
+    "title": "Maybe Tomorrow",
+    "timestamp": "2025-04-27T01:04:00+02:00"
   },
   {
-    "time": "01:03",
-    "artist": "Mumford & Sons",
-    "title": "Rushmere",
-    "timestamp": "2025-04-27T01:03:00+02:00"
-  },
-  {
-    "time": "00:55",
-    "artist": "Nirvana",
-    "title": "Something In The Way",
-    "timestamp": "2025-04-27T00:55:00+02:00"
+    "time": "00:56",
+    "artist": "U2",
+    "title": "Mysterious Ways",
+    "timestamp": "2025-04-27T00:56:00+02:00"
   },
   {
     "time": "00:52",
-    "artist": "Kooks",
-    "title": "Mr. Maker",
+    "artist": "White Stripes",
+    "title": "My Doorbell",
     "timestamp": "2025-04-27T00:52:00+02:00"
   },
   {
     "time": "00:49",
-    "artist": "The Hives",
-    "title": "Enough Is Enough",
+    "artist": "Wet Leg",
+    "title": "Catch These Fists",
     "timestamp": "2025-04-27T00:49:00+02:00"
   },
   {
-    "time": "00:46",
-    "artist": "Bruce Springsteen",
-    "title": "Bobby Jean",
-    "timestamp": "2025-04-27T00:46:00+02:00"
+    "time": "00:45",
+    "artist": "Talking Heads",
+    "title": "Slippery People (live)",
+    "timestamp": "2025-04-27T00:45:00+02:00"
   },
   {
     "time": "00:42",
-    "artist": "Kings Of Leon",
-    "title": "Radioactive",
+    "artist": "Weezer",
+    "title": "Island in the Sun",
     "timestamp": "2025-04-27T00:42:00+02:00"
   },
   {
-    "time": "00:39",
-    "artist": "Kaiser Chiefs",
-    "title": "Never Miss a Beat",
-    "timestamp": "2025-04-27T00:39:00+02:00"
+    "time": "00:38",
+    "artist": "Sam Fender",
+    "title": "Arm's Length",
+    "timestamp": "2025-04-27T00:38:00+02:00"
   },
   {
-    "time": "00:35",
-    "artist": "Lola Young",
-    "title": "Messy",
-    "timestamp": "2025-04-27T00:35:00+02:00"
+    "time": "00:34",
+    "artist": "Red Hot Chili Peppers",
+    "title": "Give It Away",
+    "timestamp": "2025-04-27T00:34:00+02:00"
   },
   {
-    "time": "00:29",
-    "artist": "Metallica",
-    "title": "The Unforgiven 1",
-    "timestamp": "2025-04-27T00:29:00+02:00"
+    "time": "00:26",
+    "artist": "Paramore",
+    "title": "Hard Times",
+    "timestamp": "2025-04-27T00:26:00+02:00"
   },
   {
     "time": "00:23",
-    "artist": "Arctic Monkeys",
-    "title": "Cornerstone",
+    "artist": "Oasis",
+    "title": "Whatever",
     "timestamp": "2025-04-27T00:23:00+02:00"
   },
   {
-    "time": "00:19",
-    "artist": "Pixies",
-    "title": "Where Is My Mind",
-    "timestamp": "2025-04-27T00:19:00+02:00"
+    "time": "00:20",
+    "artist": "Moss",
+    "title": "I Apologise (Dear Simon)",
+    "timestamp": "2025-04-27T00:20:00+02:00"
   },
   {
-    "time": "00:16",
-    "artist": "Neon Trees",
-    "title": "Animal",
-    "timestamp": "2025-04-27T00:16:00+02:00"
+    "time": "00:17",
+    "artist": "Black Keys, The",
+    "title": "The Night Before",
+    "timestamp": "2025-04-27T00:17:00+02:00"
   },
   {
-    "time": "00:13",
-    "artist": "Garbage",
-    "title": "Only Happy When It Rains",
-    "timestamp": "2025-04-27T00:13:00+02:00"
+    "time": "00:11",
+    "artist": "Cure",
+    "title": "Pictures Of You - Radio",
+    "timestamp": "2025-04-27T00:11:00+02:00"
   },
   {
-    "time": "00:09",
-    "artist": "Courting",
-    "title": "Namcy",
-    "timestamp": "2025-04-27T00:09:00+02:00"
+    "time": "00:07",
+    "artist": "Simple Minds",
+    "title": "Someone Somewhere (in Summertime)",
+    "timestamp": "2025-04-27T00:07:00+02:00"
   },
   {
-    "time": "00:05",
-    "artist": "Oasis",
-    "title": "D'you Know What I Mean",
-    "timestamp": "2025-04-27T00:05:00+02:00"
-  },
-  {
-    "time": "00:01",
-    "artist": "Red Hot Chili Peppers",
-    "title": "Road Trippin'",
-    "timestamp": "2025-04-27T00:01:00+02:00"
+    "time": "00:02",
+    "artist": "Living Colour",
+    "title": "Cult of Personality",
+    "timestamp": "2025-04-27T00:02:00+02:00"
   }
 ]
