@@ -1,338 +1,188 @@
 [
   {
     "time": "Live",
-    "artist": "Oasis",
-    "title": "D'you Know What I Mean",
-    "timestamp": "2025-06-23T10:52:42.515428+02:00"
+    "artist": "R.E.M.",
+    "title": "Drive",
+    "timestamp": "2025-06-23T11:17:47.825658+02:00"
   },
   {
-    "time": "04:44",
-    "artist": "Hozier",
-    "title": "Take Me To Church",
-    "timestamp": "2025-06-23T04:44:00+02:00"
+    "time": "02:14",
+    "artist": "Nxdia",
+    "title": "More!",
+    "timestamp": "2025-06-23T02:14:00+02:00"
   },
   {
-    "time": "04:41",
-    "artist": "Pulp",
-    "title": "Spike Island",
-    "timestamp": "2025-06-23T04:41:00+02:00"
+    "time": "02:11",
+    "artist": "The Kooks",
+    "title": "She Moves In Her Own Way",
+    "timestamp": "2025-06-23T02:11:00+02:00"
   },
   {
-    "time": "04:37",
-    "artist": "Linkin' Park",
-    "title": "Breaking the Habit",
-    "timestamp": "2025-06-23T04:37:00+02:00"
-  },
-  {
-    "time": "04:29",
-    "artist": "Johan",
-    "title": "Oceans",
-    "timestamp": "2025-06-23T04:29:00+02:00"
-  },
-  {
-    "time": "04:25",
-    "artist": "The Prodigy",
-    "title": "Smack My Bitch Up",
-    "timestamp": "2025-06-23T04:25:00+02:00"
-  },
-  {
-    "time": "04:22",
-    "artist": "The Vaccines",
-    "title": "If You Wanna",
-    "timestamp": "2025-06-23T04:22:00+02:00"
-  },
-  {
-    "time": "04:18",
-    "artist": "Talking Heads",
-    "title": "Once in a Lifetime",
-    "timestamp": "2025-06-23T04:18:00+02:00"
-  },
-  {
-    "time": "04:14",
-    "artist": "Volbeat",
-    "title": "Time Will Heal",
-    "timestamp": "2025-06-23T04:14:00+02:00"
-  },
-  {
-    "time": "04:09",
-    "artist": "Blur",
-    "title": "Coffee & TV",
-    "timestamp": "2025-06-23T04:09:00+02:00"
-  },
-  {
-    "time": "04:05",
-    "artist": "Paramore",
-    "title": "Brick By Boring Brick",
-    "timestamp": "2025-06-23T04:05:00+02:00"
-  },
-  {
-    "time": "03:55",
-    "artist": "30 Seconds To Mars",
-    "title": "Kings and Queens",
-    "timestamp": "2025-06-23T03:55:00+02:00"
-  },
-  {
-    "time": "03:52",
-    "artist": "Fontaines D.C.",
-    "title": "It's Amazing To Be Young",
-    "timestamp": "2025-06-23T03:52:00+02:00"
-  },
-  {
-    "time": "03:48",
-    "artist": "AC/DC",
-    "title": "Whole Lotta Rosie",
-    "timestamp": "2025-06-23T03:48:00+02:00"
-  },
-  {
-    "time": "03:43",
-    "artist": "The Fray",
-    "title": "How to Save a Life",
-    "timestamp": "2025-06-23T03:43:00+02:00"
-  },
-  {
-    "time": "03:38",
-    "artist": "Doves",
-    "title": "Cold Dreaming",
-    "timestamp": "2025-06-23T03:38:00+02:00"
-  },
-  {
-    "time": "03:34",
-    "artist": "The Smashing Pumpkins",
-    "title": "Bullet With Butterfly Wings",
-    "timestamp": "2025-06-23T03:34:00+02:00"
-  },
-  {
-    "time": "03:26",
-    "artist": "Prince",
-    "title": "Sign 'o' The Times",
-    "timestamp": "2025-06-23T03:26:00+02:00"
-  },
-  {
-    "time": "03:23",
-    "artist": "Arctic Monkeys",
-    "title": "R U Mine",
-    "timestamp": "2025-06-23T03:23:00+02:00"
-  },
-  {
-    "time": "03:18",
-    "artist": "Snow Patrol",
-    "title": "Chasing Cars",
-    "timestamp": "2025-06-23T03:18:00+02:00"
-  },
-  {
-    "time": "03:15",
-    "artist": "Sam Fender",
-    "title": "Tyrants",
-    "timestamp": "2025-06-23T03:15:00+02:00"
-  },
-  {
-    "time": "03:12",
-    "artist": "Primal Scream",
-    "title": "Rocks",
-    "timestamp": "2025-06-23T03:12:00+02:00"
-  },
-  {
-    "time": "03:07",
-    "artist": "Butthole Surfers",
-    "title": "Pepper",
-    "timestamp": "2025-06-23T03:07:00+02:00"
-  },
-  {
-    "time": "03:04",
-    "artist": "Green Day",
-    "title": "Basket Case",
-    "timestamp": "2025-06-23T03:04:00+02:00"
-  },
-  {
-    "time": "02:54",
-    "artist": "Kt Tunstall",
-    "title": "Suddenly I See",
-    "timestamp": "2025-06-23T02:54:00+02:00"
-  },
-  {
-    "time": "02:48",
-    "artist": "Evanescence",
-    "title": "Afterlife",
-    "timestamp": "2025-06-23T02:48:00+02:00"
-  },
-  {
-    "time": "02:45",
-    "artist": "Pearl Jam",
-    "title": "Daughter",
-    "timestamp": "2025-06-23T02:45:00+02:00"
-  },
-  {
-    "time": "02:40",
-    "artist": "The Haunted Youth",
-    "title": "Into You",
-    "timestamp": "2025-06-23T02:40:00+02:00"
-  },
-  {
-    "time": "02:38",
-    "artist": "Linkin' Park",
-    "title": "One Step Closer",
-    "timestamp": "2025-06-23T02:38:00+02:00"
-  },
-  {
-    "time": "02:28",
-    "artist": "White Lies",
-    "title": "Nothing On Me",
-    "timestamp": "2025-06-23T02:28:00+02:00"
-  },
-  {
-    "time": "02:24",
-    "artist": "Blondie",
-    "title": "Call Me",
-    "timestamp": "2025-06-23T02:24:00+02:00"
-  },
-  {
-    "time": "02:20",
-    "artist": "Elbow",
-    "title": "Grounds for Divorce",
-    "timestamp": "2025-06-23T02:20:00+02:00"
-  },
-  {
-    "time": "02:16",
-    "artist": "Muse",
-    "title": "Unravelling",
-    "timestamp": "2025-06-23T02:16:00+02:00"
-  },
-  {
-    "time": "02:07",
-    "artist": "Radiohead",
-    "title": "Street Spirit (Fade Out)",
-    "timestamp": "2025-06-23T02:07:00+02:00"
+    "time": "02:08",
+    "artist": "Sex Pistols",
+    "title": "Pretty Vacant",
+    "timestamp": "2025-06-23T02:08:00+02:00"
   },
   {
     "time": "02:04",
-    "artist": "Kings Of Leon",
-    "title": "Sex On Fire",
+    "artist": "Nothing But Thieves",
+    "title": "Overcome",
     "timestamp": "2025-06-23T02:04:00+02:00"
   },
   {
-    "time": "01:52",
-    "artist": "Hiqpy",
-    "title": "Red Flag Magician",
-    "timestamp": "2025-06-23T01:52:00+02:00"
+    "time": "01:56",
+    "artist": "Mumford & Sons",
+    "title": "Caroline",
+    "timestamp": "2025-06-23T01:56:00+02:00"
   },
   {
-    "time": "01:47",
-    "artist": "Golden Earring",
-    "title": "When The Lady Smiles",
-    "timestamp": "2025-06-23T01:47:00+02:00"
+    "time": "01:53",
+    "artist": "Joan Jett & The Blackhearts",
+    "title": "I Love Rock 'n Roll",
+    "timestamp": "2025-06-23T01:53:00+02:00"
+  },
+  {
+    "time": "01:49",
+    "artist": "Oasis",
+    "title": "D'you Know What I Mean",
+    "timestamp": "2025-06-23T01:49:00+02:00"
+  },
+  {
+    "time": "01:44",
+    "artist": "Hozier",
+    "title": "Take Me To Church",
+    "timestamp": "2025-06-23T01:44:00+02:00"
   },
   {
     "time": "01:41",
-    "artist": "Eels",
-    "title": "Mr. E's Beautiful Blues",
+    "artist": "Pulp",
+    "title": "Spike Island",
     "timestamp": "2025-06-23T01:41:00+02:00"
   },
   {
-    "time": "01:36",
-    "artist": "The Vices",
-    "title": "Shaking Shoulder",
-    "timestamp": "2025-06-23T01:36:00+02:00"
+    "time": "01:37",
+    "artist": "Linkin' Park",
+    "title": "Breaking the Habit",
+    "timestamp": "2025-06-23T01:37:00+02:00"
   },
   {
-    "time": "01:32",
-    "artist": "Oasis",
-    "title": "Wonderwall",
-    "timestamp": "2025-06-23T01:32:00+02:00"
+    "time": "01:29",
+    "artist": "Johan",
+    "title": "Oceans",
+    "timestamp": "2025-06-23T01:29:00+02:00"
   },
   {
-    "time": "01:21",
-    "artist": "Editors",
-    "title": "Papillon",
-    "timestamp": "2025-06-23T01:21:00+02:00"
+    "time": "01:25",
+    "artist": "The Prodigy",
+    "title": "Smack My Bitch Up",
+    "timestamp": "2025-06-23T01:25:00+02:00"
+  },
+  {
+    "time": "01:22",
+    "artist": "The Vaccines",
+    "title": "If You Wanna",
+    "timestamp": "2025-06-23T01:22:00+02:00"
   },
   {
     "time": "01:18",
-    "artist": "The Wombats",
-    "title": "Backfire At the Disco",
+    "artist": "Talking Heads",
+    "title": "Once in a Lifetime",
     "timestamp": "2025-06-23T01:18:00+02:00"
   },
   {
-    "time": "01:12",
-    "artist": "Yungblud",
-    "title": "Zombie",
-    "timestamp": "2025-06-23T01:12:00+02:00"
+    "time": "01:14",
+    "artist": "Volbeat",
+    "title": "Time Will Heal",
+    "timestamp": "2025-06-23T01:14:00+02:00"
+  },
+  {
+    "time": "01:09",
+    "artist": "Blur",
+    "title": "Coffee & TV",
+    "timestamp": "2025-06-23T01:09:00+02:00"
   },
   {
     "time": "01:05",
-    "artist": "The Pretenders",
-    "title": "Don't Get Me Wrong",
+    "artist": "Paramore",
+    "title": "Brick By Boring Brick",
     "timestamp": "2025-06-23T01:05:00+02:00"
   },
   {
-    "time": "01:02",
-    "artist": "Nothing But Thieves",
-    "title": "Trip Switch",
-    "timestamp": "2025-06-23T01:02:00+02:00"
+    "time": "00:55",
+    "artist": "30 Seconds To Mars",
+    "title": "Kings and Queens",
+    "timestamp": "2025-06-23T00:55:00+02:00"
   },
   {
     "time": "00:52",
-    "artist": "R.E.M.",
-    "title": "Shiny Happy People",
+    "artist": "Fontaines D.C.",
+    "title": "It's Amazing To Be Young",
     "timestamp": "2025-06-23T00:52:00+02:00"
   },
   {
-    "time": "00:47",
-    "artist": "Foo Fighters",
-    "title": "Rescued",
-    "timestamp": "2025-06-23T00:47:00+02:00"
+    "time": "00:48",
+    "artist": "AC/DC",
+    "title": "Whole Lotta Rosie",
+    "timestamp": "2025-06-23T00:48:00+02:00"
   },
   {
-    "time": "00:44",
-    "artist": "Gorillaz",
-    "title": "19 2000 (Soulchild Remix)",
-    "timestamp": "2025-06-23T00:44:00+02:00"
+    "time": "00:43",
+    "artist": "The Fray",
+    "title": "How to Save a Life",
+    "timestamp": "2025-06-23T00:43:00+02:00"
   },
   {
-    "time": "00:39",
-    "artist": "DeWolff",
-    "title": "Natural Woman",
-    "timestamp": "2025-06-23T00:39:00+02:00"
+    "time": "00:38",
+    "artist": "Doves",
+    "title": "Cold Dreaming",
+    "timestamp": "2025-06-23T00:38:00+02:00"
   },
   {
     "time": "00:34",
-    "artist": "Guns N' Roses",
-    "title": "You Could Be Mine",
+    "artist": "The Smashing Pumpkins",
+    "title": "Bullet With Butterfly Wings",
     "timestamp": "2025-06-23T00:34:00+02:00"
   },
   {
-    "time": "00:24",
-    "artist": "The Kooks",
-    "title": "Do You Wanna",
-    "timestamp": "2025-06-23T00:24:00+02:00"
+    "time": "00:26",
+    "artist": "Prince",
+    "title": "Sign 'o' The Times",
+    "timestamp": "2025-06-23T00:26:00+02:00"
   },
   {
-    "time": "00:21",
-    "artist": "Two Door Cinema Club",
-    "title": "What You Know",
-    "timestamp": "2025-06-23T00:21:00+02:00"
+    "time": "00:23",
+    "artist": "Arctic Monkeys",
+    "title": "R U Mine",
+    "timestamp": "2025-06-23T00:23:00+02:00"
   },
   {
-    "time": "00:17",
-    "artist": "Chumbawamba",
-    "title": "Tubthumping",
-    "timestamp": "2025-06-23T00:17:00+02:00"
+    "time": "00:18",
+    "artist": "Snow Patrol",
+    "title": "Chasing Cars",
+    "timestamp": "2025-06-23T00:18:00+02:00"
   },
   {
-    "time": "00:13",
-    "artist": "Biffy Clyro",
-    "title": "A Little Love",
-    "timestamp": "2025-06-23T00:13:00+02:00"
+    "time": "00:15",
+    "artist": "Sam Fender",
+    "title": "Tyrants",
+    "timestamp": "2025-06-23T00:15:00+02:00"
+  },
+  {
+    "time": "00:12",
+    "artist": "Primal Scream",
+    "title": "Rocks",
+    "timestamp": "2025-06-23T00:12:00+02:00"
   },
   {
     "time": "00:07",
-    "artist": "Moby",
-    "title": "Natural Blues",
+    "artist": "Butthole Surfers",
+    "title": "Pepper",
     "timestamp": "2025-06-23T00:07:00+02:00"
   },
   {
-    "time": "00:03",
-    "artist": "Franz Ferdinand",
-    "title": "This Fire",
-    "timestamp": "2025-06-23T00:03:00+02:00"
+    "time": "00:04",
+    "artist": "Green Day",
+    "title": "Basket Case",
+    "timestamp": "2025-06-23T00:04:00+02:00"
   }
 ]
