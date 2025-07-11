@@ -1,368 +1,326 @@
 [
   {
     "time": "Live",
+    "artist": "Moke",
+    "title": "Last Chance",
+    "timestamp": "2025-07-11T15:59:10.031495+02:00"
+  },
+  {
+    "time": "08:49",
+    "artist": "Paolo Nutini",
+    "title": "Through The Echoes",
+    "timestamp": "2025-07-11T08:49:00+02:00"
+  },
+  {
+    "time": "08:43",
     "artist": "Paolo Nutini",
     "title": "Shine A Light",
-    "timestamp": "2025-07-11T15:48:42.346586+02:00"
+    "timestamp": "2025-07-11T08:43:00+02:00"
   },
   {
-    "time": "09:38",
+    "time": "08:38",
     "artist": "Pearl Jam",
     "title": "Thumbing My Way",
-    "timestamp": "2025-07-11T09:38:00+02:00"
+    "timestamp": "2025-07-11T08:38:00+02:00"
   },
   {
-    "time": "09:35",
+    "time": "08:35",
     "artist": "Pearl Jam",
     "title": "I Am Mine",
-    "timestamp": "2025-07-11T09:35:00+02:00"
+    "timestamp": "2025-07-11T08:35:00+02:00"
   },
   {
-    "time": "09:31",
+    "time": "08:31",
     "artist": "The Cure",
     "title": "Friday I'm In Love",
-    "timestamp": "2025-07-11T09:31:00+02:00"
+    "timestamp": "2025-07-11T08:31:00+02:00"
   },
   {
-    "time": "09:23",
+    "time": "08:23",
     "artist": "Cure",
     "title": "A Letter To Elise",
-    "timestamp": "2025-07-11T09:23:00+02:00"
+    "timestamp": "2025-07-11T08:23:00+02:00"
   },
   {
-    "time": "09:19",
+    "time": "08:19",
     "artist": "Incubus",
     "title": "Love Hurts",
-    "timestamp": "2025-07-11T09:19:00+02:00"
+    "timestamp": "2025-07-11T08:19:00+02:00"
   },
   {
-    "time": "09:15",
+    "time": "08:15",
     "artist": "Incubus",
     "title": "Anna-Molly",
-    "timestamp": "2025-07-11T09:15:00+02:00"
+    "timestamp": "2025-07-11T08:15:00+02:00"
   },
   {
-    "time": "09:12",
+    "time": "08:12",
     "artist": "Boygenius",
     "title": "$20",
-    "timestamp": "2025-07-11T09:12:00+02:00"
+    "timestamp": "2025-07-11T08:12:00+02:00"
   },
   {
-    "time": "09:08",
+    "time": "08:08",
     "artist": "Boygenius",
     "title": "Not Strong Enough",
-    "timestamp": "2025-07-11T09:08:00+02:00"
+    "timestamp": "2025-07-11T08:08:00+02:00"
   },
   {
-    "time": "09:05",
+    "time": "08:05",
     "artist": "Madness",
     "title": "One Step Beyond",
-    "timestamp": "2025-07-11T09:05:00+02:00"
+    "timestamp": "2025-07-11T08:05:00+02:00"
   },
   {
-    "time": "09:02",
+    "time": "08:02",
     "artist": "Madness",
     "title": "Night Boat to Cairo",
-    "timestamp": "2025-07-11T09:02:00+02:00"
-  },
-  {
-    "time": "05:53",
-    "artist": "De Staat",
-    "title": "I'll Never Marry You",
-    "timestamp": "2025-07-11T05:53:00+02:00"
-  },
-  {
-    "time": "05:49",
-    "artist": "De Staat",
-    "title": "Sweatshop",
-    "timestamp": "2025-07-11T05:49:00+02:00"
-  },
-  {
-    "time": "05:46",
-    "artist": "Weezer",
-    "title": "Island in the Sun",
-    "timestamp": "2025-07-11T05:46:00+02:00"
-  },
-  {
-    "time": "05:43",
-    "artist": "Weezer",
-    "title": "Hash Pipe",
-    "timestamp": "2025-07-11T05:43:00+02:00"
-  },
-  {
-    "time": "05:39",
-    "artist": "Wolf Alice",
-    "title": "Bros",
-    "timestamp": "2025-07-11T05:39:00+02:00"
-  },
-  {
-    "time": "05:35",
-    "artist": "Wolf Alice",
-    "title": "Freazy",
-    "timestamp": "2025-07-11T05:35:00+02:00"
-  },
-  {
-    "time": "05:31",
-    "artist": "Duran Duran",
-    "title": "Hungry Like The Wolf",
-    "timestamp": "2025-07-11T05:31:00+02:00"
-  },
-  {
-    "time": "05:28",
-    "artist": "Duran Duran",
-    "title": "Save A Prayer",
-    "timestamp": "2025-07-11T05:28:00+02:00"
-  },
-  {
-    "time": "05:22",
-    "artist": "Death Cab For Cutie",
-    "title": "I Will Follow You Into The Dark",
-    "timestamp": "2025-07-11T05:22:00+02:00"
-  },
-  {
-    "time": "05:19",
-    "artist": "Death Cab For Cutie",
-    "title": "Soul Meets Body",
-    "timestamp": "2025-07-11T05:19:00+02:00"
-  },
-  {
-    "time": "05:16",
-    "artist": "The Murder Capital",
-    "title": "Don't Cling To Life",
-    "timestamp": "2025-07-11T05:16:00+02:00"
-  },
-  {
-    "time": "05:13",
-    "artist": "Murder Capital",
-    "title": "More Is Less",
-    "timestamp": "2025-07-11T05:13:00+02:00"
-  },
-  {
-    "time": "05:09",
-    "artist": "Faithless",
-    "title": "God Is A DJ",
-    "timestamp": "2025-07-11T05:09:00+02:00"
-  },
-  {
-    "time": "05:05",
-    "artist": "Faithless",
-    "title": "Bring My Family Back",
-    "timestamp": "2025-07-11T05:05:00+02:00"
-  },
-  {
-    "time": "05:01",
-    "artist": "The Wombats",
-    "title": "Tokyo (Vampires & Wolves)",
-    "timestamp": "2025-07-11T05:01:00+02:00"
+    "timestamp": "2025-07-11T08:02:00+02:00"
   },
   {
     "time": "04:53",
-    "artist": "Wombats",
-    "title": "Jump Into The Fog",
+    "artist": "De Staat",
+    "title": "I'll Never Marry You",
     "timestamp": "2025-07-11T04:53:00+02:00"
   },
   {
     "time": "04:49",
-    "artist": "Zz Top",
-    "title": "Sharp Dressed Man",
+    "artist": "De Staat",
+    "title": "Sweatshop",
     "timestamp": "2025-07-11T04:49:00+02:00"
   },
   {
     "time": "04:46",
-    "artist": "Zz Top",
-    "title": "Gimme All Your Lovin'",
+    "artist": "Weezer",
+    "title": "Island in the Sun",
     "timestamp": "2025-07-11T04:46:00+02:00"
   },
   {
-    "time": "04:42",
-    "artist": "Paolo Nutini",
-    "title": "Jenny Don't Be Hasty",
-    "timestamp": "2025-07-11T04:42:00+02:00"
+    "time": "04:43",
+    "artist": "Weezer",
+    "title": "Hash Pipe",
+    "timestamp": "2025-07-11T04:43:00+02:00"
   },
   {
     "time": "04:39",
-    "artist": "Paolo Nutini",
-    "title": "New Shoes",
+    "artist": "Wolf Alice",
+    "title": "Bros",
     "timestamp": "2025-07-11T04:39:00+02:00"
   },
   {
     "time": "04:35",
-    "artist": "Agnes Obel",
-    "title": "Just So",
+    "artist": "Wolf Alice",
+    "title": "Freazy",
     "timestamp": "2025-07-11T04:35:00+02:00"
   },
   {
-    "time": "04:32",
-    "artist": "Agnes Obel",
-    "title": "Riverside",
-    "timestamp": "2025-07-11T04:32:00+02:00"
+    "time": "04:31",
+    "artist": "Duran Duran",
+    "title": "Hungry Like The Wolf",
+    "timestamp": "2025-07-11T04:31:00+02:00"
   },
   {
-    "time": "04:24",
-    "artist": "R.E.M.",
-    "title": "It's The End Of The World As We Know It (And I Feel Fine)",
-    "timestamp": "2025-07-11T04:24:00+02:00"
+    "time": "04:28",
+    "artist": "Duran Duran",
+    "title": "Save A Prayer",
+    "timestamp": "2025-07-11T04:28:00+02:00"
   },
   {
-    "time": "04:21",
-    "artist": "R.E.M.",
-    "title": "The One I Love",
-    "timestamp": "2025-07-11T04:21:00+02:00"
+    "time": "04:22",
+    "artist": "Death Cab For Cutie",
+    "title": "I Will Follow You Into The Dark",
+    "timestamp": "2025-07-11T04:22:00+02:00"
   },
   {
-    "time": "04:18",
-    "artist": "Arctic Monkeys",
-    "title": "Brick by Brick",
-    "timestamp": "2025-07-11T04:18:00+02:00"
+    "time": "04:19",
+    "artist": "Death Cab For Cutie",
+    "title": "Soul Meets Body",
+    "timestamp": "2025-07-11T04:19:00+02:00"
   },
   {
-    "time": "04:15",
-    "artist": "Arctic Monkeys",
-    "title": "Don't Sit Down 'Cause I've Moved Your Chair",
-    "timestamp": "2025-07-11T04:15:00+02:00"
+    "time": "04:16",
+    "artist": "The Murder Capital",
+    "title": "Don't Cling To Life",
+    "timestamp": "2025-07-11T04:16:00+02:00"
   },
   {
-    "time": "04:10",
-    "artist": "dEUS",
-    "title": "Nothing Really Ends",
-    "timestamp": "2025-07-11T04:10:00+02:00"
+    "time": "04:13",
+    "artist": "Murder Capital",
+    "title": "More Is Less",
+    "timestamp": "2025-07-11T04:13:00+02:00"
   },
   {
-    "time": "04:06",
-    "artist": "Deus",
-    "title": "7 Days, 7 Weeks",
-    "timestamp": "2025-07-11T04:06:00+02:00"
+    "time": "04:09",
+    "artist": "Faithless",
+    "title": "God Is A DJ",
+    "timestamp": "2025-07-11T04:09:00+02:00"
   },
   {
-    "time": "04:02",
-    "artist": "The Cranberries",
-    "title": "Promises",
-    "timestamp": "2025-07-11T04:02:00+02:00"
+    "time": "04:05",
+    "artist": "Faithless",
+    "title": "Bring My Family Back",
+    "timestamp": "2025-07-11T04:05:00+02:00"
   },
   {
-    "time": "03:54",
-    "artist": "The Cranberries",
-    "title": "Animal Instinct",
-    "timestamp": "2025-07-11T03:54:00+02:00"
+    "time": "04:01",
+    "artist": "The Wombats",
+    "title": "Tokyo (Vampires & Wolves)",
+    "timestamp": "2025-07-11T04:01:00+02:00"
   },
   {
-    "time": "03:50",
-    "artist": "Joe Jackson",
-    "title": "Steppin' Out",
-    "timestamp": "2025-07-11T03:50:00+02:00"
+    "time": "03:53",
+    "artist": "Wombats",
+    "title": "Jump Into The Fog",
+    "timestamp": "2025-07-11T03:53:00+02:00"
+  },
+  {
+    "time": "03:49",
+    "artist": "Zz Top",
+    "title": "Sharp Dressed Man",
+    "timestamp": "2025-07-11T03:49:00+02:00"
   },
   {
     "time": "03:46",
-    "artist": "Joe Jackson",
-    "title": "Real Men",
+    "artist": "Zz Top",
+    "title": "Gimme All Your Lovin'",
     "timestamp": "2025-07-11T03:46:00+02:00"
   },
   {
-    "time": "03:41",
+    "time": "03:42",
+    "artist": "Paolo Nutini",
+    "title": "Jenny Don't Be Hasty",
+    "timestamp": "2025-07-11T03:42:00+02:00"
+  },
+  {
+    "time": "03:39",
+    "artist": "Paolo Nutini",
+    "title": "New Shoes",
+    "timestamp": "2025-07-11T03:39:00+02:00"
+  },
+  {
+    "time": "03:35",
+    "artist": "Agnes Obel",
+    "title": "Just So",
+    "timestamp": "2025-07-11T03:35:00+02:00"
+  },
+  {
+    "time": "03:32",
+    "artist": "Agnes Obel",
+    "title": "Riverside",
+    "timestamp": "2025-07-11T03:32:00+02:00"
+  },
+  {
+    "time": "03:24",
+    "artist": "R.E.M.",
+    "title": "It's The End Of The World As We Know It (And I Feel Fine)",
+    "timestamp": "2025-07-11T03:24:00+02:00"
+  },
+  {
+    "time": "03:21",
+    "artist": "R.E.M.",
+    "title": "The One I Love",
+    "timestamp": "2025-07-11T03:21:00+02:00"
+  },
+  {
+    "time": "03:18",
+    "artist": "Arctic Monkeys",
+    "title": "Brick by Brick",
+    "timestamp": "2025-07-11T03:18:00+02:00"
+  },
+  {
+    "time": "03:15",
+    "artist": "Arctic Monkeys",
+    "title": "Don't Sit Down 'Cause I've Moved Your Chair",
+    "timestamp": "2025-07-11T03:15:00+02:00"
+  },
+  {
+    "time": "03:10",
+    "artist": "dEUS",
+    "title": "Nothing Really Ends",
+    "timestamp": "2025-07-11T03:10:00+02:00"
+  },
+  {
+    "time": "03:06",
+    "artist": "Deus",
+    "title": "7 Days, 7 Weeks",
+    "timestamp": "2025-07-11T03:06:00+02:00"
+  },
+  {
+    "time": "03:02",
+    "artist": "The Cranberries",
+    "title": "Promises",
+    "timestamp": "2025-07-11T03:02:00+02:00"
+  },
+  {
+    "time": "02:54",
+    "artist": "The Cranberries",
+    "title": "Animal Instinct",
+    "timestamp": "2025-07-11T02:54:00+02:00"
+  },
+  {
+    "time": "02:50",
+    "artist": "Joe Jackson",
+    "title": "Steppin' Out",
+    "timestamp": "2025-07-11T02:50:00+02:00"
+  },
+  {
+    "time": "02:46",
+    "artist": "Joe Jackson",
+    "title": "Real Men",
+    "timestamp": "2025-07-11T02:46:00+02:00"
+  },
+  {
+    "time": "02:41",
     "artist": "Foals",
     "title": "2001",
-    "timestamp": "2025-07-11T03:41:00+02:00"
+    "timestamp": "2025-07-11T02:41:00+02:00"
   },
   {
-    "time": "03:37",
+    "time": "02:37",
     "artist": "Foals",
     "title": "2AM",
-    "timestamp": "2025-07-11T03:37:00+02:00"
+    "timestamp": "2025-07-11T02:37:00+02:00"
   },
   {
-    "time": "03:33",
+    "time": "02:33",
     "artist": "The Cardigans",
     "title": "My Favourite Game",
-    "timestamp": "2025-07-11T03:33:00+02:00"
+    "timestamp": "2025-07-11T02:33:00+02:00"
   },
   {
-    "time": "03:26",
+    "time": "02:26",
     "artist": "The Cardigans",
     "title": "Erase & Rewind",
-    "timestamp": "2025-07-11T03:26:00+02:00"
+    "timestamp": "2025-07-11T02:26:00+02:00"
   },
   {
-    "time": "03:20",
+    "time": "02:20",
     "artist": "Liam Gallagher & John Squire",
     "title": "Just Another Rainbow",
-    "timestamp": "2025-07-11T03:20:00+02:00"
+    "timestamp": "2025-07-11T02:20:00+02:00"
   },
   {
-    "time": "03:16",
+    "time": "02:16",
     "artist": "Liam Gallagher & John Squire",
     "title": "Mars To Liverpool",
-    "timestamp": "2025-07-11T03:16:00+02:00"
+    "timestamp": "2025-07-11T02:16:00+02:00"
   },
   {
-    "time": "03:12",
+    "time": "02:12",
     "artist": "Gossip",
     "title": "Heavy Cross",
-    "timestamp": "2025-07-11T03:12:00+02:00"
+    "timestamp": "2025-07-11T02:12:00+02:00"
   },
   {
-    "time": "03:08",
+    "time": "02:08",
     "artist": "Gossip",
     "title": "Love Long Distance",
-    "timestamp": "2025-07-11T03:08:00+02:00"
+    "timestamp": "2025-07-11T02:08:00+02:00"
   },
   {
-    "time": "03:03",
+    "time": "02:03",
     "artist": "Screaming Trees",
     "title": "Nearly Lost You",
-    "timestamp": "2025-07-11T03:03:00+02:00"
-  },
-  {
-    "time": "00:41",
-    "artist": "White Lies",
-    "title": "Nothing On Me",
-    "timestamp": "2025-07-11T00:41:00+02:00"
-  },
-  {
-    "time": "00:37",
-    "artist": "Live",
-    "title": "All Over You",
-    "timestamp": "2025-07-11T00:37:00+02:00"
-  },
-  {
-    "time": "00:28",
-    "artist": "Kaiser Chiefs",
-    "title": "Modern Way",
-    "timestamp": "2025-07-11T00:28:00+02:00"
-  },
-  {
-    "time": "00:25",
-    "artist": "Depeche Mode",
-    "title": "Personal Jesus",
-    "timestamp": "2025-07-11T00:25:00+02:00"
-  },
-  {
-    "time": "00:22",
-    "artist": "The Vaccines",
-    "title": "If You Wanna",
-    "timestamp": "2025-07-11T00:22:00+02:00"
-  },
-  {
-    "time": "00:16",
-    "artist": "The Black Crowes",
-    "title": "Jealous Again",
-    "timestamp": "2025-07-11T00:16:00+02:00"
-  },
-  {
-    "time": "00:12",
-    "artist": "Evanescence",
-    "title": "Afterlife",
-    "timestamp": "2025-07-11T00:12:00+02:00"
-  },
-  {
-    "time": "00:07",
-    "artist": "Deep Blue Something",
-    "title": "Breakfast At Tiffany's",
-    "timestamp": "2025-07-11T00:07:00+02:00"
-  },
-  {
-    "time": "00:04",
-    "artist": "Elbow",
-    "title": "One Day Like This",
-    "timestamp": "2025-07-11T00:04:00+02:00"
+    "timestamp": "2025-07-11T02:03:00+02:00"
   }
 ]
