@@ -1,368 +1,260 @@
 [
   {
     "time": "Live",
+    "artist": "Foo Fighters",
+    "title": "Today's Song",
+    "timestamp": "2025-08-22T12:13:55.761980+02:00"
+  },
+  {
+    "time": "03:06",
+    "artist": "Simple Minds",
+    "title": "Waterfront",
+    "timestamp": "2025-08-22T03:06:00+02:00"
+  },
+  {
+    "time": "03:02",
+    "artist": "The White Stripes",
+    "title": "Seven Nation Army",
+    "timestamp": "2025-08-22T03:02:00+02:00"
+  },
+  {
+    "time": "02:54",
+    "artist": "Sombr",
+    "title": "Undressed",
+    "timestamp": "2025-08-22T02:54:00+02:00"
+  },
+  {
+    "time": "02:50",
     "artist": "Faith No More",
     "title": "Midlife Crisis",
-    "timestamp": "2025-08-22T11:52:16.537627+02:00"
+    "timestamp": "2025-08-22T02:50:00+02:00"
   },
   {
-    "time": "04:47",
+    "time": "02:47",
     "artist": "Faith No More",
     "title": "Easy",
-    "timestamp": "2025-08-22T04:47:00+02:00"
+    "timestamp": "2025-08-22T02:47:00+02:00"
   },
   {
-    "time": "04:43",
+    "time": "02:43",
     "artist": "Supergrass",
     "title": "Alright",
-    "timestamp": "2025-08-22T04:43:00+02:00"
+    "timestamp": "2025-08-22T02:43:00+02:00"
   },
   {
-    "time": "04:39",
+    "time": "02:39",
     "artist": "White Lies",
     "title": "In The Middle",
-    "timestamp": "2025-08-22T04:39:00+02:00"
+    "timestamp": "2025-08-22T02:39:00+02:00"
   },
   {
-    "time": "04:34",
+    "time": "02:34",
     "artist": "Green Day",
     "title": "21 Guns",
-    "timestamp": "2025-08-22T04:34:00+02:00"
+    "timestamp": "2025-08-22T02:34:00+02:00"
   },
   {
-    "time": "04:26",
+    "time": "02:26",
     "artist": "Skunk Anansie",
     "title": "Secretly",
-    "timestamp": "2025-08-22T04:26:00+02:00"
+    "timestamp": "2025-08-22T02:26:00+02:00"
   },
   {
-    "time": "04:22",
+    "time": "02:22",
     "artist": "Son Mieux",
     "title": "Drive",
-    "timestamp": "2025-08-22T04:22:00+02:00"
+    "timestamp": "2025-08-22T02:22:00+02:00"
   },
   {
-    "time": "04:18",
+    "time": "02:18",
     "artist": "Iron Maiden",
     "title": "Run To The Hills",
-    "timestamp": "2025-08-22T04:18:00+02:00"
+    "timestamp": "2025-08-22T02:18:00+02:00"
   },
   {
-    "time": "04:15",
+    "time": "02:15",
     "artist": "The Zutons",
     "title": "Valerie",
-    "timestamp": "2025-08-22T04:15:00+02:00"
+    "timestamp": "2025-08-22T02:15:00+02:00"
   },
   {
-    "time": "04:11",
+    "time": "02:11",
     "artist": "Tom Petty and the Heartbreakers",
     "title": "Into the Great Wide Open",
-    "timestamp": "2025-08-22T04:11:00+02:00"
-  },
-  {
-    "time": "04:07",
-    "artist": "Queen's Pleasure",
-    "title": "Eva",
-    "timestamp": "2025-08-22T04:07:00+02:00"
-  },
-  {
-    "time": "04:03",
-    "artist": "The Smiths",
-    "title": "There Is A Light That Never Goes Out",
-    "timestamp": "2025-08-22T04:03:00+02:00"
-  },
-  {
-    "time": "03:56",
-    "artist": "Counting Crows",
-    "title": "Accidentally In Love",
-    "timestamp": "2025-08-22T03:56:00+02:00"
-  },
-  {
-    "time": "03:52",
-    "artist": "Hayley Williams",
-    "title": "Mirtazapine",
-    "timestamp": "2025-08-22T03:52:00+02:00"
-  },
-  {
-    "time": "03:48",
-    "artist": "Within Temptation",
-    "title": "Stand My Ground",
-    "timestamp": "2025-08-22T03:48:00+02:00"
-  },
-  {
-    "time": "03:45",
-    "artist": "Blur",
-    "title": "Parklife",
-    "timestamp": "2025-08-22T03:45:00+02:00"
-  },
-  {
-    "time": "03:40",
-    "artist": "Lenny Kravitz",
-    "title": "Mr Cab Driver",
-    "timestamp": "2025-08-22T03:40:00+02:00"
-  },
-  {
-    "time": "03:36",
-    "artist": "Sam Fender",
-    "title": "Hypersonic Missiles",
-    "timestamp": "2025-08-22T03:36:00+02:00"
-  },
-  {
-    "time": "03:32",
-    "artist": "R.E.M.",
-    "title": "Nightswimming",
-    "timestamp": "2025-08-22T03:32:00+02:00"
-  },
-  {
-    "time": "03:26",
-    "artist": "PEER",
-    "title": "I Want It",
-    "timestamp": "2025-08-22T03:26:00+02:00"
-  },
-  {
-    "time": "03:22",
-    "artist": "Red Hot Chili Peppers",
-    "title": "Tell Me Baby",
-    "timestamp": "2025-08-22T03:22:00+02:00"
-  },
-  {
-    "time": "03:18",
-    "artist": "Queen & David Bowie",
-    "title": "Under Pressure",
-    "timestamp": "2025-08-22T03:18:00+02:00"
-  },
-  {
-    "time": "03:14",
-    "artist": "Muse",
-    "title": "Unravelling",
-    "timestamp": "2025-08-22T03:14:00+02:00"
-  },
-  {
-    "time": "03:09",
-    "artist": "U2",
-    "title": "Who's Gonna Ride Your Wild Horses",
-    "timestamp": "2025-08-22T03:09:00+02:00"
-  },
-  {
-    "time": "03:05",
-    "artist": "The Naked & Famous",
-    "title": "Punching in a Dream",
-    "timestamp": "2025-08-22T03:05:00+02:00"
-  },
-  {
-    "time": "03:03",
-    "artist": "Blink-182",
-    "title": "All The Small Things",
-    "timestamp": "2025-08-22T03:03:00+02:00"
-  },
-  {
-    "time": "02:53",
-    "artist": "Eddie Vedder",
-    "title": "Hard Sun",
-    "timestamp": "2025-08-22T02:53:00+02:00"
-  },
-  {
-    "time": "02:49",
-    "artist": "Volbeat",
-    "title": "Time Will Heal",
-    "timestamp": "2025-08-22T02:49:00+02:00"
-  },
-  {
-    "time": "02:45",
-    "artist": "The Cult",
-    "title": "She Sells Sanctuary",
-    "timestamp": "2025-08-22T02:45:00+02:00"
-  },
-  {
-    "time": "02:40",
-    "artist": "Coldplay",
-    "title": "Speed of Sound",
-    "timestamp": "2025-08-22T02:40:00+02:00"
-  },
-  {
-    "time": "02:37",
-    "artist": "Wunderhorse",
-    "title": "The Rope",
-    "timestamp": "2025-08-22T02:37:00+02:00"
-  },
-  {
-    "time": "02:33",
-    "artist": "Alanis Morissette",
-    "title": "Head Over Feet",
-    "timestamp": "2025-08-22T02:33:00+02:00"
-  },
-  {
-    "time": "02:25",
-    "artist": "The Who",
-    "title": "Pinball Wizard",
-    "timestamp": "2025-08-22T02:25:00+02:00"
-  },
-  {
-    "time": "02:21",
-    "artist": "The War On Drugs",
-    "title": "Red Eyes",
-    "timestamp": "2025-08-22T02:21:00+02:00"
-  },
-  {
-    "time": "02:16",
-    "artist": "Live",
-    "title": "Run To The Water",
-    "timestamp": "2025-08-22T02:16:00+02:00"
-  },
-  {
-    "time": "02:13",
-    "artist": "Last Dinner Party, The",
-    "title": "This Is The Killer Speaking",
-    "timestamp": "2025-08-22T02:13:00+02:00"
-  },
-  {
-    "time": "02:10",
-    "artist": "The Presidents of The USA",
-    "title": "Lump",
-    "timestamp": "2025-08-22T02:10:00+02:00"
+    "timestamp": "2025-08-22T02:11:00+02:00"
   },
   {
     "time": "02:07",
-    "artist": "Sugar Ray",
-    "title": "Every Morning",
+    "artist": "Queen's Pleasure",
+    "title": "Eva",
     "timestamp": "2025-08-22T02:07:00+02:00"
   },
   {
-    "time": "02:04",
-    "artist": "Weezer",
-    "title": "Buddy Holly",
-    "timestamp": "2025-08-22T02:04:00+02:00"
+    "time": "02:03",
+    "artist": "The Smiths",
+    "title": "There Is A Light That Never Goes Out",
+    "timestamp": "2025-08-22T02:03:00+02:00"
   },
   {
     "time": "01:56",
-    "artist": "Tori Amos",
-    "title": "Cornflake Girl",
+    "artist": "Counting Crows",
+    "title": "Accidentally In Love",
     "timestamp": "2025-08-22T01:56:00+02:00"
   },
   {
-    "time": "01:50",
-    "artist": "DeWolff",
-    "title": "Natural Woman",
-    "timestamp": "2025-08-22T01:50:00+02:00"
+    "time": "01:52",
+    "artist": "Hayley Williams",
+    "title": "Mirtazapine",
+    "timestamp": "2025-08-22T01:52:00+02:00"
   },
   {
-    "time": "01:46",
-    "artist": "The Smashing Pumpkins",
-    "title": "Bullet With Butterfly Wings",
-    "timestamp": "2025-08-22T01:46:00+02:00"
+    "time": "01:48",
+    "artist": "Within Temptation",
+    "title": "Stand My Ground",
+    "timestamp": "2025-08-22T01:48:00+02:00"
   },
   {
-    "time": "01:42",
-    "artist": "Hoobastank",
-    "title": "The Reason",
-    "timestamp": "2025-08-22T01:42:00+02:00"
+    "time": "01:45",
+    "artist": "Blur",
+    "title": "Parklife",
+    "timestamp": "2025-08-22T01:45:00+02:00"
   },
   {
-    "time": "01:37",
-    "artist": "Hiqpy",
-    "title": "Red Flag Magician",
-    "timestamp": "2025-08-22T01:37:00+02:00"
+    "time": "01:40",
+    "artist": "Lenny Kravitz",
+    "title": "Mr Cab Driver",
+    "timestamp": "2025-08-22T01:40:00+02:00"
   },
   {
-    "time": "01:33",
-    "artist": "AC/DC",
-    "title": "You Shook Me All Night Long",
-    "timestamp": "2025-08-22T01:33:00+02:00"
+    "time": "01:36",
+    "artist": "Sam Fender",
+    "title": "Hypersonic Missiles",
+    "timestamp": "2025-08-22T01:36:00+02:00"
   },
   {
-    "time": "01:25",
-    "artist": "Foster The People",
-    "title": "Pumped Up Kicks",
-    "timestamp": "2025-08-22T01:25:00+02:00"
+    "time": "01:32",
+    "artist": "R.E.M.",
+    "title": "Nightswimming",
+    "timestamp": "2025-08-22T01:32:00+02:00"
   },
   {
-    "time": "01:21",
-    "artist": "Suede",
-    "title": "Trash",
-    "timestamp": "2025-08-22T01:21:00+02:00"
+    "time": "01:26",
+    "artist": "PEER",
+    "title": "I Want It",
+    "timestamp": "2025-08-22T01:26:00+02:00"
+  },
+  {
+    "time": "01:22",
+    "artist": "Red Hot Chili Peppers",
+    "title": "Tell Me Baby",
+    "timestamp": "2025-08-22T01:22:00+02:00"
   },
   {
     "time": "01:18",
-    "artist": "Turnstile",
-    "title": "Seein' Stars",
+    "artist": "Queen & David Bowie",
+    "title": "Under Pressure",
     "timestamp": "2025-08-22T01:18:00+02:00"
   },
   {
-    "time": "01:07",
-    "artist": "Electric Light Orchestra",
-    "title": "Mr Blue Sky",
-    "timestamp": "2025-08-22T01:07:00+02:00"
+    "time": "01:14",
+    "artist": "Muse",
+    "title": "Unravelling",
+    "timestamp": "2025-08-22T01:14:00+02:00"
+  },
+  {
+    "time": "01:09",
+    "artist": "U2",
+    "title": "Who's Gonna Ride Your Wild Horses",
+    "timestamp": "2025-08-22T01:09:00+02:00"
+  },
+  {
+    "time": "01:05",
+    "artist": "The Naked & Famous",
+    "title": "Punching in a Dream",
+    "timestamp": "2025-08-22T01:05:00+02:00"
   },
   {
     "time": "01:03",
-    "artist": "Kaiser Chiefs",
-    "title": "Oh My God",
+    "artist": "Blink-182",
+    "title": "All The Small Things",
     "timestamp": "2025-08-22T01:03:00+02:00"
   },
   {
-    "time": "00:54",
-    "artist": "Linkin Park",
-    "title": "The Emptiness Machine",
-    "timestamp": "2025-08-22T00:54:00+02:00"
+    "time": "00:53",
+    "artist": "Eddie Vedder",
+    "title": "Hard Sun",
+    "timestamp": "2025-08-22T00:53:00+02:00"
   },
   {
-    "time": "00:51",
-    "artist": "The Dandy Warhols",
-    "title": "Not If You Were The Last Junkie On Earth",
-    "timestamp": "2025-08-22T00:51:00+02:00"
+    "time": "00:49",
+    "artist": "Volbeat",
+    "title": "Time Will Heal",
+    "timestamp": "2025-08-22T00:49:00+02:00"
   },
   {
-    "time": "00:46",
-    "artist": "Green Day",
-    "title": "Boulevard of Broken Dreams",
-    "timestamp": "2025-08-22T00:46:00+02:00"
+    "time": "00:45",
+    "artist": "The Cult",
+    "title": "She Sells Sanctuary",
+    "timestamp": "2025-08-22T00:45:00+02:00"
   },
   {
     "time": "00:40",
-    "artist": "The Cranberries",
-    "title": "Linger",
+    "artist": "Coldplay",
+    "title": "Speed of Sound",
     "timestamp": "2025-08-22T00:40:00+02:00"
   },
   {
-    "time": "00:35",
-    "artist": "Nieve Ella",
-    "title": "Good Grace",
-    "timestamp": "2025-08-22T00:35:00+02:00"
+    "time": "00:37",
+    "artist": "Wunderhorse",
+    "title": "The Rope",
+    "timestamp": "2025-08-22T00:37:00+02:00"
   },
   {
     "time": "00:33",
-    "artist": "Ramones",
-    "title": "Rock 'n' Roll High School",
+    "artist": "Alanis Morissette",
+    "title": "Head Over Feet",
     "timestamp": "2025-08-22T00:33:00+02:00"
   },
   {
-    "time": "00:23",
-    "artist": "The Last Shadow Puppets",
-    "title": "The Age of the Understatement",
-    "timestamp": "2025-08-22T00:23:00+02:00"
+    "time": "00:25",
+    "artist": "The Who",
+    "title": "Pinball Wizard",
+    "timestamp": "2025-08-22T00:25:00+02:00"
   },
   {
-    "time": "00:20",
-    "artist": "Frank Turner",
-    "title": "The Next Storm",
-    "timestamp": "2025-08-22T00:20:00+02:00"
+    "time": "00:21",
+    "artist": "The War On Drugs",
+    "title": "Red Eyes",
+    "timestamp": "2025-08-22T00:21:00+02:00"
   },
   {
-    "time": "00:15",
-    "artist": "R.E.M.",
-    "title": "Stand",
-    "timestamp": "2025-08-22T00:15:00+02:00"
+    "time": "00:16",
+    "artist": "Live",
+    "title": "Run To The Water",
+    "timestamp": "2025-08-22T00:16:00+02:00"
   },
   {
-    "time": "00:09",
-    "artist": "Yungblud",
-    "title": "Zombie",
-    "timestamp": "2025-08-22T00:09:00+02:00"
+    "time": "00:13",
+    "artist": "Last Dinner Party, The",
+    "title": "This Is The Killer Speaking",
+    "timestamp": "2025-08-22T00:13:00+02:00"
   },
   {
-    "time": "00:05",
-    "artist": "Red Hot Chili Peppers",
-    "title": "Scar Tissue",
-    "timestamp": "2025-08-22T00:05:00+02:00"
+    "time": "00:10",
+    "artist": "The Presidents of The USA",
+    "title": "Lump",
+    "timestamp": "2025-08-22T00:10:00+02:00"
+  },
+  {
+    "time": "00:07",
+    "artist": "Sugar Ray",
+    "title": "Every Morning",
+    "timestamp": "2025-08-22T00:07:00+02:00"
+  },
+  {
+    "time": "00:04",
+    "artist": "Weezer",
+    "title": "Buddy Holly",
+    "timestamp": "2025-08-22T00:04:00+02:00"
   }
 ]
