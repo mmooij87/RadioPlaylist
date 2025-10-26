@@ -1,398 +1,164 @@
 [
   {
     "time": "Live",
-    "artist": "Red Hot Chili Peppers",
-    "title": "Hump de Bump",
-    "timestamp": "2025-10-26T09:47:05.468251+01:00"
+    "artist": "Pearl Jam",
+    "title": "Just Breathe",
+    "timestamp": "2025-10-26T09:57:51.796174+01:00"
   },
   {
-    "time": "04:41",
-    "artist": "Sam Fender",
-    "title": "Start Again",
-    "timestamp": "2025-10-26T04:41:00+01:00"
-  },
-  {
-    "time": "04:37",
-    "artist": "Sheryl Crow",
-    "title": "My Favorite Mistake",
-    "timestamp": "2025-10-26T04:37:00+01:00"
-  },
-  {
-    "time": "04:29",
-    "artist": "Florence the Machine",
-    "title": "Everybody Scream",
-    "timestamp": "2025-10-26T04:29:00+01:00"
-  },
-  {
-    "time": "04:25",
-    "artist": "Supergrass",
-    "title": "Sun Hits The Sky",
-    "timestamp": "2025-10-26T04:25:00+01:00"
-  },
-  {
-    "time": "04:22",
-    "artist": "The Calling",
-    "title": "Wherever You Will Go",
-    "timestamp": "2025-10-26T04:22:00+01:00"
-  },
-  {
-    "time": "04:19",
-    "artist": "White Lies",
-    "title": "Keep Up",
-    "timestamp": "2025-10-26T04:19:00+01:00"
-  },
-  {
-    "time": "04:14",
-    "artist": "The Church",
-    "title": "Under The Milky Way",
-    "timestamp": "2025-10-26T04:14:00+01:00"
-  },
-  {
-    "time": "04:09",
-    "artist": "Zz Top",
-    "title": "Sharp Dressed Man",
-    "timestamp": "2025-10-26T04:09:00+01:00"
-  },
-  {
-    "time": "04:05",
-    "artist": "Talk Talk",
-    "title": "Such A Shame",
-    "timestamp": "2025-10-26T04:05:00+01:00"
-  },
-  {
-    "time": "03:57",
-    "artist": "MGMT",
-    "title": "Time to Pretend",
-    "timestamp": "2025-10-26T03:57:00+01:00"
-  },
-  {
-    "time": "03:54",
-    "artist": "STONE",
-    "title": "Monkey See Monkey Do",
-    "timestamp": "2025-10-26T03:54:00+01:00"
-  },
-  {
-    "time": "03:49",
-    "artist": "The Verve",
-    "title": "Bitter Sweet Symphony",
-    "timestamp": "2025-10-26T03:49:00+01:00"
-  },
-  {
-    "time": "03:44",
-    "artist": "Band of Horses",
-    "title": "The Funeral",
-    "timestamp": "2025-10-26T03:44:00+01:00"
-  },
-  {
-    "time": "03:41",
-    "artist": "Tom Petty",
-    "title": "I Won't Back Down",
-    "timestamp": "2025-10-26T03:41:00+01:00"
-  },
-  {
-    "time": "03:37",
-    "artist": "Sports Team",
-    "title": "M5",
-    "timestamp": "2025-10-26T03:37:00+01:00"
-  },
-  {
-    "time": "03:34",
-    "artist": "Smash Mouth",
-    "title": "Walkin' On The Sun",
-    "timestamp": "2025-10-26T03:34:00+01:00"
-  },
-  {
-    "time": "03:25",
-    "artist": "The Hives",
-    "title": "The Hives Forever Forever the Hives",
-    "timestamp": "2025-10-26T03:25:00+01:00"
-  },
-  {
-    "time": "03:22",
-    "artist": "Eels",
-    "title": "Mr. E's Beautiful Blues",
-    "timestamp": "2025-10-26T03:22:00+01:00"
-  },
-  {
-    "time": "03:20",
-    "artist": "Ramones",
-    "title": "Blitzkriegbop",
-    "timestamp": "2025-10-26T03:20:00+01:00"
-  },
-  {
-    "time": "03:17",
-    "artist": "Biffy Clyro",
-    "title": "Goodbye",
-    "timestamp": "2025-10-26T03:17:00+01:00"
-  },
-  {
-    "time": "03:12",
-    "artist": "Bjork",
-    "title": "Army Of Me",
-    "timestamp": "2025-10-26T03:12:00+01:00"
-  },
-  {
-    "time": "03:07",
-    "artist": "Arcade Fire",
-    "title": "We Used to Wait",
-    "timestamp": "2025-10-26T03:07:00+01:00"
-  },
-  {
-    "time": "03:04",
-    "artist": "The Killers",
-    "title": "Mr. Brightside",
-    "timestamp": "2025-10-26T03:04:00+01:00"
-  },
-  {
-    "time": "02:53",
-    "artist": "Kate Bush",
-    "title": "Cloudbusting",
-    "timestamp": "2025-10-26T02:53:00+01:00"
-  },
-  {
-    "time": "02:49",
-    "artist": "SONS",
-    "title": "Somehow",
-    "timestamp": "2025-10-26T02:49:00+01:00"
-  },
-  {
-    "time": "02:46",
-    "artist": "Manic Street Preachers",
-    "title": "Your Love Alone Is Not Enough",
-    "timestamp": "2025-10-26T02:46:00+01:00"
-  },
-  {
-    "time": "02:41",
-    "artist": "Depeche Mode",
-    "title": "Enjoy The Silence",
-    "timestamp": "2025-10-26T02:41:00+01:00"
-  },
-  {
-    "time": "02:38",
-    "artist": "Libertines",
-    "title": "Can't Stand Me Now",
-    "timestamp": "2025-10-26T02:38:00+01:00"
-  },
-  {
-    "time": "02:34",
-    "artist": "The Police",
-    "title": "Walking On The Moon",
-    "timestamp": "2025-10-26T02:34:00+01:00"
-  },
-  {
-    "time": "02:31",
-    "artist": "Royal Blood",
-    "title": "Limbo",
-    "timestamp": "2025-10-26T02:31:00+01:00"
-  },
-  {
-    "time": "02:23",
-    "artist": "Avril Lavigne",
-    "title": "Sk8er Boi",
-    "timestamp": "2025-10-26T02:23:00+01:00"
-  },
-  {
-    "time": "02:20",
-    "artist": "Kings of Leon",
-    "title": "We're Onto Something (ft. Zach Bryan)",
-    "timestamp": "2025-10-26T02:20:00+01:00"
-  },
-  {
-    "time": "02:16",
-    "artist": "Trockener Kecks",
-    "title": "Met Hart En Ziel",
-    "timestamp": "2025-10-26T02:16:00+01:00"
-  },
-  {
-    "time": "02:13",
-    "artist": "Toy Dolls",
-    "title": "Nellie The Elephant",
-    "timestamp": "2025-10-26T02:13:00+01:00"
-  },
-  {
-    "time": "02:09",
-    "artist": "The Kooks",
-    "title": "She Moves In Her Own Way",
-    "timestamp": "2025-10-26T02:09:00+01:00"
-  },
-  {
-    "time": "02:05",
-    "artist": "Wet Leg",
-    "title": "Mangetout",
-    "timestamp": "2025-10-26T02:05:00+01:00"
-  },
-  {
-    "time": "02:01",
-    "artist": "Live",
-    "title": "Lightning Crashes",
-    "timestamp": "2025-10-26T02:01:00+01:00"
-  },
-  {
-    "time": "01:52",
-    "artist": "Blondie",
-    "title": "Call Me",
-    "timestamp": "2025-10-26T01:52:00+01:00"
+    "time": "01:51",
+    "artist": "Triggerfinger",
+    "title": "Stars",
+    "timestamp": "2025-10-26T01:51:00+01:00"
   },
   {
     "time": "01:48",
-    "artist": "Foo Fighters",
-    "title": "Asking For A Friend",
+    "artist": "Madness",
+    "title": "Night Boat to Cairo",
     "timestamp": "2025-10-26T01:48:00+01:00"
   },
   {
-    "time": "01:45",
-    "artist": "The Haunted Youth",
-    "title": "Into You",
-    "timestamp": "2025-10-26T01:45:00+01:00"
+    "time": "01:44",
+    "artist": "Red Hot Chili Peppers",
+    "title": "Hump de Bump",
+    "timestamp": "2025-10-26T01:44:00+01:00"
   },
   {
     "time": "01:41",
-    "artist": "Oasis",
-    "title": "Wonderwall",
+    "artist": "Sam Fender",
+    "title": "Start Again",
     "timestamp": "2025-10-26T01:41:00+01:00"
   },
   {
     "time": "01:37",
-    "artist": "Strokes",
-    "title": "Juicebox",
+    "artist": "Sheryl Crow",
+    "title": "My Favorite Mistake",
     "timestamp": "2025-10-26T01:37:00+01:00"
   },
   {
-    "time": "01:34",
-    "artist": "White Stripes",
-    "title": "Jolene",
-    "timestamp": "2025-10-26T01:34:00+01:00"
+    "time": "01:29",
+    "artist": "Florence the Machine",
+    "title": "Everybody Scream",
+    "timestamp": "2025-10-26T01:29:00+01:00"
   },
   {
-    "time": "01:31",
-    "artist": "U2",
-    "title": "Sweetest Thing",
-    "timestamp": "2025-10-26T01:31:00+01:00"
+    "time": "01:25",
+    "artist": "Supergrass",
+    "title": "Sun Hits The Sky",
+    "timestamp": "2025-10-26T01:25:00+01:00"
   },
   {
-    "time": "01:24",
-    "artist": "Turnstile",
-    "title": "I Care",
-    "timestamp": "2025-10-26T01:24:00+01:00"
+    "time": "01:22",
+    "artist": "The Calling",
+    "title": "Wherever You Will Go",
+    "timestamp": "2025-10-26T01:22:00+01:00"
   },
   {
     "time": "01:19",
-    "artist": "The Who",
-    "title": "Baba O'Riley",
+    "artist": "White Lies",
+    "title": "Keep Up",
     "timestamp": "2025-10-26T01:19:00+01:00"
   },
   {
-    "time": "01:15",
-    "artist": "Peter Bjorn and John",
-    "title": "Young Folks",
-    "timestamp": "2025-10-26T01:15:00+01:00"
+    "time": "01:14",
+    "artist": "The Church",
+    "title": "Under The Milky Way",
+    "timestamp": "2025-10-26T01:14:00+01:00"
   },
   {
-    "time": "01:11",
-    "artist": "Screaming Trees",
-    "title": "Nearly Lost You",
-    "timestamp": "2025-10-26T01:11:00+01:00"
+    "time": "01:09",
+    "artist": "Zz Top",
+    "title": "Sharp Dressed Man",
+    "timestamp": "2025-10-26T01:09:00+01:00"
   },
   {
-    "time": "01:07",
-    "artist": "Hiqpy",
-    "title": "Girl In Red",
-    "timestamp": "2025-10-26T01:07:00+01:00"
+    "time": "01:05",
+    "artist": "Talk Talk",
+    "title": "Such A Shame",
+    "timestamp": "2025-10-26T01:05:00+01:00"
   },
   {
-    "time": "01:04",
-    "artist": "R.E.M.",
-    "title": "Stand",
-    "timestamp": "2025-10-26T01:04:00+01:00"
+    "time": "00:57",
+    "artist": "MGMT",
+    "title": "Time to Pretend",
+    "timestamp": "2025-10-26T00:57:00+01:00"
   },
   {
-    "time": "00:59",
-    "artist": "Audioslave",
-    "title": "Like A Stone",
-    "timestamp": "2025-10-26T00:59:00+01:00"
-  },
-  {
-    "time": "00:53",
-    "artist": "Air",
-    "title": "All I Need",
-    "timestamp": "2025-10-26T00:53:00+01:00"
+    "time": "00:54",
+    "artist": "STONE",
+    "title": "Monkey See Monkey Do",
+    "timestamp": "2025-10-26T00:54:00+01:00"
   },
   {
     "time": "00:49",
-    "artist": "Muse",
-    "title": "Unravelling",
+    "artist": "The Verve",
+    "title": "Bitter Sweet Symphony",
     "timestamp": "2025-10-26T00:49:00+01:00"
   },
   {
     "time": "00:44",
-    "artist": "Coldplay",
-    "title": "Shiver",
+    "artist": "Band of Horses",
+    "title": "The Funeral",
     "timestamp": "2025-10-26T00:44:00+01:00"
   },
   {
-    "time": "00:40",
-    "artist": "David Bowie",
-    "title": "Starman",
-    "timestamp": "2025-10-26T00:40:00+01:00"
+    "time": "00:41",
+    "artist": "Tom Petty",
+    "title": "I Won't Back Down",
+    "timestamp": "2025-10-26T00:41:00+01:00"
   },
   {
-    "time": "00:36",
-    "artist": "Magazines",
-    "title": "Hollywood",
-    "timestamp": "2025-10-26T00:36:00+01:00"
+    "time": "00:37",
+    "artist": "Sports Team",
+    "title": "M5",
+    "timestamp": "2025-10-26T00:37:00+01:00"
   },
   {
-    "time": "00:32",
-    "artist": "Therapy?",
-    "title": "Diane",
-    "timestamp": "2025-10-26T00:32:00+01:00"
+    "time": "00:34",
+    "artist": "Smash Mouth",
+    "title": "Walkin' On The Sun",
+    "timestamp": "2025-10-26T00:34:00+01:00"
   },
   {
-    "time": "00:28",
-    "artist": "Snow Patrol",
-    "title": "You're All I Have",
-    "timestamp": "2025-10-26T00:28:00+01:00"
+    "time": "00:25",
+    "artist": "The Hives",
+    "title": "The Hives Forever Forever the Hives",
+    "timestamp": "2025-10-26T00:25:00+01:00"
   },
   {
-    "time": "00:23",
-    "artist": "Pearl Jam",
-    "title": "Jeremy",
-    "timestamp": "2025-10-26T00:23:00+01:00"
+    "time": "00:22",
+    "artist": "Eels",
+    "title": "Mr. E's Beautiful Blues",
+    "timestamp": "2025-10-26T00:22:00+01:00"
   },
   {
     "time": "00:20",
-    "artist": "30 Seconds To Mars",
-    "title": "Walk On Water",
+    "artist": "Ramones",
+    "title": "Blitzkriegbop",
     "timestamp": "2025-10-26T00:20:00+01:00"
   },
   {
     "time": "00:17",
-    "artist": "The Cure",
-    "title": "Just Like Heaven",
+    "artist": "Biffy Clyro",
+    "title": "Goodbye",
     "timestamp": "2025-10-26T00:17:00+01:00"
   },
   {
     "time": "00:12",
-    "artist": "Green Day",
-    "title": "Wake Me Up When September Ends",
+    "artist": "Bjork",
+    "title": "Army Of Me",
     "timestamp": "2025-10-26T00:12:00+01:00"
   },
   {
-    "time": "00:10",
-    "artist": "Queen's Pleasure",
-    "title": "The Club",
-    "timestamp": "2025-10-26T00:10:00+01:00"
+    "time": "00:07",
+    "artist": "Arcade Fire",
+    "title": "We Used to Wait",
+    "timestamp": "2025-10-26T00:07:00+01:00"
   },
   {
-    "time": "00:06",
-    "artist": "Blur",
-    "title": "Charmless Man",
-    "timestamp": "2025-10-26T00:06:00+01:00"
-  },
-  {
-    "time": "00:00",
-    "artist": "Sinead O'Connor",
-    "title": "Troy",
-    "timestamp": "2025-10-26T00:00:00+01:00"
+    "time": "00:04",
+    "artist": "The Killers",
+    "title": "Mr. Brightside",
+    "timestamp": "2025-10-26T00:04:00+01:00"
   }
 ]
