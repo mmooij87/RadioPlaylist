@@ -1,9 +1,171 @@
 [
   {
     "time": "Live",
+    "artist": "Johan",
+    "title": "Everybody Knows",
+    "timestamp": "2025-10-29T03:52:08.089414+01:00"
+  },
+  {
+    "time": "21:45",
+    "artist": "Fontaines D.C.",
+    "title": "In The Modern World",
+    "timestamp": "2025-10-28T21:45:00+01:00"
+  },
+  {
+    "time": "21:42",
+    "artist": "Yungblud",
+    "title": "Lovesick Lullaby",
+    "timestamp": "2025-10-28T21:42:00+01:00"
+  },
+  {
+    "time": "21:37",
+    "artist": "Pearl Jam",
+    "title": "Black",
+    "timestamp": "2025-10-28T21:37:00+01:00"
+  },
+  {
+    "time": "21:32",
+    "artist": "Talking Heads",
+    "title": "Road to Nowhere",
+    "timestamp": "2025-10-28T21:32:00+01:00"
+  },
+  {
+    "time": "21:28",
+    "artist": "Muse",
+    "title": "Sing for Absolution",
+    "timestamp": "2025-10-28T21:28:00+01:00"
+  },
+  {
+    "time": "21:24",
+    "artist": "The Cranberries",
+    "title": "Animal Instinct",
+    "timestamp": "2025-10-28T21:24:00+01:00"
+  },
+  {
+    "time": "21:21",
+    "artist": "Turnstile",
+    "title": "Never Enough",
+    "timestamp": "2025-10-28T21:21:00+01:00"
+  },
+  {
+    "time": "21:17",
+    "artist": "The Beatles",
+    "title": "A Day In The Life",
+    "timestamp": "2025-10-28T21:17:00+01:00"
+  },
+  {
+    "time": "21:13",
+    "artist": "Blink-182",
+    "title": "Adam's Song",
+    "timestamp": "2025-10-28T21:13:00+01:00"
+  },
+  {
+    "time": "21:10",
+    "artist": "Biffy Clyro",
+    "title": "Goodbye",
+    "timestamp": "2025-10-28T21:10:00+01:00"
+  },
+  {
+    "time": "21:07",
+    "artist": "Green Day",
+    "title": "When I Come Around",
+    "timestamp": "2025-10-28T21:07:00+01:00"
+  },
+  {
+    "time": "21:02",
+    "artist": "Urban Dance Squad",
+    "title": "Fast Lane",
+    "timestamp": "2025-10-28T21:02:00+01:00"
+  },
+  {
+    "time": "20:57",
+    "artist": "MGMT",
+    "title": "Kids",
+    "timestamp": "2025-10-28T20:57:00+01:00"
+  },
+  {
+    "time": "20:54",
+    "artist": "Sam Fender",
+    "title": "Tyrants",
+    "timestamp": "2025-10-28T20:54:00+01:00"
+  },
+  {
+    "time": "20:50",
+    "artist": "Heather Nova",
+    "title": "Maybe An Angel",
+    "timestamp": "2025-10-28T20:50:00+01:00"
+  },
+  {
+    "time": "20:47",
+    "artist": "Wodan Boys",
+    "title": "Thunder Glove",
+    "timestamp": "2025-10-28T20:47:00+01:00"
+  },
+  {
+    "time": "20:43",
+    "artist": "Ugly Kid Joe",
+    "title": "Cat's In The Cradle",
+    "timestamp": "2025-10-28T20:43:00+01:00"
+  },
+  {
+    "time": "20:40",
+    "artist": "Editors",
+    "title": "Bullets",
+    "timestamp": "2025-10-28T20:40:00+01:00"
+  },
+  {
+    "time": "20:36",
+    "artist": "David Bowie",
+    "title": "Changes",
+    "timestamp": "2025-10-28T20:36:00+01:00"
+  },
+  {
+    "time": "20:32",
+    "artist": "HIM",
+    "title": "Join Me",
+    "timestamp": "2025-10-28T20:32:00+01:00"
+  },
+  {
+    "time": "20:29",
+    "artist": "The Vices",
+    "title": "Before It Might Be Gone",
+    "timestamp": "2025-10-28T20:29:00+01:00"
+  },
+  {
+    "time": "20:26",
+    "artist": "Smash Mouth",
+    "title": "All Star",
+    "timestamp": "2025-10-28T20:26:00+01:00"
+  },
+  {
+    "time": "20:22",
+    "artist": "Tom Petty & The Heartbreakers",
+    "title": "Refugee",
+    "timestamp": "2025-10-28T20:22:00+01:00"
+  },
+  {
+    "time": "20:19",
+    "artist": "CHVRCHES",
+    "title": "The Mother We Share",
+    "timestamp": "2025-10-28T20:19:00+01:00"
+  },
+  {
+    "time": "20:15",
+    "artist": "Metallica",
+    "title": "Until it Sleeps",
+    "timestamp": "2025-10-28T20:15:00+01:00"
+  },
+  {
+    "time": "20:10",
+    "artist": "Coldplay",
+    "title": "Speed of Sound",
+    "timestamp": "2025-10-28T20:10:00+01:00"
+  },
+  {
+    "time": "20:07",
     "artist": "Blur",
     "title": "There's No Other Way",
-    "timestamp": "2025-10-29T02:08:20.876699+01:00"
+    "timestamp": "2025-10-28T20:07:00+01:00"
   },
   {
     "time": "20:04",
@@ -1203,127 +1365,127 @@
     "time": "04:50",
     "artist": "Bruce Springsteen",
     "title": "Bobby Jean",
-    "timestamp": "2025-10-28T04:50:00+01:00"
+    "timestamp": "2025-10-29T04:50:00+01:00"
   },
   {
     "time": "04:45",
     "artist": "Tom Odell",
     "title": "Don't Let Me Go",
-    "timestamp": "2025-10-28T04:45:00+01:00"
+    "timestamp": "2025-10-29T04:45:00+01:00"
   },
   {
     "time": "04:39",
     "artist": "Metallica",
     "title": "Turn The Page",
-    "timestamp": "2025-10-28T04:39:00+01:00"
+    "timestamp": "2025-10-29T04:39:00+01:00"
   },
   {
     "time": "04:35",
     "artist": "Fiction Plane",
     "title": "Two Sisters",
-    "timestamp": "2025-10-28T04:35:00+01:00"
+    "timestamp": "2025-10-29T04:35:00+01:00"
   },
   {
     "time": "04:30",
     "artist": "Run DMC",
     "title": "Walk This Way",
-    "timestamp": "2025-10-28T04:30:00+01:00"
+    "timestamp": "2025-10-29T04:30:00+01:00"
   },
   {
     "time": "04:24",
     "artist": "Royal Blood",
     "title": "Ten Tonne Skeleton",
-    "timestamp": "2025-10-28T04:24:00+01:00"
+    "timestamp": "2025-10-29T04:24:00+01:00"
   },
   {
     "time": "04:17",
     "artist": "Blur",
     "title": "Tender",
-    "timestamp": "2025-10-28T04:17:00+01:00"
+    "timestamp": "2025-10-29T04:17:00+01:00"
   },
   {
     "time": "04:14",
     "artist": "Fall Out Boy",
     "title": "Dance, Dance",
-    "timestamp": "2025-10-28T04:14:00+01:00"
+    "timestamp": "2025-10-29T04:14:00+01:00"
   },
   {
     "time": "04:11",
     "artist": "Madness",
     "title": "Our House",
-    "timestamp": "2025-10-28T04:11:00+01:00"
+    "timestamp": "2025-10-29T04:11:00+01:00"
   },
   {
     "time": "04:07",
     "artist": "Biffy Clyro",
     "title": "Goodbye",
-    "timestamp": "2025-10-28T04:07:00+01:00"
+    "timestamp": "2025-10-29T04:07:00+01:00"
   },
   {
     "time": "04:03",
     "artist": "Skunk Anansie",
     "title": "Charity",
-    "timestamp": "2025-10-28T04:03:00+01:00"
+    "timestamp": "2025-10-29T04:03:00+01:00"
   },
   {
     "time": "03:53",
     "artist": "Coldplay",
     "title": "God Put A Smile Upon Your Face",
-    "timestamp": "2025-10-28T03:53:00+01:00"
+    "timestamp": "2025-10-29T03:53:00+01:00"
   },
   {
     "time": "03:47",
     "artist": "David Bowie",
     "title": "China Girl",
-    "timestamp": "2025-10-28T03:47:00+01:00"
+    "timestamp": "2025-10-29T03:47:00+01:00"
   },
   {
     "time": "03:43",
     "artist": "Inhaler",
     "title": "It Won't Always Be Like This",
-    "timestamp": "2025-10-28T03:43:00+01:00"
+    "timestamp": "2025-10-29T03:43:00+01:00"
   },
   {
     "time": "03:39",
     "artist": "Rage Against The Machine",
     "title": "Guerrilla Radio",
-    "timestamp": "2025-10-28T03:39:00+01:00"
+    "timestamp": "2025-10-29T03:39:00+01:00"
   },
   {
     "time": "03:36",
     "artist": "Tom Petty and the Heartbreakers",
     "title": "Into the Great Wide Open",
-    "timestamp": "2025-10-28T03:36:00+01:00"
+    "timestamp": "2025-10-29T03:36:00+01:00"
   },
   {
     "time": "03:32",
     "artist": "Zz Top",
     "title": "Gimme All Your Lovin'",
-    "timestamp": "2025-10-28T03:32:00+01:00"
+    "timestamp": "2025-10-29T03:32:00+01:00"
   },
   {
     "time": "03:24",
     "artist": "LCD Soundsystem",
     "title": "Daft Punk Is Playing At My House",
-    "timestamp": "2025-10-28T03:24:00+01:00"
+    "timestamp": "2025-10-29T03:24:00+01:00"
   },
   {
     "time": "03:19",
     "artist": "Sinead O'Connor",
     "title": "Nothing Compares 2 U",
-    "timestamp": "2025-10-28T03:19:00+01:00"
+    "timestamp": "2025-10-29T03:19:00+01:00"
   },
   {
     "time": "03:15",
     "artist": "The Killers",
     "title": "Caution",
-    "timestamp": "2025-10-28T03:15:00+01:00"
+    "timestamp": "2025-10-29T03:15:00+01:00"
   },
   {
     "time": "03:10",
     "artist": "Catatonia",
     "title": "Road Rage",
-    "timestamp": "2025-10-28T03:10:00+01:00"
+    "timestamp": "2025-10-29T03:10:00+01:00"
   },
   {
     "time": "03:07",
