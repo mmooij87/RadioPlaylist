@@ -1,356 +1,542 @@
 [
   {
     "time": "Live",
+    "artist": "Two Door Cinema Club",
+    "title": "What You Know",
+    "timestamp": "2025-10-30T13:21:48.728442+01:00"
+  },
+  {
+    "time": "07:15",
+    "artist": "Live",
+    "title": "The Dolphins Cry",
+    "timestamp": "2025-10-30T07:15:00+01:00"
+  },
+  {
+    "time": "07:11",
+    "artist": "Lloyd Cole & The Commotions",
+    "title": "Rattlesnakes",
+    "timestamp": "2025-10-30T07:11:00+01:00"
+  },
+  {
+    "time": "07:08",
+    "artist": "Vices, The",
+    "title": "Gold",
+    "timestamp": "2025-10-30T07:08:00+01:00"
+  },
+  {
+    "time": "07:04",
+    "artist": "K's Choice",
+    "title": "Dad",
+    "timestamp": "2025-10-30T07:04:00+01:00"
+  },
+  {
+    "time": "07:02",
+    "artist": "Blink-182",
+    "title": "The Rock Show",
+    "timestamp": "2025-10-30T07:02:00+01:00"
+  },
+  {
+    "time": "06:55",
+    "artist": "Alice Cooper",
+    "title": "School's Out",
+    "timestamp": "2025-10-30T06:55:00+01:00"
+  },
+  {
+    "time": "06:51",
+    "artist": "Arctic Monkeys",
+    "title": "Snap Out Of It",
+    "timestamp": "2025-10-30T06:51:00+01:00"
+  },
+  {
+    "time": "06:46",
     "artist": "Daft Punk",
     "title": "One More Time",
-    "timestamp": "2025-10-30T12:51:18.482149+01:00"
+    "timestamp": "2025-10-30T06:46:00+01:00"
+  },
+  {
+    "time": "06:41",
+    "artist": "Faith No More",
+    "title": "Evidence",
+    "timestamp": "2025-10-30T06:41:00+01:00"
+  },
+  {
+    "time": "06:37",
+    "artist": "Bruce Springsteen",
+    "title": "Dancing In the Dark",
+    "timestamp": "2025-10-30T06:37:00+01:00"
+  },
+  {
+    "time": "06:33",
+    "artist": "My Chemical Romance",
+    "title": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+    "timestamp": "2025-10-30T06:33:00+01:00"
+  },
+  {
+    "time": "06:29",
+    "artist": "Spin Doctors",
+    "title": "Two Princes",
+    "timestamp": "2025-10-30T06:29:00+01:00"
+  },
+  {
+    "time": "06:21",
+    "artist": "Alt-J",
+    "title": "Breezeblocks",
+    "timestamp": "2025-10-30T06:21:00+01:00"
+  },
+  {
+    "time": "06:17",
+    "artist": "Tom Petty",
+    "title": "Free Fallin'",
+    "timestamp": "2025-10-30T06:17:00+01:00"
+  },
+  {
+    "time": "06:13",
+    "artist": "Green Day",
+    "title": "Know Your Enemy",
+    "timestamp": "2025-10-30T06:13:00+01:00"
+  },
+  {
+    "time": "06:11",
+    "artist": "The Black Keys",
+    "title": "Wild Child",
+    "timestamp": "2025-10-30T06:11:00+01:00"
+  },
+  {
+    "time": "06:06",
+    "artist": "Pearl Jam",
+    "title": "Dissident",
+    "timestamp": "2025-10-30T06:06:00+01:00"
+  },
+  {
+    "time": "06:03",
+    "artist": "Caesars",
+    "title": "Jerk It Out",
+    "timestamp": "2025-10-30T06:03:00+01:00"
+  },
+  {
+    "time": "05:55",
+    "artist": "Iron Maiden",
+    "title": "Can I Play With Madness",
+    "timestamp": "2025-10-30T05:55:00+01:00"
+  },
+  {
+    "time": "05:50",
+    "artist": "Bjork & David Arnold",
+    "title": "Play Dead",
+    "timestamp": "2025-10-30T05:50:00+01:00"
+  },
+  {
+    "time": "05:46",
+    "artist": "Bastille",
+    "title": "Things We Lost In The Fire",
+    "timestamp": "2025-10-30T05:46:00+01:00"
+  },
+  {
+    "time": "05:42",
+    "artist": "David Bowie",
+    "title": "Life On Mars",
+    "timestamp": "2025-10-30T05:42:00+01:00"
+  },
+  {
+    "time": "05:35",
+    "artist": "Silversun Pickups",
+    "title": "Lazy Eye",
+    "timestamp": "2025-10-30T05:35:00+01:00"
+  },
+  {
+    "time": "05:31",
+    "artist": "Foster The People",
+    "title": "Pumped Up Kicks",
+    "timestamp": "2025-10-30T05:31:00+01:00"
+  },
+  {
+    "time": "05:23",
+    "artist": "The Cure",
+    "title": "Just Like Heaven",
+    "timestamp": "2025-10-30T05:23:00+01:00"
+  },
+  {
+    "time": "05:18",
+    "artist": "Coldplay",
+    "title": "Shiver",
+    "timestamp": "2025-10-30T05:18:00+01:00"
+  },
+  {
+    "time": "05:13",
+    "artist": "Limp Bizkit",
+    "title": "Nookie",
+    "timestamp": "2025-10-30T05:13:00+01:00"
+  },
+  {
+    "time": "05:08",
+    "artist": "R.E.M.",
+    "title": "Everybody Hurts",
+    "timestamp": "2025-10-30T05:08:00+01:00"
+  },
+  {
+    "time": "05:05",
+    "artist": "Them Crooked Vultures",
+    "title": "Dead End Friends",
+    "timestamp": "2025-10-30T05:05:00+01:00"
+  },
+  {
+    "time": "04:56",
+    "artist": "Depeche Mode",
+    "title": "People are People",
+    "timestamp": "2025-10-30T04:56:00+01:00"
+  },
+  {
+    "time": "04:53",
+    "artist": "The Kooks",
+    "title": "Naive",
+    "timestamp": "2025-10-30T04:53:00+01:00"
+  },
+  {
+    "time": "04:49",
+    "artist": "Nirvana",
+    "title": "On A Plain",
+    "timestamp": "2025-10-30T04:49:00+01:00"
+  },
+  {
+    "time": "04:45",
+    "artist": "Gang Of Youths",
+    "title": "Angel Of 8th Ave.",
+    "timestamp": "2025-10-30T04:45:00+01:00"
   },
   {
     "time": "04:41",
-    "artist": "Faith No More",
-    "title": "Evidence",
+    "artist": "Blur",
+    "title": "Country House",
     "timestamp": "2025-10-30T04:41:00+01:00"
   },
   {
     "time": "04:37",
-    "artist": "Bruce Springsteen",
-    "title": "Dancing In the Dark",
+    "artist": "U2",
+    "title": "Beautiful Day",
     "timestamp": "2025-10-30T04:37:00+01:00"
   },
   {
     "time": "04:33",
-    "artist": "My Chemical Romance",
-    "title": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+    "artist": "Kings Of Leon",
+    "title": "Back Down South",
     "timestamp": "2025-10-30T04:33:00+01:00"
   },
   {
-    "time": "04:29",
-    "artist": "Spin Doctors",
-    "title": "Two Princes",
-    "timestamp": "2025-10-30T04:29:00+01:00"
+    "time": "04:25",
+    "artist": "Fischer Z",
+    "title": "So Long",
+    "timestamp": "2025-10-30T04:25:00+01:00"
   },
   {
-    "time": "04:21",
-    "artist": "Alt-J",
-    "title": "Breezeblocks",
-    "timestamp": "2025-10-30T04:21:00+01:00"
+    "time": "04:18",
+    "artist": "Fatboy Slim",
+    "title": "Right Here Right Now",
+    "timestamp": "2025-10-30T04:18:00+01:00"
   },
   {
-    "time": "04:17",
-    "artist": "Tom Petty",
-    "title": "Free Fallin'",
-    "timestamp": "2025-10-30T04:17:00+01:00"
-  },
-  {
-    "time": "04:13",
-    "artist": "Green Day",
-    "title": "Know Your Enemy",
-    "timestamp": "2025-10-30T04:13:00+01:00"
+    "time": "04:15",
+    "artist": "Weezer",
+    "title": "Beverly Hills",
+    "timestamp": "2025-10-30T04:15:00+01:00"
   },
   {
     "time": "04:11",
-    "artist": "The Black Keys",
-    "title": "Wild Child",
+    "artist": "Joan Jett & The Blackhearts",
+    "title": "I Love Rock 'n Roll",
     "timestamp": "2025-10-30T04:11:00+01:00"
   },
   {
     "time": "04:06",
-    "artist": "Pearl Jam",
-    "title": "Dissident",
+    "artist": "Deacon Blue",
+    "title": "Your Town",
     "timestamp": "2025-10-30T04:06:00+01:00"
   },
   {
     "time": "04:03",
-    "artist": "Caesars",
-    "title": "Jerk It Out",
+    "artist": "Snow Patrol",
+    "title": "Shut Your Eyes",
     "timestamp": "2025-10-30T04:03:00+01:00"
   },
   {
-    "time": "03:55",
-    "artist": "Iron Maiden",
-    "title": "Can I Play With Madness",
-    "timestamp": "2025-10-30T03:55:00+01:00"
+    "time": "03:52",
+    "artist": "The Doors",
+    "title": "Break On Through",
+    "timestamp": "2025-10-30T03:52:00+01:00"
   },
   {
-    "time": "03:50",
-    "artist": "Bjork & David Arnold",
-    "title": "Play Dead",
-    "timestamp": "2025-10-30T03:50:00+01:00"
+    "time": "03:48",
+    "artist": "Tame Impala",
+    "title": "Borderline",
+    "timestamp": "2025-10-30T03:48:00+01:00"
   },
   {
-    "time": "03:46",
-    "artist": "Bastille",
-    "title": "Things We Lost In The Fire",
-    "timestamp": "2025-10-30T03:46:00+01:00"
+    "time": "03:44",
+    "artist": "Liquido",
+    "title": "Narcotic",
+    "timestamp": "2025-10-30T03:44:00+01:00"
   },
   {
     "time": "03:42",
-    "artist": "David Bowie",
-    "title": "Life On Mars",
+    "artist": "Florence The Machine",
+    "title": "Kiss With A Fist",
     "timestamp": "2025-10-30T03:42:00+01:00"
   },
   {
-    "time": "03:35",
-    "artist": "Silversun Pickups",
-    "title": "Lazy Eye",
-    "timestamp": "2025-10-30T03:35:00+01:00"
+    "time": "03:38",
+    "artist": "Van Halen",
+    "title": "Jump",
+    "timestamp": "2025-10-30T03:38:00+01:00"
   },
   {
-    "time": "03:31",
-    "artist": "Foster The People",
-    "title": "Pumped Up Kicks",
-    "timestamp": "2025-10-30T03:31:00+01:00"
+    "time": "03:33",
+    "artist": "Linkin' Park",
+    "title": "New Divide",
+    "timestamp": "2025-10-30T03:33:00+01:00"
   },
   {
-    "time": "03:23",
-    "artist": "The Cure",
-    "title": "Just Like Heaven",
-    "timestamp": "2025-10-30T03:23:00+01:00"
+    "time": "03:26",
+    "artist": "Kula Shaker",
+    "title": "Govinda",
+    "timestamp": "2025-10-30T03:26:00+01:00"
+  },
+  {
+    "time": "03:21",
+    "artist": "Stereophonics",
+    "title": "Handbags And Gladrags",
+    "timestamp": "2025-10-30T03:21:00+01:00"
   },
   {
     "time": "03:18",
-    "artist": "Coldplay",
-    "title": "Shiver",
+    "artist": "INXS",
+    "title": "Need You Tonight",
     "timestamp": "2025-10-30T03:18:00+01:00"
   },
   {
-    "time": "03:13",
-    "artist": "Limp Bizkit",
-    "title": "Nookie",
-    "timestamp": "2025-10-30T03:13:00+01:00"
+    "time": "03:14",
+    "artist": "Vaccines",
+    "title": "Wetsuit",
+    "timestamp": "2025-10-30T03:14:00+01:00"
   },
   {
-    "time": "03:08",
-    "artist": "R.E.M.",
-    "title": "Everybody Hurts",
-    "timestamp": "2025-10-30T03:08:00+01:00"
+    "time": "03:10",
+    "artist": "Lenny Kravitz",
+    "title": "Fly Away",
+    "timestamp": "2025-10-30T03:10:00+01:00"
   },
   {
     "time": "03:05",
-    "artist": "Them Crooked Vultures",
-    "title": "Dead End Friends",
+    "artist": "Air",
+    "title": "Sexy Boy",
     "timestamp": "2025-10-30T03:05:00+01:00"
   },
   {
-    "time": "02:56",
-    "artist": "Depeche Mode",
-    "title": "People are People",
-    "timestamp": "2025-10-30T02:56:00+01:00"
+    "time": "02:55",
+    "artist": "Royal Blood",
+    "title": "Lights Out",
+    "timestamp": "2025-10-30T02:55:00+01:00"
   },
   {
     "time": "02:53",
-    "artist": "The Kooks",
-    "title": "Naive",
+    "artist": "Ramones",
+    "title": "I Wanna Be Sedated",
     "timestamp": "2025-10-30T02:53:00+01:00"
   },
   {
-    "time": "02:49",
-    "artist": "Nirvana",
-    "title": "On A Plain",
-    "timestamp": "2025-10-30T02:49:00+01:00"
+    "time": "02:47",
+    "artist": "Red Hot Chili Peppers",
+    "title": "Around the World",
+    "timestamp": "2025-10-30T02:47:00+01:00"
   },
   {
-    "time": "02:45",
-    "artist": "Gang Of Youths",
-    "title": "Angel Of 8th Ave.",
-    "timestamp": "2025-10-30T02:45:00+01:00"
-  },
-  {
-    "time": "02:41",
-    "artist": "Blur",
-    "title": "Country House",
-    "timestamp": "2025-10-30T02:41:00+01:00"
+    "time": "02:43",
+    "artist": "Athlete",
+    "title": "Wires",
+    "timestamp": "2025-10-30T02:43:00+01:00"
   },
   {
     "time": "02:37",
-    "artist": "U2",
-    "title": "Beautiful Day",
+    "artist": "Stooges",
+    "title": "I Wanna be Your Dog",
     "timestamp": "2025-10-30T02:37:00+01:00"
   },
   {
     "time": "02:33",
-    "artist": "Kings Of Leon",
-    "title": "Back Down South",
+    "artist": "Arcade Fire",
+    "title": "Ready to Start",
     "timestamp": "2025-10-30T02:33:00+01:00"
   },
   {
-    "time": "02:25",
-    "artist": "Fischer Z",
-    "title": "So Long",
-    "timestamp": "2025-10-30T02:25:00+01:00"
+    "time": "02:24",
+    "artist": "Anouk",
+    "title": "The Dark",
+    "timestamp": "2025-10-30T02:24:00+01:00"
   },
   {
-    "time": "02:18",
-    "artist": "Fatboy Slim",
-    "title": "Right Here Right Now",
-    "timestamp": "2025-10-30T02:18:00+01:00"
+    "time": "02:22",
+    "artist": "The Last Shadow Puppets",
+    "title": "The Age of the Understatement",
+    "timestamp": "2025-10-30T02:22:00+01:00"
   },
   {
-    "time": "02:15",
-    "artist": "Weezer",
-    "title": "Beverly Hills",
-    "timestamp": "2025-10-30T02:15:00+01:00"
+    "time": "02:19",
+    "artist": "Jam",
+    "title": "Town Called Malice",
+    "timestamp": "2025-10-30T02:19:00+01:00"
   },
   {
-    "time": "02:11",
-    "artist": "Joan Jett & The Blackhearts",
-    "title": "I Love Rock 'n Roll",
-    "timestamp": "2025-10-30T02:11:00+01:00"
+    "time": "02:16",
+    "artist": "Green Day",
+    "title": "Minority",
+    "timestamp": "2025-10-30T02:16:00+01:00"
   },
   {
-    "time": "02:06",
-    "artist": "Deacon Blue",
-    "title": "Your Town",
-    "timestamp": "2025-10-30T02:06:00+01:00"
+    "time": "02:07",
+    "artist": "Moby",
+    "title": "Go! (Woodstock Mix)",
+    "timestamp": "2025-10-30T02:07:00+01:00"
   },
   {
-    "time": "02:03",
-    "artist": "Snow Patrol",
-    "title": "Shut Your Eyes",
-    "timestamp": "2025-10-30T02:03:00+01:00"
+    "time": "02:05",
+    "artist": "The Police",
+    "title": "Roxanne",
+    "timestamp": "2025-10-30T02:05:00+01:00"
+  },
+  {
+    "time": "01:55",
+    "artist": "Rammstein",
+    "title": "Mutter",
+    "timestamp": "2025-10-30T01:55:00+01:00"
   },
   {
     "time": "01:52",
-    "artist": "The Doors",
-    "title": "Break On Through",
+    "artist": "Royel Otis",
+    "title": "Moody",
     "timestamp": "2025-10-30T01:52:00+01:00"
   },
   {
-    "time": "01:48",
-    "artist": "Tame Impala",
-    "title": "Borderline",
-    "timestamp": "2025-10-30T01:48:00+01:00"
-  },
-  {
-    "time": "01:44",
-    "artist": "Liquido",
-    "title": "Narcotic",
-    "timestamp": "2025-10-30T01:44:00+01:00"
+    "time": "01:46",
+    "artist": "Stone Temple Pilots",
+    "title": "Creep",
+    "timestamp": "2025-10-30T01:46:00+01:00"
   },
   {
     "time": "01:42",
-    "artist": "Florence The Machine",
-    "title": "Kiss With A Fist",
+    "artist": "Keane",
+    "title": "Bedshaped",
     "timestamp": "2025-10-30T01:42:00+01:00"
   },
   {
     "time": "01:38",
-    "artist": "Van Halen",
-    "title": "Jump",
+    "artist": "Yungblud",
+    "title": "I Love You Will You Marry Me",
     "timestamp": "2025-10-30T01:38:00+01:00"
   },
   {
     "time": "01:33",
-    "artist": "Linkin' Park",
-    "title": "New Divide",
+    "artist": "Genesis",
+    "title": "Land Of Confusion",
     "timestamp": "2025-10-30T01:33:00+01:00"
   },
   {
-    "time": "01:26",
-    "artist": "Kula Shaker",
-    "title": "Govinda",
-    "timestamp": "2025-10-30T01:26:00+01:00"
-  },
-  {
     "time": "01:21",
-    "artist": "Stereophonics",
-    "title": "Handbags And Gladrags",
+    "artist": "Tori Amos",
+    "title": "Crucify",
     "timestamp": "2025-10-30T01:21:00+01:00"
   },
   {
-    "time": "01:18",
-    "artist": "INXS",
-    "title": "Need You Tonight",
-    "timestamp": "2025-10-30T01:18:00+01:00"
+    "time": "01:17",
+    "artist": "Korn",
+    "title": "Falling Away From Me",
+    "timestamp": "2025-10-30T01:17:00+01:00"
   },
   {
-    "time": "01:14",
-    "artist": "Vaccines",
-    "title": "Wetsuit",
-    "timestamp": "2025-10-30T01:14:00+01:00"
+    "time": "01:13",
+    "artist": "Chef'Special",
+    "title": "In Your Arms",
+    "timestamp": "2025-10-30T01:13:00+01:00"
   },
   {
-    "time": "01:10",
-    "artist": "Lenny Kravitz",
-    "title": "Fly Away",
-    "timestamp": "2025-10-30T01:10:00+01:00"
+    "time": "01:06",
+    "artist": "Foo Fighters",
+    "title": "Wheels",
+    "timestamp": "2025-10-30T01:06:00+01:00"
   },
   {
-    "time": "01:05",
-    "artist": "Air",
-    "title": "Sexy Boy",
-    "timestamp": "2025-10-30T01:05:00+01:00"
+    "time": "01:02",
+    "artist": "Daft Punk",
+    "title": "Around The World",
+    "timestamp": "2025-10-30T01:02:00+01:00"
   },
   {
-    "time": "00:55",
-    "artist": "Royal Blood",
-    "title": "Lights Out",
-    "timestamp": "2025-10-30T00:55:00+01:00"
+    "time": "00:52",
+    "artist": "The Verve",
+    "title": "Sonnet",
+    "timestamp": "2025-10-30T00:52:00+01:00"
   },
   {
-    "time": "00:53",
-    "artist": "Ramones",
-    "title": "I Wanna Be Sedated",
-    "timestamp": "2025-10-30T00:53:00+01:00"
+    "time": "00:48",
+    "artist": "Jimi Hendrix",
+    "title": "Hey Joe",
+    "timestamp": "2025-10-30T00:48:00+01:00"
   },
   {
-    "time": "00:47",
-    "artist": "Red Hot Chili Peppers",
-    "title": "Around the World",
-    "timestamp": "2025-10-30T00:47:00+01:00"
+    "time": "00:45",
+    "artist": "The Darkness",
+    "title": "I Believe In A Thing Called Love",
+    "timestamp": "2025-10-30T00:45:00+01:00"
   },
   {
-    "time": "00:43",
-    "artist": "Athlete",
-    "title": "Wires",
-    "timestamp": "2025-10-30T00:43:00+01:00"
+    "time": "00:40",
+    "artist": "Everlast",
+    "title": "What It's Like",
+    "timestamp": "2025-10-30T00:40:00+01:00"
   },
   {
-    "time": "00:37",
-    "artist": "Stooges",
-    "title": "I Wanna be Your Dog",
-    "timestamp": "2025-10-30T00:37:00+01:00"
+    "time": "00:35",
+    "artist": "P.O.D.",
+    "title": "Youth of the Nation",
+    "timestamp": "2025-10-30T00:35:00+01:00"
   },
   {
-    "time": "00:33",
-    "artist": "Arcade Fire",
-    "title": "Ready to Start",
-    "timestamp": "2025-10-30T00:33:00+01:00"
-  },
-  {
-    "time": "00:24",
-    "artist": "Anouk",
-    "title": "The Dark",
-    "timestamp": "2025-10-30T00:24:00+01:00"
+    "time": "00:31",
+    "artist": "Foals",
+    "title": "My Number",
+    "timestamp": "2025-10-30T00:31:00+01:00"
   },
   {
     "time": "00:22",
-    "artist": "The Last Shadow Puppets",
-    "title": "The Age of the Understatement",
+    "artist": "Guns N' Roses",
+    "title": "Patience",
     "timestamp": "2025-10-30T00:22:00+01:00"
   },
   {
-    "time": "00:19",
-    "artist": "Jam",
-    "title": "Town Called Malice",
-    "timestamp": "2025-10-30T00:19:00+01:00"
+    "time": "00:18",
+    "artist": "Supergrass",
+    "title": "Moving",
+    "timestamp": "2025-10-30T00:18:00+01:00"
   },
   {
-    "time": "00:16",
-    "artist": "Green Day",
-    "title": "Minority",
-    "timestamp": "2025-10-30T00:16:00+01:00"
+    "time": "00:14",
+    "artist": "Slayer",
+    "title": "Raining Blood",
+    "timestamp": "2025-10-30T00:14:00+01:00"
   },
   {
-    "time": "00:07",
-    "artist": "Moby",
-    "title": "Go! (Woodstock Mix)",
-    "timestamp": "2025-10-30T00:07:00+01:00"
+    "time": "00:10",
+    "artist": "R.E.M.",
+    "title": "Imitation of Life",
+    "timestamp": "2025-10-30T00:10:00+01:00"
   },
   {
     "time": "00:05",
-    "artist": "The Police",
-    "title": "Roxanne",
+    "artist": "Eels",
+    "title": "That Look You Give That Guy",
     "timestamp": "2025-10-30T00:05:00+01:00"
+  },
+  {
+    "time": "00:02",
+    "artist": "Fatboy Slim",
+    "title": "Praise You",
+    "timestamp": "2025-10-30T00:02:00+01:00"
   }
 ]
