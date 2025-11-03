@@ -1,9 +1,51 @@
 [
   {
     "time": "Live",
+    "artist": "The Cure",
+    "title": "Friday I'm In Love",
+    "timestamp": "2025-11-03T07:22:30.730355+01:00"
+  },
+  {
+    "time": "23:16",
+    "artist": "Frank Carter And The Rattlesnakes",
+    "title": "Kitty Sucker",
+    "timestamp": "2025-11-02T23:16:00+01:00"
+  },
+  {
+    "time": "23:12",
+    "artist": "Johan",
+    "title": "Day is Done",
+    "timestamp": "2025-11-02T23:12:00+01:00"
+  },
+  {
+    "time": "23:08",
+    "artist": "Pogues",
+    "title": "Dirty Old Town",
+    "timestamp": "2025-11-02T23:08:00+01:00"
+  },
+  {
+    "time": "23:04",
+    "artist": "Triggerfinger",
+    "title": "All This Dancin' Around",
+    "timestamp": "2025-11-02T23:04:00+01:00"
+  },
+  {
+    "time": "22:56",
+    "artist": "Cake",
+    "title": "The Distance",
+    "timestamp": "2025-11-02T22:56:00+01:00"
+  },
+  {
+    "time": "22:53",
+    "artist": "David Bowie",
+    "title": "Ziggy Stardust",
+    "timestamp": "2025-11-02T22:53:00+01:00"
+  },
+  {
+    "time": "22:50",
     "artist": "Jimmy Eat World",
     "title": "The Middle",
-    "timestamp": "2025-11-03T06:52:41.607448+01:00"
+    "timestamp": "2025-11-02T22:50:00+01:00"
   },
   {
     "time": "22:46",
@@ -1215,37 +1257,37 @@
     "time": "08:19",
     "artist": "Sex Pistols",
     "title": "Anarchy in the UK",
-    "timestamp": "2025-11-02T08:19:00+01:00"
+    "timestamp": "2025-11-03T08:19:00+01:00"
   },
   {
     "time": "08:16",
     "artist": "Fink",
     "title": "Looking Too Closely",
-    "timestamp": "2025-11-02T08:16:00+01:00"
+    "timestamp": "2025-11-03T08:16:00+01:00"
   },
   {
     "time": "08:12",
     "artist": "The Offspring",
     "title": "Come Out And Play",
-    "timestamp": "2025-11-02T08:12:00+01:00"
+    "timestamp": "2025-11-03T08:12:00+01:00"
   },
   {
     "time": "08:09",
     "artist": "The Strokes",
     "title": "Last Nite",
-    "timestamp": "2025-11-02T08:09:00+01:00"
+    "timestamp": "2025-11-03T08:09:00+01:00"
   },
   {
     "time": "07:59",
     "artist": "Bruce Springsteen",
     "title": "The River",
-    "timestamp": "2025-11-02T07:59:00+01:00"
+    "timestamp": "2025-11-03T07:59:00+01:00"
   },
   {
     "time": "07:55",
     "artist": "Volbeat",
     "title": "By A Monster's Hand",
-    "timestamp": "2025-11-02T07:55:00+01:00"
+    "timestamp": "2025-11-03T07:55:00+01:00"
   },
   {
     "time": "07:51",
@@ -1740,75 +1782,153 @@
     "timestamp": "2025-11-03T01:04:00+01:00"
   },
   {
-    "time": "00:54",
+    "time": "01:54",
     "artist": "Slayer",
     "title": "Angel of Death",
-    "timestamp": "2025-11-03T00:54:00+01:00"
+    "timestamp": "2025-11-03T01:54:00+01:00"
+  },
+  {
+    "time": "01:50",
+    "artist": "Son Mieux",
+    "title": "Multicolor",
+    "timestamp": "2025-11-03T01:50:00+01:00"
+  },
+  {
+    "time": "01:46",
+    "artist": "Placebo",
+    "title": "Nancy Boy",
+    "timestamp": "2025-11-03T01:46:00+01:00"
+  },
+  {
+    "time": "01:40",
+    "artist": "Simple Minds",
+    "title": "Theme For Great Cities",
+    "timestamp": "2025-11-03T01:40:00+01:00"
+  },
+  {
+    "time": "01:36",
+    "artist": "Cypress Hill",
+    "title": "Insane In The Brain",
+    "timestamp": "2025-11-03T01:36:00+01:00"
+  },
+  {
+    "time": "01:32",
+    "artist": "Kings Of Leon",
+    "title": "Pyro",
+    "timestamp": "2025-11-03T01:32:00+01:00"
+  },
+  {
+    "time": "01:25",
+    "artist": "Muse",
+    "title": "Sunburn",
+    "timestamp": "2025-11-03T01:25:00+01:00"
+  },
+  {
+    "time": "01:22",
+    "artist": "Vampire Weekend",
+    "title": "A-Punk",
+    "timestamp": "2025-11-03T01:22:00+01:00"
+  },
+  {
+    "time": "01:19",
+    "artist": "Jimi Hendrix",
+    "title": "Purple Haze",
+    "timestamp": "2025-11-03T01:19:00+01:00"
+  },
+  {
+    "time": "01:15",
+    "artist": "Spinvis",
+    "title": "Voor ik vergeet",
+    "timestamp": "2025-11-03T01:15:00+01:00"
+  },
+  {
+    "time": "01:10",
+    "artist": "Nirvana",
+    "title": "All Apologies",
+    "timestamp": "2025-11-03T01:10:00+01:00"
+  },
+  {
+    "time": "01:07",
+    "artist": "Kaiser Chiefs",
+    "title": "Ruby",
+    "timestamp": "2025-11-03T01:07:00+01:00"
+  },
+  {
+    "time": "00:58",
+    "artist": "A Flock Of Seagulls",
+    "title": "Wishing (if I Had A Photograph Of You)",
+    "timestamp": "2025-11-03T00:58:00+01:00"
+  },
+  {
+    "time": "00:55",
+    "artist": "Frank Carter & The Rattlesnakes",
+    "title": "My Town (Feat. Joe Talbot)",
+    "timestamp": "2025-11-03T00:55:00+01:00"
   },
   {
     "time": "00:50",
-    "artist": "Son Mieux",
-    "title": "Multicolor",
+    "artist": "Skunk Anansie",
+    "title": "Brazen Weep",
     "timestamp": "2025-11-03T00:50:00+01:00"
   },
   {
-    "time": "00:46",
-    "artist": "Placebo",
-    "title": "Nancy Boy",
-    "timestamp": "2025-11-03T00:46:00+01:00"
+    "time": "00:45",
+    "artist": "Audioslave",
+    "title": "Show Me How To Live",
+    "timestamp": "2025-11-03T00:45:00+01:00"
   },
   {
     "time": "00:40",
-    "artist": "Simple Minds",
-    "title": "Theme For Great Cities",
+    "artist": "Lana Del Rey",
+    "title": "Video Games",
     "timestamp": "2025-11-03T00:40:00+01:00"
   },
   {
     "time": "00:36",
-    "artist": "Cypress Hill",
-    "title": "Insane In The Brain",
+    "artist": "Faith No More",
+    "title": "Ashes To Ashes",
     "timestamp": "2025-11-03T00:36:00+01:00"
   },
   {
     "time": "00:32",
-    "artist": "Kings Of Leon",
-    "title": "Pyro",
+    "artist": "Talking Heads",
+    "title": "Once in a Lifetime",
     "timestamp": "2025-11-03T00:32:00+01:00"
   },
   {
     "time": "00:25",
-    "artist": "Muse",
-    "title": "Sunburn",
+    "artist": "Twenty One Pilots",
+    "title": "Next Semester",
     "timestamp": "2025-11-03T00:25:00+01:00"
   },
   {
-    "time": "00:22",
-    "artist": "Vampire Weekend",
-    "title": "A-Punk",
-    "timestamp": "2025-11-03T00:22:00+01:00"
+    "time": "00:23",
+    "artist": "Bloodhound Gang",
+    "title": "The Ballad of Chasey Lain",
+    "timestamp": "2025-11-03T00:23:00+01:00"
   },
   {
-    "time": "00:19",
-    "artist": "Jimi Hendrix",
-    "title": "Purple Haze",
-    "timestamp": "2025-11-03T00:19:00+01:00"
+    "time": "00:17",
+    "artist": "Talk Talk",
+    "title": "Life's What You Make It",
+    "timestamp": "2025-11-03T00:17:00+01:00"
   },
   {
-    "time": "00:15",
-    "artist": "Spinvis",
-    "title": "Voor ik vergeet",
-    "timestamp": "2025-11-03T00:15:00+01:00"
+    "time": "00:13",
+    "artist": "Deftones",
+    "title": "Be Quiet And Drive (Far Away)",
+    "timestamp": "2025-11-03T00:13:00+01:00"
   },
   {
-    "time": "00:10",
-    "artist": "Nirvana",
-    "title": "All Apologies",
-    "timestamp": "2025-11-03T00:10:00+01:00"
+    "time": "00:08",
+    "artist": "The Killers",
+    "title": "When You Were Young",
+    "timestamp": "2025-11-03T00:08:00+01:00"
   },
   {
-    "time": "00:07",
-    "artist": "Kaiser Chiefs",
-    "title": "Ruby",
-    "timestamp": "2025-11-03T00:07:00+01:00"
+    "time": "00:05",
+    "artist": "Snow Patrol and Martha Wainwright",
+    "title": "Set the Fire to the Third Bar",
+    "timestamp": "2025-11-03T00:05:00+01:00"
   }
 ]
