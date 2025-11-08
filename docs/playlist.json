@@ -1,314 +1,92 @@
 [
   {
     "time": "Live",
-    "artist": "Sinead O'Connor",
-    "title": "Troy",
-    "timestamp": "2025-11-08T09:55:10.769741+01:00"
+    "artist": "Bush",
+    "title": "Glycerine",
+    "timestamp": "2025-11-08T10:18:22.035636+01:00"
   },
   {
-    "time": "03:50",
-    "artist": "Nirvana",
-    "title": "Lithium",
-    "timestamp": "2025-11-08T03:50:00+01:00"
-  },
-  {
-    "time": "03:47",
-    "artist": "Gorillaz",
-    "title": "Feel Good Inc",
-    "timestamp": "2025-11-08T03:47:00+01:00"
-  },
-  {
-    "time": "03:43",
-    "artist": "Muse",
-    "title": "Supermassive Black Hole",
-    "timestamp": "2025-11-08T03:43:00+01:00"
-  },
-  {
-    "time": "03:35",
-    "artist": "Black Sabbath",
-    "title": "War Pigs",
-    "timestamp": "2025-11-08T03:35:00+01:00"
-  },
-  {
-    "time": "03:32",
-    "artist": "Pearl Jam",
-    "title": "Just Breathe",
-    "timestamp": "2025-11-08T03:32:00+01:00"
-  },
-  {
-    "time": "03:28",
-    "artist": "Foo Fighters",
-    "title": "My Hero",
-    "timestamp": "2025-11-08T03:28:00+01:00"
-  },
-  {
-    "time": "03:21",
-    "artist": "Depeche Mode",
-    "title": "Personal Jesus",
-    "timestamp": "2025-11-08T03:21:00+01:00"
-  },
-  {
-    "time": "03:16",
-    "artist": "The National",
-    "title": "Bloodbuzz Ohio",
-    "timestamp": "2025-11-08T03:16:00+01:00"
-  },
-  {
-    "time": "03:12",
-    "artist": "Stone Temple Pilots",
-    "title": "Plush",
-    "timestamp": "2025-11-08T03:12:00+01:00"
-  },
-  {
-    "time": "03:07",
-    "artist": "Air",
-    "title": "All I Need",
-    "timestamp": "2025-11-08T03:07:00+01:00"
-  },
-  {
-    "time": "03:03",
-    "artist": "Tenacious D",
-    "title": "Tribute",
-    "timestamp": "2025-11-08T03:03:00+01:00"
-  },
-  {
-    "time": "02:54",
-    "artist": "Gossip",
-    "title": "Heavy Cross",
-    "timestamp": "2025-11-08T02:54:00+01:00"
-  },
-  {
-    "time": "02:50",
-    "artist": "Dog Eat Dog",
-    "title": "No Fronts",
-    "timestamp": "2025-11-08T02:50:00+01:00"
-  },
-  {
-    "time": "02:45",
-    "artist": "Mumford and Sons",
-    "title": "I Will Wait",
-    "timestamp": "2025-11-08T02:45:00+01:00"
-  },
-  {
-    "time": "02:42",
-    "artist": "Biffy Clyro",
-    "title": "Goodbye",
-    "timestamp": "2025-11-08T02:42:00+01:00"
-  },
-  {
-    "time": "02:38",
-    "artist": "David Bowie",
-    "title": "Ashes To Ashes",
-    "timestamp": "2025-11-08T02:38:00+01:00"
-  },
-  {
-    "time": "02:29",
-    "artist": "Queens Of The Stone Age",
-    "title": "The Lost Art of Keeping a Secret",
-    "timestamp": "2025-11-08T02:29:00+01:00"
-  },
-  {
-    "time": "02:24",
-    "artist": "Counting Crows",
-    "title": "Mr. Jones",
-    "timestamp": "2025-11-08T02:24:00+01:00"
-  },
-  {
-    "time": "02:21",
-    "artist": "The Deaf",
-    "title": "Coming Down That Road",
-    "timestamp": "2025-11-08T02:21:00+01:00"
-  },
-  {
-    "time": "02:17",
-    "artist": "Simple Minds",
-    "title": "Don't You Forget About Me",
-    "timestamp": "2025-11-08T02:17:00+01:00"
-  },
-  {
-    "time": "02:12",
-    "artist": "Stone Sour",
-    "title": "Through Glass",
-    "timestamp": "2025-11-08T02:12:00+01:00"
-  },
-  {
-    "time": "02:09",
-    "artist": "Triggerfinger",
-    "title": "Stars",
-    "timestamp": "2025-11-08T02:09:00+01:00"
-  },
-  {
-    "time": "02:06",
-    "artist": "Lit",
-    "title": "My Own Worst Enemy",
-    "timestamp": "2025-11-08T02:06:00+01:00"
-  },
-  {
-    "time": "01:56",
-    "artist": "Iron Maiden",
-    "title": "Run To The Hills",
-    "timestamp": "2025-11-08T01:56:00+01:00"
-  },
-  {
-    "time": "01:53",
-    "artist": "Sam Fender",
-    "title": "Talk To You (feat. Elton John)",
-    "timestamp": "2025-11-08T01:53:00+01:00"
-  },
-  {
-    "time": "01:49",
-    "artist": "The Cardigans",
-    "title": "Carnival",
-    "timestamp": "2025-11-08T01:49:00+01:00"
-  },
-  {
-    "time": "01:46",
-    "artist": "Bastille",
-    "title": "Pompeii",
-    "timestamp": "2025-11-08T01:46:00+01:00"
-  },
-  {
-    "time": "01:42",
-    "artist": "Evanescence",
-    "title": "Lithium",
-    "timestamp": "2025-11-08T01:42:00+01:00"
-  },
-  {
-    "time": "01:39",
-    "artist": "Blaudzun",
-    "title": "Stripes",
-    "timestamp": "2025-11-08T01:39:00+01:00"
-  },
-  {
-    "time": "01:35",
-    "artist": "K's Choice",
-    "title": "Everything For Free",
-    "timestamp": "2025-11-08T01:35:00+01:00"
-  },
-  {
-    "time": "01:28",
-    "artist": "Lloyd Cole & The Commotions",
-    "title": "Rattlesnakes",
-    "timestamp": "2025-11-08T01:28:00+01:00"
-  },
-  {
-    "time": "01:25",
-    "artist": "Jimmy Eat World",
-    "title": "Sweetness",
-    "timestamp": "2025-11-08T01:25:00+01:00"
-  },
-  {
-    "time": "01:21",
-    "artist": "Foster The People",
-    "title": "Pumped Up Kicks",
-    "timestamp": "2025-11-08T01:21:00+01:00"
-  },
-  {
-    "time": "01:16",
-    "artist": "Biffy Clyro",
-    "title": "Bubbles",
-    "timestamp": "2025-11-08T01:16:00+01:00"
-  },
-  {
-    "time": "01:12",
-    "artist": "STONE",
-    "title": "Monkey See Monkey Do",
-    "timestamp": "2025-11-08T01:12:00+01:00"
+    "time": "01:11",
+    "artist": "Yungblud",
+    "title": "Zombie",
+    "timestamp": "2025-11-08T01:11:00+01:00"
   },
   {
     "time": "01:07",
-    "artist": "Prince",
-    "title": "Purple Rain (5.21 Version)",
+    "artist": "Korn",
+    "title": "Freak On A Leash",
     "timestamp": "2025-11-08T01:07:00+01:00"
   },
   {
-    "time": "01:04",
-    "artist": "Franz Ferdinand",
-    "title": "Do You Want To",
-    "timestamp": "2025-11-08T01:04:00+01:00"
+    "time": "00:55",
+    "artist": "Sinead O'Connor",
+    "title": "Troy",
+    "timestamp": "2025-11-08T00:55:00+01:00"
   },
   {
-    "time": "00:54",
-    "artist": "Kings Of Leon",
-    "title": "Temple",
-    "timestamp": "2025-11-08T00:54:00+01:00"
+    "time": "00:50",
+    "artist": "Nirvana",
+    "title": "Lithium",
+    "timestamp": "2025-11-08T00:50:00+01:00"
   },
   {
-    "time": "00:51",
-    "artist": "Jam",
-    "title": "Town Called Malice",
-    "timestamp": "2025-11-08T00:51:00+01:00"
+    "time": "00:47",
+    "artist": "Gorillaz",
+    "title": "Feel Good Inc",
+    "timestamp": "2025-11-08T00:47:00+01:00"
   },
   {
-    "time": "00:48",
-    "artist": "Hiqpy",
-    "title": "Girl In Red",
-    "timestamp": "2025-11-08T00:48:00+01:00"
+    "time": "00:43",
+    "artist": "Muse",
+    "title": "Supermassive Black Hole",
+    "timestamp": "2025-11-08T00:43:00+01:00"
   },
   {
-    "time": "00:44",
-    "artist": "The Kooks",
-    "title": "Do You Wanna",
-    "timestamp": "2025-11-08T00:44:00+01:00"
-  },
-  {
-    "time": "00:39",
-    "artist": "R.E.M.",
-    "title": "Drive",
-    "timestamp": "2025-11-08T00:39:00+01:00"
-  },
-  {
-    "time": "00:36",
-    "artist": "The Vices",
-    "title": "I Know",
-    "timestamp": "2025-11-08T00:36:00+01:00"
+    "time": "00:35",
+    "artist": "Black Sabbath",
+    "title": "War Pigs",
+    "timestamp": "2025-11-08T00:35:00+01:00"
   },
   {
     "time": "00:32",
-    "artist": "Live",
-    "title": "Run To The Water",
+    "artist": "Pearl Jam",
+    "title": "Just Breathe",
     "timestamp": "2025-11-08T00:32:00+01:00"
   },
   {
-    "time": "00:24",
-    "artist": "Moby",
-    "title": "Natural Blues",
-    "timestamp": "2025-11-08T00:24:00+01:00"
-  },
-  {
-    "time": "00:20",
-    "artist": "Foals",
-    "title": "Mountain At My Gates",
-    "timestamp": "2025-11-08T00:20:00+01:00"
-  },
-  {
-    "time": "00:17",
-    "artist": "The Cure",
-    "title": "Lovesong",
-    "timestamp": "2025-11-08T00:17:00+01:00"
-  },
-  {
-    "time": "00:15",
-    "artist": "The White Stripes",
-    "title": "Fell In Love With A Girl",
-    "timestamp": "2025-11-08T00:15:00+01:00"
-  },
-  {
-    "time": "00:11",
-    "artist": "Garbage",
-    "title": "Only Happy When It Rains",
-    "timestamp": "2025-11-08T00:11:00+01:00"
-  },
-  {
-    "time": "00:06",
+    "time": "00:28",
     "artist": "Foo Fighters",
-    "title": "Asking For A Friend",
-    "timestamp": "2025-11-08T00:06:00+01:00"
+    "title": "My Hero",
+    "timestamp": "2025-11-08T00:28:00+01:00"
   },
   {
-    "time": "00:02",
-    "artist": "Iggy Pop",
-    "title": "The Passenger",
-    "timestamp": "2025-11-08T00:02:00+01:00"
+    "time": "00:21",
+    "artist": "Depeche Mode",
+    "title": "Personal Jesus",
+    "timestamp": "2025-11-08T00:21:00+01:00"
+  },
+  {
+    "time": "00:16",
+    "artist": "The National",
+    "title": "Bloodbuzz Ohio",
+    "timestamp": "2025-11-08T00:16:00+01:00"
+  },
+  {
+    "time": "00:12",
+    "artist": "Stone Temple Pilots",
+    "title": "Plush",
+    "timestamp": "2025-11-08T00:12:00+01:00"
+  },
+  {
+    "time": "00:07",
+    "artist": "Air",
+    "title": "All I Need",
+    "timestamp": "2025-11-08T00:07:00+01:00"
+  },
+  {
+    "time": "00:03",
+    "artist": "Tenacious D",
+    "title": "Tribute",
+    "timestamp": "2025-11-08T00:03:00+01:00"
   }
 ]
