@@ -1,362 +1,206 @@
 [
   {
     "time": "Live",
-    "artist": "Linkin Park",
-    "title": "The Emptiness Machine",
-    "timestamp": "2025-11-18T10:58:48.373197+01:00"
+    "artist": "Queen",
+    "title": "Tie Your Mother Down",
+    "timestamp": "2025-11-18T11:32:33.312612+01:00"
   },
   {
-    "time": "04:51",
-    "artist": "Talk Talk",
-    "title": "Life's What You Make It",
-    "timestamp": "2025-11-18T04:51:00+01:00"
-  },
-  {
-    "time": "04:46",
-    "artist": "Foo Fighters",
-    "title": "Asking For A Friend",
-    "timestamp": "2025-11-18T04:46:00+01:00"
-  },
-  {
-    "time": "04:43",
-    "artist": "Blink-182",
-    "title": "I Miss You",
-    "timestamp": "2025-11-18T04:43:00+01:00"
-  },
-  {
-    "time": "04:38",
-    "artist": "Placebo",
-    "title": "Every You Every Me",
-    "timestamp": "2025-11-18T04:38:00+01:00"
-  },
-  {
-    "time": "04:35",
-    "artist": "Kingfishr",
-    "title": "21",
-    "timestamp": "2025-11-18T04:35:00+01:00"
-  },
-  {
-    "time": "04:32",
-    "artist": "Within Temptation",
-    "title": "Ice Queen",
-    "timestamp": "2025-11-18T04:32:00+01:00"
-  },
-  {
-    "time": "04:25",
-    "artist": "Johan",
-    "title": "Everybody Knows",
-    "timestamp": "2025-11-18T04:25:00+01:00"
-  },
-  {
-    "time": "04:22",
-    "artist": "The Black Keys",
-    "title": "Lo/Hi",
-    "timestamp": "2025-11-18T04:22:00+01:00"
-  },
-  {
-    "time": "04:18",
-    "artist": "The Clash",
-    "title": "Rock The Casbah",
-    "timestamp": "2025-11-18T04:18:00+01:00"
-  },
-  {
-    "time": "04:15",
-    "artist": "Yellowcard",
-    "title": "Ocean Avenue",
-    "timestamp": "2025-11-18T04:15:00+01:00"
-  },
-  {
-    "time": "04:10",
-    "artist": "Manic Street Preachers",
-    "title": "If You Tolerate This Your Children Will Be Next",
-    "timestamp": "2025-11-18T04:10:00+01:00"
-  },
-  {
-    "time": "04:07",
-    "artist": "Triggerfinger",
-    "title": "Stars",
-    "timestamp": "2025-11-18T04:07:00+01:00"
-  },
-  {
-    "time": "04:03",
-    "artist": "The Stone Roses",
-    "title": "Fools Gold",
-    "timestamp": "2025-11-18T04:03:00+01:00"
-  },
-  {
-    "time": "03:56",
-    "artist": "Biffy Clyro",
-    "title": "Hunting Season",
-    "timestamp": "2025-11-18T03:56:00+01:00"
-  },
-  {
-    "time": "03:52",
-    "artist": "The Kooks",
-    "title": "Do You Wanna",
-    "timestamp": "2025-11-18T03:52:00+01:00"
-  },
-  {
-    "time": "03:48",
-    "artist": "Red Hot Chili Peppers",
-    "title": "Dark Necessities",
-    "timestamp": "2025-11-18T03:48:00+01:00"
-  },
-  {
-    "time": "03:45",
-    "artist": "Two Door Cinema Club",
-    "title": "Something Good Can Work",
-    "timestamp": "2025-11-18T03:45:00+01:00"
-  },
-  {
-    "time": "03:42",
-    "artist": "Bleech 9:3",
-    "title": "Ceiling",
-    "timestamp": "2025-11-18T03:42:00+01:00"
-  },
-  {
-    "time": "03:38",
-    "artist": "The Cardigans",
-    "title": "My Favourite Game",
-    "timestamp": "2025-11-18T03:38:00+01:00"
-  },
-  {
-    "time": "03:29",
-    "artist": "Bruce Springsteen",
-    "title": "Born to Run",
-    "timestamp": "2025-11-18T03:29:00+01:00"
-  },
-  {
-    "time": "03:26",
-    "artist": "Fontaines D.C.",
-    "title": "Starburster",
-    "timestamp": "2025-11-18T03:26:00+01:00"
-  },
-  {
-    "time": "03:22",
-    "artist": "The Raconteurs",
-    "title": "Steady, As She Goes",
-    "timestamp": "2025-11-18T03:22:00+01:00"
-  },
-  {
-    "time": "03:19",
-    "artist": "SONS",
-    "title": "Somehow",
-    "timestamp": "2025-11-18T03:19:00+01:00"
-  },
-  {
-    "time": "03:14",
-    "artist": "Rolling Stones",
-    "title": "Like A Rolling Stone",
-    "timestamp": "2025-11-18T03:14:00+01:00"
-  },
-  {
-    "time": "03:10",
-    "artist": "Blur",
-    "title": "Beetlebum",
-    "timestamp": "2025-11-18T03:10:00+01:00"
-  },
-  {
-    "time": "03:05",
-    "artist": "Metallica",
-    "title": "Whiskey in the Jar",
-    "timestamp": "2025-11-18T03:05:00+01:00"
-  },
-  {
-    "time": "02:54",
-    "artist": "Nirvana",
-    "title": "Where Did You Sleep Last Night (Unplugged)",
-    "timestamp": "2025-11-18T02:54:00+01:00"
-  },
-  {
-    "time": "02:48",
-    "artist": "White Lies",
-    "title": "Juice",
-    "timestamp": "2025-11-18T02:48:00+01:00"
-  },
-  {
-    "time": "02:44",
-    "artist": "Simple Plan",
-    "title": "Your Love Is A Lie",
-    "timestamp": "2025-11-18T02:44:00+01:00"
-  },
-  {
-    "time": "02:39",
-    "artist": "Queen's Pleasure",
-    "title": "The Club",
-    "timestamp": "2025-11-18T02:39:00+01:00"
-  },
-  {
-    "time": "02:34",
-    "artist": "The Black Crowes",
-    "title": "Remedy",
-    "timestamp": "2025-11-18T02:34:00+01:00"
-  },
-  {
-    "time": "02:24",
-    "artist": "Bastille",
-    "title": "Pompeii",
-    "timestamp": "2025-11-18T02:24:00+01:00"
+    "time": "02:22",
+    "artist": "Vampire Weekend",
+    "title": "A-Punk",
+    "timestamp": "2025-11-18T02:22:00+01:00"
   },
   {
     "time": "02:18",
-    "artist": "Bloc Party",
-    "title": "Banquet",
+    "artist": "Volbeat",
+    "title": "Heaven Nor Hell",
     "timestamp": "2025-11-18T02:18:00+01:00"
   },
   {
-    "time": "02:11",
-    "artist": "Kings of Leon",
-    "title": "To Space",
-    "timestamp": "2025-11-18T02:11:00+01:00"
+    "time": "02:14",
+    "artist": "EMF",
+    "title": "Unbelievable",
+    "timestamp": "2025-11-18T02:14:00+01:00"
   },
   {
-    "time": "02:05",
-    "artist": "Pearl Jam",
-    "title": "Alive",
-    "timestamp": "2025-11-18T02:05:00+01:00"
+    "time": "02:10",
+    "artist": "Sam Fender",
+    "title": "Talk To You (feat. Elton John)",
+    "timestamp": "2025-11-18T02:10:00+01:00"
+  },
+  {
+    "time": "02:07",
+    "artist": "AC/DC",
+    "title": "You Shook Me All Night Long",
+    "timestamp": "2025-11-18T02:07:00+01:00"
+  },
+  {
+    "time": "02:02",
+    "artist": "Live",
+    "title": "Run To The Water",
+    "timestamp": "2025-11-18T02:02:00+01:00"
   },
   {
     "time": "01:55",
-    "artist": "The War On Drugs",
-    "title": "Oceans Of Darkness",
+    "artist": "Linkin Park",
+    "title": "The Emptiness Machine",
     "timestamp": "2025-11-18T01:55:00+01:00"
   },
   {
     "time": "01:51",
-    "artist": "Bad Omens",
-    "title": "Dying To Love",
+    "artist": "Talk Talk",
+    "title": "Life's What You Make It",
     "timestamp": "2025-11-18T01:51:00+01:00"
   },
   {
     "time": "01:46",
-    "artist": "R.E.M.",
-    "title": "Man On The Moon",
+    "artist": "Foo Fighters",
+    "title": "Asking For A Friend",
     "timestamp": "2025-11-18T01:46:00+01:00"
   },
   {
-    "time": "01:40",
-    "artist": "Sum 41",
-    "title": "Fat Lip",
-    "timestamp": "2025-11-18T01:40:00+01:00"
+    "time": "01:43",
+    "artist": "Blink-182",
+    "title": "I Miss You",
+    "timestamp": "2025-11-18T01:43:00+01:00"
+  },
+  {
+    "time": "01:38",
+    "artist": "Placebo",
+    "title": "Every You Every Me",
+    "timestamp": "2025-11-18T01:38:00+01:00"
   },
   {
     "time": "01:35",
-    "artist": "Hiqpy",
-    "title": "Red Flag Magician",
+    "artist": "Kingfishr",
+    "title": "21",
     "timestamp": "2025-11-18T01:35:00+01:00"
   },
   {
-    "time": "01:30",
-    "artist": "David Bowie",
-    "title": "Ashes To Ashes",
-    "timestamp": "2025-11-18T01:30:00+01:00"
+    "time": "01:32",
+    "artist": "Within Temptation",
+    "title": "Ice Queen",
+    "timestamp": "2025-11-18T01:32:00+01:00"
   },
   {
-    "time": "01:21",
-    "artist": "The La's",
-    "title": "There She Goes",
-    "timestamp": "2025-11-18T01:21:00+01:00"
+    "time": "01:25",
+    "artist": "Johan",
+    "title": "Everybody Knows",
+    "timestamp": "2025-11-18T01:25:00+01:00"
+  },
+  {
+    "time": "01:22",
+    "artist": "The Black Keys",
+    "title": "Lo/Hi",
+    "timestamp": "2025-11-18T01:22:00+01:00"
   },
   {
     "time": "01:18",
-    "artist": "Johan",
-    "title": "She's Got a Way With Men",
+    "artist": "The Clash",
+    "title": "Rock The Casbah",
     "timestamp": "2025-11-18T01:18:00+01:00"
   },
   {
-    "time": "01:11",
-    "artist": "Deftones",
-    "title": "Infinite Source",
-    "timestamp": "2025-11-18T01:11:00+01:00"
+    "time": "01:15",
+    "artist": "Yellowcard",
+    "title": "Ocean Avenue",
+    "timestamp": "2025-11-18T01:15:00+01:00"
   },
   {
-    "time": "01:06",
-    "artist": "Prince",
-    "title": "Sign 'o' The Times",
-    "timestamp": "2025-11-18T01:06:00+01:00"
+    "time": "01:10",
+    "artist": "Manic Street Preachers",
+    "title": "If You Tolerate This Your Children Will Be Next",
+    "timestamp": "2025-11-18T01:10:00+01:00"
   },
   {
-    "time": "01:02",
-    "artist": "Muse",
-    "title": "Starlight",
-    "timestamp": "2025-11-18T01:02:00+01:00"
+    "time": "01:07",
+    "artist": "Triggerfinger",
+    "title": "Stars",
+    "timestamp": "2025-11-18T01:07:00+01:00"
   },
   {
-    "time": "00:53",
-    "artist": "Hayley Williams",
-    "title": "Mirtazapine",
-    "timestamp": "2025-11-18T00:53:00+01:00"
+    "time": "01:03",
+    "artist": "The Stone Roses",
+    "title": "Fools Gold",
+    "timestamp": "2025-11-18T01:03:00+01:00"
   },
   {
-    "time": "00:49",
-    "artist": "Deep Purple",
-    "title": "Smoke On The Water",
-    "timestamp": "2025-11-18T00:49:00+01:00"
+    "time": "00:56",
+    "artist": "Biffy Clyro",
+    "title": "Hunting Season",
+    "timestamp": "2025-11-18T00:56:00+01:00"
+  },
+  {
+    "time": "00:52",
+    "artist": "The Kooks",
+    "title": "Do You Wanna",
+    "timestamp": "2025-11-18T00:52:00+01:00"
+  },
+  {
+    "time": "00:48",
+    "artist": "Red Hot Chili Peppers",
+    "title": "Dark Necessities",
+    "timestamp": "2025-11-18T00:48:00+01:00"
   },
   {
     "time": "00:45",
-    "artist": "Badly Drawn Boy",
-    "title": "Nothing's Gonna Change Your Mind",
+    "artist": "Two Door Cinema Club",
+    "title": "Something Good Can Work",
     "timestamp": "2025-11-18T00:45:00+01:00"
   },
   {
-    "time": "00:40",
-    "artist": "Skunk Anansie",
-    "title": "Brazen Weep",
-    "timestamp": "2025-11-18T00:40:00+01:00"
+    "time": "00:42",
+    "artist": "Bleech 9:3",
+    "title": "Ceiling",
+    "timestamp": "2025-11-18T00:42:00+01:00"
   },
   {
     "time": "00:38",
-    "artist": "STONE",
-    "title": "Monkey See Monkey Do",
+    "artist": "The Cardigans",
+    "title": "My Favourite Game",
     "timestamp": "2025-11-18T00:38:00+01:00"
   },
   {
-    "time": "00:34",
-    "artist": "The Killers",
-    "title": "Mr. Brightside",
-    "timestamp": "2025-11-18T00:34:00+01:00"
+    "time": "00:29",
+    "artist": "Bruce Springsteen",
+    "title": "Born to Run",
+    "timestamp": "2025-11-18T00:29:00+01:00"
   },
   {
     "time": "00:26",
-    "artist": "K's Choice",
-    "title": "Dad",
+    "artist": "Fontaines D.C.",
+    "title": "Starburster",
     "timestamp": "2025-11-18T00:26:00+01:00"
   },
   {
-    "time": "00:21",
-    "artist": "Dropkick Murphys",
-    "title": "Rose Tattoo",
-    "timestamp": "2025-11-18T00:21:00+01:00"
+    "time": "00:22",
+    "artist": "The Raconteurs",
+    "title": "Steady, As She Goes",
+    "timestamp": "2025-11-18T00:22:00+01:00"
   },
   {
-    "time": "00:16",
-    "artist": "Simple Minds",
-    "title": "Sanctify Yourself",
-    "timestamp": "2025-11-18T00:16:00+01:00"
+    "time": "00:19",
+    "artist": "SONS",
+    "title": "Somehow",
+    "timestamp": "2025-11-18T00:19:00+01:00"
   },
   {
-    "time": "00:11",
-    "artist": "Linkin' Park",
-    "title": "New Divide",
-    "timestamp": "2025-11-18T00:11:00+01:00"
+    "time": "00:14",
+    "artist": "Rolling Stones",
+    "title": "Like A Rolling Stone",
+    "timestamp": "2025-11-18T00:14:00+01:00"
   },
   {
-    "time": "00:08",
-    "artist": "Wet Leg",
-    "title": "Mangetout",
-    "timestamp": "2025-11-18T00:08:00+01:00"
+    "time": "00:10",
+    "artist": "Blur",
+    "title": "Beetlebum",
+    "timestamp": "2025-11-18T00:10:00+01:00"
   },
   {
-    "time": "00:03",
-    "artist": "Stone Temple Pilots",
-    "title": "Interstate Love Song",
-    "timestamp": "2025-11-18T00:03:00+01:00"
-  },
-  {
-    "time": "00:01",
-    "artist": "The Cure",
-    "title": "Boys Don't Cry",
-    "timestamp": "2025-11-18T00:01:00+01:00"
+    "time": "00:05",
+    "artist": "Metallica",
+    "title": "Whiskey in the Jar",
+    "timestamp": "2025-11-18T00:05:00+01:00"
   }
 ]
