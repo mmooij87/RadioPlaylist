@@ -1,356 +1,248 @@
 [
   {
     "time": "Live",
+    "artist": "Manic Street Preachers",
+    "title": "Motorcycle Emptiness",
+    "timestamp": "2025-11-25T12:09:49.292302+01:00"
+  },
+  {
+    "time": "02:59",
+    "artist": "INXS",
+    "title": "New Sensation",
+    "timestamp": "2025-11-25T02:59:00+01:00"
+  },
+  {
+    "time": "02:56",
+    "artist": "Biffy Clyro",
+    "title": "Hunting Season",
+    "timestamp": "2025-11-25T02:56:00+01:00"
+  },
+  {
+    "time": "02:52",
+    "artist": "Skunk Anansie",
+    "title": "Twisted (everyday Hurts)",
+    "timestamp": "2025-11-25T02:52:00+01:00"
+  },
+  {
+    "time": "02:48",
     "artist": "Skunk Anansie",
     "title": "Brazen Weep",
-    "timestamp": "2025-11-25T11:50:50.093761+01:00"
+    "timestamp": "2025-11-25T02:48:00+01:00"
   },
   {
-    "time": "04:43",
+    "time": "02:43",
     "artist": "Portugal. the Man",
     "title": "Live in the Moment",
-    "timestamp": "2025-11-25T04:43:00+01:00"
+    "timestamp": "2025-11-25T02:43:00+01:00"
   },
   {
-    "time": "04:41",
+    "time": "02:41",
     "artist": "STONE",
     "title": "Monkey See Monkey Do",
-    "timestamp": "2025-11-25T04:41:00+01:00"
+    "timestamp": "2025-11-25T02:41:00+01:00"
   },
   {
-    "time": "04:38",
+    "time": "02:38",
     "artist": "The Dandy Warhols",
     "title": "Bohemian Like You",
-    "timestamp": "2025-11-25T04:38:00+01:00"
+    "timestamp": "2025-11-25T02:38:00+01:00"
   },
   {
-    "time": "04:30",
+    "time": "02:30",
     "artist": "The Smiths",
     "title": "How Soon Is Now",
-    "timestamp": "2025-11-25T04:30:00+01:00"
+    "timestamp": "2025-11-25T02:30:00+01:00"
   },
   {
-    "time": "04:26",
+    "time": "02:26",
     "artist": "U2",
     "title": "Beautiful Day",
-    "timestamp": "2025-11-25T04:26:00+01:00"
-  },
-  {
-    "time": "04:21",
-    "artist": "Arcade Fire",
-    "title": "The Suburbs",
-    "timestamp": "2025-11-25T04:21:00+01:00"
-  },
-  {
-    "time": "04:18",
-    "artist": "The Offspring",
-    "title": "Come Out And Play",
-    "timestamp": "2025-11-25T04:18:00+01:00"
-  },
-  {
-    "time": "04:13",
-    "artist": "Mumford & Sons, Hozier",
-    "title": "Rubber Band Man",
-    "timestamp": "2025-11-25T04:13:00+01:00"
-  },
-  {
-    "time": "04:09",
-    "artist": "Blondie",
-    "title": "Call Me",
-    "timestamp": "2025-11-25T04:09:00+01:00"
-  },
-  {
-    "time": "04:06",
-    "artist": "Franz Ferdinand",
-    "title": "Matinée",
-    "timestamp": "2025-11-25T04:06:00+01:00"
-  },
-  {
-    "time": "03:57",
-    "artist": "The Smashing Pumpkins",
-    "title": "1979",
-    "timestamp": "2025-11-25T03:57:00+01:00"
-  },
-  {
-    "time": "03:54",
-    "artist": "Queen's Pleasure",
-    "title": "The Club",
-    "timestamp": "2025-11-25T03:54:00+01:00"
-  },
-  {
-    "time": "03:48",
-    "artist": "Bob Dylan",
-    "title": "Like A Rolling Stone",
-    "timestamp": "2025-11-25T03:48:00+01:00"
-  },
-  {
-    "time": "03:43",
-    "artist": "The Last Shadow Puppets",
-    "title": "The Age of the Understatement",
-    "timestamp": "2025-11-25T03:43:00+01:00"
-  },
-  {
-    "time": "03:40",
-    "artist": "The Vices",
-    "title": "I Know",
-    "timestamp": "2025-11-25T03:40:00+01:00"
-  },
-  {
-    "time": "03:36",
-    "artist": "Muse",
-    "title": "Starlight",
-    "timestamp": "2025-11-25T03:36:00+01:00"
-  },
-  {
-    "time": "03:29",
-    "artist": "No Doubt",
-    "title": "Just A Girl",
-    "timestamp": "2025-11-25T03:29:00+01:00"
-  },
-  {
-    "time": "03:24",
-    "artist": "The Strokes",
-    "title": "The Adults Are Talking",
-    "timestamp": "2025-11-25T03:24:00+01:00"
-  },
-  {
-    "time": "03:21",
-    "artist": "Joy Division",
-    "title": "Love Will Tear Us Apart",
-    "timestamp": "2025-11-25T03:21:00+01:00"
-  },
-  {
-    "time": "03:18",
-    "artist": "Fountains Of Wayne",
-    "title": "Stacy's Mom",
-    "timestamp": "2025-11-25T03:18:00+01:00"
-  },
-  {
-    "time": "03:13",
-    "artist": "Oasis",
-    "title": "Don't Look Back In Anger",
-    "timestamp": "2025-11-25T03:13:00+01:00"
-  },
-  {
-    "time": "03:10",
-    "artist": "Triggerfinger",
-    "title": "Stars",
-    "timestamp": "2025-11-25T03:10:00+01:00"
-  },
-  {
-    "time": "03:06",
-    "artist": "Beastie Boys",
-    "title": "No Sleep Till Brooklyn",
-    "timestamp": "2025-11-25T03:06:00+01:00"
-  },
-  {
-    "time": "02:58",
-    "artist": "Hiqpy",
-    "title": "Red Flag Magician",
-    "timestamp": "2025-11-25T02:58:00+01:00"
-  },
-  {
-    "time": "02:53",
-    "artist": "Audioslave",
-    "title": "Like A Stone",
-    "timestamp": "2025-11-25T02:53:00+01:00"
-  },
-  {
-    "time": "02:49",
-    "artist": "Foster The People",
-    "title": "Pumped Up Kicks",
-    "timestamp": "2025-11-25T02:49:00+01:00"
-  },
-  {
-    "time": "02:44",
-    "artist": "Phoenix",
-    "title": "Lisztomania",
-    "timestamp": "2025-11-25T02:44:00+01:00"
-  },
-  {
-    "time": "02:40",
-    "artist": "Bad Omens",
-    "title": "Dying To Love",
-    "timestamp": "2025-11-25T02:40:00+01:00"
-  },
-  {
-    "time": "02:36",
-    "artist": "Bloodhound Gang",
-    "title": "The Bad Touch",
-    "timestamp": "2025-11-25T02:36:00+01:00"
-  },
-  {
-    "time": "02:28",
-    "artist": "Iron Maiden",
-    "title": "The Trooper",
-    "timestamp": "2025-11-25T02:28:00+01:00"
-  },
-  {
-    "time": "02:25",
-    "artist": "Tame Impala",
-    "title": "Elephant",
-    "timestamp": "2025-11-25T02:25:00+01:00"
+    "timestamp": "2025-11-25T02:26:00+01:00"
   },
   {
     "time": "02:21",
-    "artist": "Lifehouse",
-    "title": "Hanging By A Moment",
+    "artist": "Arcade Fire",
+    "title": "The Suburbs",
     "timestamp": "2025-11-25T02:21:00+01:00"
   },
   {
-    "time": "02:17",
-    "artist": "Sam Fender",
-    "title": "Talk To You (feat. Elton John)",
-    "timestamp": "2025-11-25T02:17:00+01:00"
+    "time": "02:18",
+    "artist": "The Offspring",
+    "title": "Come Out And Play",
+    "timestamp": "2025-11-25T02:18:00+01:00"
   },
   {
     "time": "02:13",
-    "artist": "K's Choice",
-    "title": "Mr. Freeze",
+    "artist": "Mumford & Sons, Hozier",
+    "title": "Rubber Band Man",
     "timestamp": "2025-11-25T02:13:00+01:00"
   },
   {
     "time": "02:09",
-    "artist": "Edwyn Collins",
-    "title": "A Girl Like You",
+    "artist": "Blondie",
+    "title": "Call Me",
     "timestamp": "2025-11-25T02:09:00+01:00"
   },
   {
-    "time": "02:05",
-    "artist": "Rammstein",
-    "title": "Engel",
-    "timestamp": "2025-11-25T02:05:00+01:00"
+    "time": "02:06",
+    "artist": "Franz Ferdinand",
+    "title": "Matinée",
+    "timestamp": "2025-11-25T02:06:00+01:00"
+  },
+  {
+    "time": "01:57",
+    "artist": "The Smashing Pumpkins",
+    "title": "1979",
+    "timestamp": "2025-11-25T01:57:00+01:00"
   },
   {
     "time": "01:54",
-    "artist": "Nothing But Thieves",
-    "title": "Is Everybody Going Crazy",
+    "artist": "Queen's Pleasure",
+    "title": "The Club",
     "timestamp": "2025-11-25T01:54:00+01:00"
   },
   {
-    "time": "01:52",
-    "artist": "The Kooks",
-    "title": "Always Where I Need To Be",
-    "timestamp": "2025-11-25T01:52:00+01:00"
+    "time": "01:48",
+    "artist": "Bob Dylan",
+    "title": "Like A Rolling Stone",
+    "timestamp": "2025-11-25T01:48:00+01:00"
   },
   {
-    "time": "01:47",
-    "artist": "Turnstile",
-    "title": "I Care",
-    "timestamp": "2025-11-25T01:47:00+01:00"
+    "time": "01:43",
+    "artist": "The Last Shadow Puppets",
+    "title": "The Age of the Understatement",
+    "timestamp": "2025-11-25T01:43:00+01:00"
   },
   {
-    "time": "01:44",
-    "artist": "Fleetwood Mac",
-    "title": "Big Love",
-    "timestamp": "2025-11-25T01:44:00+01:00"
+    "time": "01:40",
+    "artist": "The Vices",
+    "title": "I Know",
+    "timestamp": "2025-11-25T01:40:00+01:00"
   },
   {
-    "time": "01:39",
-    "artist": "Hayley Williams",
-    "title": "Mirtazapine",
-    "timestamp": "2025-11-25T01:39:00+01:00"
+    "time": "01:36",
+    "artist": "Muse",
+    "title": "Starlight",
+    "timestamp": "2025-11-25T01:36:00+01:00"
   },
   {
-    "time": "01:33",
-    "artist": "Metallica",
-    "title": "The Unforgiven",
-    "timestamp": "2025-11-25T01:33:00+01:00"
+    "time": "01:29",
+    "artist": "No Doubt",
+    "title": "Just A Girl",
+    "timestamp": "2025-11-25T01:29:00+01:00"
   },
   {
     "time": "01:24",
-    "artist": "Chvrches",
-    "title": "How Not To Drown (feat Robert Smith)",
+    "artist": "The Strokes",
+    "title": "The Adults Are Talking",
     "timestamp": "2025-11-25T01:24:00+01:00"
   },
   {
-    "time": "01:17",
-    "artist": "Fischer Z",
-    "title": "Marliese",
-    "timestamp": "2025-11-25T01:17:00+01:00"
+    "time": "01:21",
+    "artist": "Joy Division",
+    "title": "Love Will Tear Us Apart",
+    "timestamp": "2025-11-25T01:21:00+01:00"
   },
   {
-    "time": "01:14",
-    "artist": "Snow Patrol",
-    "title": "Shut Your Eyes",
-    "timestamp": "2025-11-25T01:14:00+01:00"
+    "time": "01:18",
+    "artist": "Fountains Of Wayne",
+    "title": "Stacy's Mom",
+    "timestamp": "2025-11-25T01:18:00+01:00"
+  },
+  {
+    "time": "01:13",
+    "artist": "Oasis",
+    "title": "Don't Look Back In Anger",
+    "timestamp": "2025-11-25T01:13:00+01:00"
+  },
+  {
+    "time": "01:10",
+    "artist": "Triggerfinger",
+    "title": "Stars",
+    "timestamp": "2025-11-25T01:10:00+01:00"
   },
   {
     "time": "01:06",
-    "artist": "Foo Fighters",
-    "title": "Asking For A Friend",
+    "artist": "Beastie Boys",
+    "title": "No Sleep Till Brooklyn",
     "timestamp": "2025-11-25T01:06:00+01:00"
   },
   {
-    "time": "01:02",
-    "artist": "Radiohead",
-    "title": "Creep",
-    "timestamp": "2025-11-25T01:02:00+01:00"
+    "time": "00:58",
+    "artist": "Hiqpy",
+    "title": "Red Flag Magician",
+    "timestamp": "2025-11-25T00:58:00+01:00"
   },
   {
     "time": "00:53",
-    "artist": "Son Mieux",
-    "title": "Tell Me More",
+    "artist": "Audioslave",
+    "title": "Like A Stone",
     "timestamp": "2025-11-25T00:53:00+01:00"
   },
   {
     "time": "00:49",
-    "artist": "Bleech 9:3",
-    "title": "Ceiling",
+    "artist": "Foster The People",
+    "title": "Pumped Up Kicks",
     "timestamp": "2025-11-25T00:49:00+01:00"
   },
   {
-    "time": "00:43",
-    "artist": "Blur",
-    "title": "Parklife",
-    "timestamp": "2025-11-25T00:43:00+01:00"
+    "time": "00:44",
+    "artist": "Phoenix",
+    "title": "Lisztomania",
+    "timestamp": "2025-11-25T00:44:00+01:00"
   },
   {
     "time": "00:40",
-    "artist": "Weezer",
-    "title": "Island in the Sun",
+    "artist": "Bad Omens",
+    "title": "Dying To Love",
     "timestamp": "2025-11-25T00:40:00+01:00"
   },
   {
     "time": "00:36",
-    "artist": "DeWolff",
-    "title": "Natural Woman",
+    "artist": "Bloodhound Gang",
+    "title": "The Bad Touch",
     "timestamp": "2025-11-25T00:36:00+01:00"
   },
   {
-    "time": "00:33",
-    "artist": "The Clash",
-    "title": "London Calling",
-    "timestamp": "2025-11-25T00:33:00+01:00"
+    "time": "00:28",
+    "artist": "Iron Maiden",
+    "title": "The Trooper",
+    "timestamp": "2025-11-25T00:28:00+01:00"
   },
   {
-    "time": "00:24",
-    "artist": "Guns N' Roses",
-    "title": "Yesterdays",
-    "timestamp": "2025-11-25T00:24:00+01:00"
+    "time": "00:25",
+    "artist": "Tame Impala",
+    "title": "Elephant",
+    "timestamp": "2025-11-25T00:25:00+01:00"
   },
   {
     "time": "00:21",
-    "artist": "Blink-182",
-    "title": "Mutt",
+    "artist": "Lifehouse",
+    "title": "Hanging By A Moment",
     "timestamp": "2025-11-25T00:21:00+01:00"
   },
   {
-    "time": "00:16",
-    "artist": "SONS",
-    "title": "Somehow",
-    "timestamp": "2025-11-25T00:16:00+01:00"
+    "time": "00:17",
+    "artist": "Sam Fender",
+    "title": "Talk To You (feat. Elton John)",
+    "timestamp": "2025-11-25T00:17:00+01:00"
   },
   {
-    "time": "00:07",
-    "artist": "Simple Minds",
-    "title": "Promised You A Miracle",
-    "timestamp": "2025-11-25T00:07:00+01:00"
+    "time": "00:13",
+    "artist": "K's Choice",
+    "title": "Mr. Freeze",
+    "timestamp": "2025-11-25T00:13:00+01:00"
   },
   {
-    "time": "00:03",
-    "artist": "Editors",
-    "title": "The Racing Rats",
-    "timestamp": "2025-11-25T00:03:00+01:00"
+    "time": "00:09",
+    "artist": "Edwyn Collins",
+    "title": "A Girl Like You",
+    "timestamp": "2025-11-25T00:09:00+01:00"
+  },
+  {
+    "time": "00:05",
+    "artist": "Rammstein",
+    "title": "Engel",
+    "timestamp": "2025-11-25T00:05:00+01:00"
   }
 ]
