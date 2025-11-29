@@ -1,170 +1,56 @@
 [
   {
     "time": "Live",
+    "artist": "Wet Leg",
+    "title": "Mangetout",
+    "timestamp": "2025-11-29T09:41:18.590359+01:00"
+  },
+  {
+    "time": "00:35",
+    "artist": "Nirvana",
+    "title": "In Bloom",
+    "timestamp": "2025-11-29T00:35:00+01:00"
+  },
+  {
+    "time": "00:27",
+    "artist": "Florence The Machine",
+    "title": "Rabbit Heart (Raise It Up)",
+    "timestamp": "2025-11-29T00:27:00+01:00"
+  },
+  {
+    "time": "00:25",
+    "artist": "Weezer",
+    "title": "Buddy Holly",
+    "timestamp": "2025-11-29T00:25:00+01:00"
+  },
+  {
+    "time": "00:20",
+    "artist": "Arcade Fire",
+    "title": "Everything Now",
+    "timestamp": "2025-11-29T00:20:00+01:00"
+  },
+  {
+    "time": "00:17",
+    "artist": "SONS",
+    "title": "Somehow",
+    "timestamp": "2025-11-29T00:17:00+01:00"
+  },
+  {
+    "time": "00:12",
     "artist": "Prefab Sprout",
     "title": "Appetite",
-    "timestamp": "2025-11-29T09:15:21.280945+01:00"
+    "timestamp": "2025-11-29T00:12:00+01:00"
   },
   {
-    "time": "02:08",
+    "time": "00:08",
     "artist": "Van Halen",
     "title": "Runnin' With The Devil",
-    "timestamp": "2025-11-29T02:08:00+01:00"
-  },
-  {
-    "time": "02:03",
-    "artist": "The Cure",
-    "title": "A Forest",
-    "timestamp": "2025-11-29T02:03:00+01:00"
-  },
-  {
-    "time": "01:53",
-    "artist": "Blessid Union Of Souls",
-    "title": "Hey Leonardo (She Likes Me For Me)",
-    "timestamp": "2025-11-29T01:53:00+01:00"
-  },
-  {
-    "time": "01:49",
-    "artist": "Bad Omens",
-    "title": "Dying To Love",
-    "timestamp": "2025-11-29T01:49:00+01:00"
-  },
-  {
-    "time": "01:45",
-    "artist": "Mumford and Sons",
-    "title": "Little Lion Man",
-    "timestamp": "2025-11-29T01:45:00+01:00"
-  },
-  {
-    "time": "01:42",
-    "artist": "Blur",
-    "title": "Charmless Man",
-    "timestamp": "2025-11-29T01:42:00+01:00"
-  },
-  {
-    "time": "01:38",
-    "artist": "Royal Blood",
-    "title": "Figure It Out",
-    "timestamp": "2025-11-29T01:38:00+01:00"
-  },
-  {
-    "time": "01:36",
-    "artist": "Sombr",
-    "title": "Undressed",
-    "timestamp": "2025-11-29T01:36:00+01:00"
-  },
-  {
-    "time": "01:32",
-    "artist": "Sex Pistols",
-    "title": "God Save the Queen",
-    "timestamp": "2025-11-29T01:32:00+01:00"
-  },
-  {
-    "time": "01:24",
-    "artist": "Paolo Nutini",
-    "title": "Jenny Don't Be Hasty",
-    "timestamp": "2025-11-29T01:24:00+01:00"
-  },
-  {
-    "time": "01:21",
-    "artist": "The Breeders",
-    "title": "Cannonball",
-    "timestamp": "2025-11-29T01:21:00+01:00"
-  },
-  {
-    "time": "01:18",
-    "artist": "Fontaines D.C.",
-    "title": "Starburster",
-    "timestamp": "2025-11-29T01:18:00+01:00"
-  },
-  {
-    "time": "01:14",
-    "artist": "Talking Heads",
-    "title": "Road to Nowhere",
-    "timestamp": "2025-11-29T01:14:00+01:00"
-  },
-  {
-    "time": "01:09",
-    "artist": "30 Seconds To Mars",
-    "title": "From Yesterday",
-    "timestamp": "2025-11-29T01:09:00+01:00"
-  },
-  {
-    "time": "01:06",
-    "artist": "Kings of Leon",
-    "title": "To Space",
-    "timestamp": "2025-11-29T01:06:00+01:00"
-  },
-  {
-    "time": "01:00",
-    "artist": "Ozzy Osbourne",
-    "title": "No More Tears",
-    "timestamp": "2025-11-29T01:00:00+01:00"
-  },
-  {
-    "time": "00:51",
-    "artist": "De Staat",
-    "title": "Peptalk",
-    "timestamp": "2025-11-29T00:51:00+01:00"
-  },
-  {
-    "time": "00:45",
-    "artist": "Snow Patrol",
-    "title": "Crack The Shutters",
-    "timestamp": "2025-11-29T00:45:00+01:00"
-  },
-  {
-    "time": "00:36",
-    "artist": "Yungblud",
-    "title": "Hello Heaven Hello",
-    "timestamp": "2025-11-29T00:36:00+01:00"
-  },
-  {
-    "time": "00:33",
-    "artist": "Placebo",
-    "title": "Pure Morning",
-    "timestamp": "2025-11-29T00:33:00+01:00"
-  },
-  {
-    "time": "00:26",
-    "artist": "Bruce Springsteen",
-    "title": "I'm On Fire",
-    "timestamp": "2025-11-29T00:26:00+01:00"
-  },
-  {
-    "time": "00:22",
-    "artist": "Gossip",
-    "title": "Standing In The Way Of Control",
-    "timestamp": "2025-11-29T00:22:00+01:00"
-  },
-  {
-    "time": "00:19",
-    "artist": "Nothing But Thieves",
-    "title": "Welcome To The DCC",
-    "timestamp": "2025-11-29T00:19:00+01:00"
-  },
-  {
-    "time": "00:15",
-    "artist": "Gorillaz",
-    "title": "Clint Eastwood",
-    "timestamp": "2025-11-29T00:15:00+01:00"
-  },
-  {
-    "time": "00:10",
-    "artist": "Deftones",
-    "title": "Infinite Source",
-    "timestamp": "2025-11-29T00:10:00+01:00"
-  },
-  {
-    "time": "00:06",
-    "artist": "Blondie",
-    "title": "Call Me",
-    "timestamp": "2025-11-29T00:06:00+01:00"
+    "timestamp": "2025-11-29T00:08:00+01:00"
   },
   {
     "time": "00:03",
-    "artist": "The Killers",
-    "title": "Somebody Told Me",
+    "artist": "The Cure",
+    "title": "A Forest",
     "timestamp": "2025-11-29T00:03:00+01:00"
   }
 ]
