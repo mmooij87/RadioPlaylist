@@ -1,296 +1,536 @@
 [
   {
     "time": "Live",
+    "artist": "Metallica",
+    "title": "The Day That Never Comes",
+    "timestamp": "2025-12-19T12:56:09.584795+01:00"
+  },
+  {
+    "time": "06:50",
+    "artist": "Kaiser Chiefs",
+    "title": "Ruby",
+    "timestamp": "2025-12-19T06:50:00+01:00"
+  },
+  {
+    "time": "06:46",
+    "artist": "Caesar",
+    "title": "Before My Head Explodes",
+    "timestamp": "2025-12-19T06:46:00+01:00"
+  },
+  {
+    "time": "06:43",
     "artist": "Depeche Mode",
     "title": "Strangelove",
-    "timestamp": "2025-12-19T12:45:25.881986+01:00"
+    "timestamp": "2025-12-19T06:43:00+01:00"
+  },
+  {
+    "time": "06:39",
+    "artist": "The 1975",
+    "title": "Chocolate",
+    "timestamp": "2025-12-19T06:39:00+01:00"
+  },
+  {
+    "time": "06:36",
+    "artist": "Kasabian",
+    "title": "LSF (Lost Souls Forever)",
+    "timestamp": "2025-12-19T06:36:00+01:00"
+  },
+  {
+    "time": "06:26",
+    "artist": "Rammstein",
+    "title": "Wollt Ihr Das Bett In Flammen Sehen?",
+    "timestamp": "2025-12-19T06:26:00+01:00"
+  },
+  {
+    "time": "06:23",
+    "artist": "Amy Winehouse",
+    "title": "Stronger Than Me",
+    "timestamp": "2025-12-19T06:23:00+01:00"
+  },
+  {
+    "time": "06:19",
+    "artist": "Foo Fighters",
+    "title": "Waiting On A War",
+    "timestamp": "2025-12-19T06:19:00+01:00"
+  },
+  {
+    "time": "06:15",
+    "artist": "Hooverphonic",
+    "title": "Mad About You",
+    "timestamp": "2025-12-19T06:15:00+01:00"
+  },
+  {
+    "time": "06:12",
+    "artist": "Rancid",
+    "title": "Time Bomb",
+    "timestamp": "2025-12-19T06:12:00+01:00"
+  },
+  {
+    "time": "06:09",
+    "artist": "Billie Eilish",
+    "title": "Happier Than Ever",
+    "timestamp": "2025-12-19T06:09:00+01:00"
+  },
+  {
+    "time": "06:00",
+    "artist": "The Presidents of The USA",
+    "title": "Peaches",
+    "timestamp": "2025-12-19T06:00:00+01:00"
+  },
+  {
+    "time": "05:56",
+    "artist": "The Haunted Youth",
+    "title": "Teen Rebel",
+    "timestamp": "2025-12-19T05:56:00+01:00"
+  },
+  {
+    "time": "05:51",
+    "artist": "Within Temptation",
+    "title": "Stand My Ground",
+    "timestamp": "2025-12-19T05:51:00+01:00"
+  },
+  {
+    "time": "05:48",
+    "artist": "John Mayer",
+    "title": "Waiting On The World To Change",
+    "timestamp": "2025-12-19T05:48:00+01:00"
+  },
+  {
+    "time": "05:41",
+    "artist": "Black Sabbath",
+    "title": "N.i.b.",
+    "timestamp": "2025-12-19T05:41:00+01:00"
+  },
+  {
+    "time": "05:37",
+    "artist": "The Killers",
+    "title": "Caution",
+    "timestamp": "2025-12-19T05:37:00+01:00"
+  },
+  {
+    "time": "05:34",
+    "artist": "Lou Reed",
+    "title": "Perfect Day",
+    "timestamp": "2025-12-19T05:34:00+01:00"
+  },
+  {
+    "time": "05:27",
+    "artist": "Frank Carter & The Rattlesnakes",
+    "title": "My Town (Feat. Joe Talbot)",
+    "timestamp": "2025-12-19T05:27:00+01:00"
+  },
+  {
+    "time": "05:24",
+    "artist": "Johnny Cash",
+    "title": "Folsom Prison Blues (live In Folsom Prison)",
+    "timestamp": "2025-12-19T05:24:00+01:00"
+  },
+  {
+    "time": "05:21",
+    "artist": "System Of A Down",
+    "title": "Lonely Day",
+    "timestamp": "2025-12-19T05:21:00+01:00"
+  },
+  {
+    "time": "05:18",
+    "artist": "Tears For Fears",
+    "title": "Everybody Wants To Rule The World",
+    "timestamp": "2025-12-19T05:18:00+01:00"
+  },
+  {
+    "time": "05:15",
+    "artist": "The White Stripes",
+    "title": "Fell In Love With A Girl",
+    "timestamp": "2025-12-19T05:15:00+01:00"
+  },
+  {
+    "time": "05:10",
+    "artist": "Florence The Machine",
+    "title": "King",
+    "timestamp": "2025-12-19T05:10:00+01:00"
+  },
+  {
+    "time": "05:05",
+    "artist": "U2",
+    "title": "Sunday Bloody Sunday (live)",
+    "timestamp": "2025-12-19T05:05:00+01:00"
+  },
+  {
+    "time": "04:56",
+    "artist": "Johan",
+    "title": "Everybody Knows",
+    "timestamp": "2025-12-19T04:56:00+01:00"
+  },
+  {
+    "time": "04:52",
+    "artist": "Massive Attack",
+    "title": "Unfinished Sympathy",
+    "timestamp": "2025-12-19T04:52:00+01:00"
+  },
+  {
+    "time": "04:49",
+    "artist": "Kings Of Leon",
+    "title": "Waste A Moment",
+    "timestamp": "2025-12-19T04:49:00+01:00"
+  },
+  {
+    "time": "04:44",
+    "artist": "Eddie Vedder",
+    "title": "Brother the Cloud",
+    "timestamp": "2025-12-19T04:44:00+01:00"
+  },
+  {
+    "time": "04:39",
+    "artist": "Counting Crows",
+    "title": "A Long December",
+    "timestamp": "2025-12-19T04:39:00+01:00"
+  },
+  {
+    "time": "04:36",
+    "artist": "Dewolff",
+    "title": "It Ain't Easy",
+    "timestamp": "2025-12-19T04:36:00+01:00"
+  },
+  {
+    "time": "04:31",
+    "artist": "Iggy Pop",
+    "title": "The Passenger",
+    "timestamp": "2025-12-19T04:31:00+01:00"
+  },
+  {
+    "time": "04:24",
+    "artist": "Placebo",
+    "title": "For What It's Worth",
+    "timestamp": "2025-12-19T04:24:00+01:00"
+  },
+  {
+    "time": "04:21",
+    "artist": "Tame Impala",
+    "title": "Elephant",
+    "timestamp": "2025-12-19T04:21:00+01:00"
+  },
+  {
+    "time": "04:17",
+    "artist": "Bruce Springsteen",
+    "title": "Badlands",
+    "timestamp": "2025-12-19T04:17:00+01:00"
+  },
+  {
+    "time": "04:13",
+    "artist": "DJ Shadow",
+    "title": "Stem",
+    "timestamp": "2025-12-19T04:13:00+01:00"
+  },
+  {
+    "time": "04:08",
+    "artist": "Creed",
+    "title": "With Arms Wide Open",
+    "timestamp": "2025-12-19T04:08:00+01:00"
+  },
+  {
+    "time": "04:05",
+    "artist": "Lenny Kravitz",
+    "title": "Mr Cab Driver",
+    "timestamp": "2025-12-19T04:05:00+01:00"
+  },
+  {
+    "time": "03:55",
+    "artist": "Mumford and Sons",
+    "title": "Believe",
+    "timestamp": "2025-12-19T03:55:00+01:00"
+  },
+  {
+    "time": "03:51",
+    "artist": "Bon Iver",
+    "title": "Skinny Love",
+    "timestamp": "2025-12-19T03:51:00+01:00"
+  },
+  {
+    "time": "03:47",
+    "artist": "Pearl Jam",
+    "title": "Who You Are",
+    "timestamp": "2025-12-19T03:47:00+01:00"
+  },
+  {
+    "time": "03:44",
+    "artist": "Son Mieux",
+    "title": "Nothing",
+    "timestamp": "2025-12-19T03:44:00+01:00"
   },
   {
     "time": "03:39",
-    "artist": "The 1975",
-    "title": "Chocolate",
+    "artist": "Radiohead",
+    "title": "Creep",
     "timestamp": "2025-12-19T03:39:00+01:00"
   },
   {
     "time": "03:36",
-    "artist": "Kasabian",
-    "title": "LSF (Lost Souls Forever)",
+    "artist": "De Staat",
+    "title": "Peace, Love & Profit",
     "timestamp": "2025-12-19T03:36:00+01:00"
   },
   {
-    "time": "03:26",
-    "artist": "Rammstein",
-    "title": "Wollt Ihr Das Bett In Flammen Sehen?",
-    "timestamp": "2025-12-19T03:26:00+01:00"
+    "time": "03:32",
+    "artist": "Crosby, Stills, Nash & Young",
+    "title": "Almost Cut My Hair",
+    "timestamp": "2025-12-19T03:32:00+01:00"
   },
   {
-    "time": "03:23",
-    "artist": "Amy Winehouse",
-    "title": "Stronger Than Me",
-    "timestamp": "2025-12-19T03:23:00+01:00"
+    "time": "03:25",
+    "artist": "Dropkick Murphys",
+    "title": "I'm Shipping Up To Boston",
+    "timestamp": "2025-12-19T03:25:00+01:00"
   },
   {
-    "time": "03:19",
-    "artist": "Foo Fighters",
-    "title": "Waiting On A War",
-    "timestamp": "2025-12-19T03:19:00+01:00"
+    "time": "03:20",
+    "artist": "The Black Crowes",
+    "title": "Remedy",
+    "timestamp": "2025-12-19T03:20:00+01:00"
   },
   {
-    "time": "03:15",
-    "artist": "Hooverphonic",
-    "title": "Mad About You",
-    "timestamp": "2025-12-19T03:15:00+01:00"
+    "time": "03:16",
+    "artist": "Gaslight Anthem",
+    "title": "American Slang",
+    "timestamp": "2025-12-19T03:16:00+01:00"
   },
   {
     "time": "03:12",
-    "artist": "Rancid",
-    "title": "Time Bomb",
+    "artist": "Eels",
+    "title": "Mr. E's Beautiful Blues",
     "timestamp": "2025-12-19T03:12:00+01:00"
   },
   {
-    "time": "03:09",
-    "artist": "Billie Eilish",
-    "title": "Happier Than Ever",
-    "timestamp": "2025-12-19T03:09:00+01:00"
+    "time": "03:08",
+    "artist": "The Smashing Pumpkins",
+    "title": "Ava Adore",
+    "timestamp": "2025-12-19T03:08:00+01:00"
   },
   {
-    "time": "03:00",
-    "artist": "The Presidents of The USA",
-    "title": "Peaches",
-    "timestamp": "2025-12-19T03:00:00+01:00"
+    "time": "03:04",
+    "artist": "Red Hot Chili Peppers",
+    "title": "Black Summer",
+    "timestamp": "2025-12-19T03:04:00+01:00"
   },
   {
-    "time": "02:56",
-    "artist": "The Haunted Youth",
-    "title": "Teen Rebel",
-    "timestamp": "2025-12-19T02:56:00+01:00"
+    "time": "02:55",
+    "artist": "The Offspring",
+    "title": "All I Want",
+    "timestamp": "2025-12-19T02:55:00+01:00"
   },
   {
-    "time": "02:51",
-    "artist": "Within Temptation",
-    "title": "Stand My Ground",
-    "timestamp": "2025-12-19T02:51:00+01:00"
+    "time": "02:53",
+    "artist": "Crowded House",
+    "title": "Four Seasons In One Day",
+    "timestamp": "2025-12-19T02:53:00+01:00"
   },
   {
-    "time": "02:48",
-    "artist": "John Mayer",
-    "title": "Waiting On The World To Change",
-    "timestamp": "2025-12-19T02:48:00+01:00"
+    "time": "02:49",
+    "artist": "Muse",
+    "title": "Won't Stand Down",
+    "timestamp": "2025-12-19T02:49:00+01:00"
+  },
+  {
+    "time": "02:45",
+    "artist": "The Cult",
+    "title": "Edie (Ciao Baby)",
+    "timestamp": "2025-12-19T02:45:00+01:00"
   },
   {
     "time": "02:41",
-    "artist": "Black Sabbath",
-    "title": "N.i.b.",
+    "artist": "No Doubt",
+    "title": "Just A Girl",
     "timestamp": "2025-12-19T02:41:00+01:00"
   },
   {
-    "time": "02:37",
-    "artist": "The Killers",
-    "title": "Caution",
-    "timestamp": "2025-12-19T02:37:00+01:00"
+    "time": "02:39",
+    "artist": "Ist Ist",
+    "title": "You're Mine",
+    "timestamp": "2025-12-19T02:39:00+01:00"
   },
   {
-    "time": "02:34",
-    "artist": "Lou Reed",
-    "title": "Perfect Day",
-    "timestamp": "2025-12-19T02:34:00+01:00"
+    "time": "02:35",
+    "artist": "Rolling Stones",
+    "title": "Tumbling Dice",
+    "timestamp": "2025-12-19T02:35:00+01:00"
   },
   {
     "time": "02:27",
-    "artist": "Frank Carter & The Rattlesnakes",
-    "title": "My Town (Feat. Joe Talbot)",
+    "artist": "Unknown",
+    "title": "The Strokes -",
     "timestamp": "2025-12-19T02:27:00+01:00"
   },
   {
     "time": "02:24",
-    "artist": "Johnny Cash",
-    "title": "Folsom Prison Blues (live In Folsom Prison)",
+    "artist": "The Interrupters",
+    "title": "Gave You Everything",
     "timestamp": "2025-12-19T02:24:00+01:00"
   },
   {
-    "time": "02:21",
-    "artist": "System Of A Down",
-    "title": "Lonely Day",
-    "timestamp": "2025-12-19T02:21:00+01:00"
+    "time": "02:19",
+    "artist": "The Police",
+    "title": "Walking On The Moon",
+    "timestamp": "2025-12-19T02:19:00+01:00"
   },
   {
-    "time": "02:18",
-    "artist": "Tears For Fears",
-    "title": "Everybody Wants To Rule The World",
-    "timestamp": "2025-12-19T02:18:00+01:00"
+    "time": "02:17",
+    "artist": "The Last Dinner Party",
+    "title": "Nothing Matters",
+    "timestamp": "2025-12-19T02:17:00+01:00"
   },
   {
-    "time": "02:15",
-    "artist": "The White Stripes",
-    "title": "Fell In Love With A Girl",
-    "timestamp": "2025-12-19T02:15:00+01:00"
+    "time": "02:12",
+    "artist": "Oasis",
+    "title": "Acquiesce",
+    "timestamp": "2025-12-19T02:12:00+01:00"
   },
   {
-    "time": "02:10",
-    "artist": "Florence The Machine",
-    "title": "King",
-    "timestamp": "2025-12-19T02:10:00+01:00"
+    "time": "02:08",
+    "artist": "a balladeer",
+    "title": "Swim With Sam (re-recorded)",
+    "timestamp": "2025-12-19T02:08:00+01:00"
   },
   {
-    "time": "02:05",
-    "artist": "U2",
-    "title": "Sunday Bloody Sunday (live)",
-    "timestamp": "2025-12-19T02:05:00+01:00"
+    "time": "02:04",
+    "artist": "Pearl Jam",
+    "title": "Dark Matter",
+    "timestamp": "2025-12-19T02:04:00+01:00"
   },
   {
-    "time": "01:56",
-    "artist": "Johan",
-    "title": "Everybody Knows",
-    "timestamp": "2025-12-19T01:56:00+01:00"
-  },
-  {
-    "time": "01:52",
-    "artist": "Massive Attack",
-    "title": "Unfinished Sympathy",
-    "timestamp": "2025-12-19T01:52:00+01:00"
+    "time": "01:54",
+    "artist": "Biffy Clyro",
+    "title": "Goodbye",
+    "timestamp": "2025-12-19T01:54:00+01:00"
   },
   {
     "time": "01:49",
-    "artist": "Kings Of Leon",
-    "title": "Waste A Moment",
+    "artist": "Wolfmother",
+    "title": "Joker & The Thief",
     "timestamp": "2025-12-19T01:49:00+01:00"
   },
   {
-    "time": "01:44",
-    "artist": "Eddie Vedder",
-    "title": "Brother the Cloud",
-    "timestamp": "2025-12-19T01:44:00+01:00"
+    "time": "01:46",
+    "artist": "Supergrass",
+    "title": "Alright",
+    "timestamp": "2025-12-19T01:46:00+01:00"
   },
   {
     "time": "01:39",
-    "artist": "Counting Crows",
-    "title": "A Long December",
+    "artist": "Inhaler",
+    "title": "Hole In The Ground",
     "timestamp": "2025-12-19T01:39:00+01:00"
   },
   {
-    "time": "01:36",
-    "artist": "Dewolff",
-    "title": "It Ain't Easy",
-    "timestamp": "2025-12-19T01:36:00+01:00"
+    "time": "01:35",
+    "artist": "R.E.M.",
+    "title": "It's The End Of The World As We Know It (And I Feel Fine)",
+    "timestamp": "2025-12-19T01:35:00+01:00"
   },
   {
-    "time": "01:31",
-    "artist": "Iggy Pop",
-    "title": "The Passenger",
-    "timestamp": "2025-12-19T01:31:00+01:00"
+    "time": "01:23",
+    "artist": "Royal Blood",
+    "title": "Little Monster",
+    "timestamp": "2025-12-19T01:23:00+01:00"
   },
   {
-    "time": "01:24",
-    "artist": "Placebo",
-    "title": "For What It's Worth",
-    "timestamp": "2025-12-19T01:24:00+01:00"
+    "time": "01:20",
+    "artist": "Vices, The",
+    "title": "Gold",
+    "timestamp": "2025-12-19T01:20:00+01:00"
   },
   {
-    "time": "01:21",
-    "artist": "Tame Impala",
-    "title": "Elephant",
-    "timestamp": "2025-12-19T01:21:00+01:00"
-  },
-  {
-    "time": "01:17",
-    "artist": "Bruce Springsteen",
-    "title": "Badlands",
-    "timestamp": "2025-12-19T01:17:00+01:00"
-  },
-  {
-    "time": "01:13",
-    "artist": "DJ Shadow",
-    "title": "Stem",
-    "timestamp": "2025-12-19T01:13:00+01:00"
+    "time": "01:14",
+    "artist": "The Pogues",
+    "title": "Fairytale Of New York (ft. Kirsty MacColl)",
+    "timestamp": "2025-12-19T01:14:00+01:00"
   },
   {
     "time": "01:08",
-    "artist": "Creed",
-    "title": "With Arms Wide Open",
+    "artist": "Mumford & Sons, Hozier",
+    "title": "Rubber Band Man",
     "timestamp": "2025-12-19T01:08:00+01:00"
   },
   {
-    "time": "01:05",
-    "artist": "Lenny Kravitz",
-    "title": "Mr Cab Driver",
-    "timestamp": "2025-12-19T01:05:00+01:00"
+    "time": "01:04",
+    "artist": "Nirvana",
+    "title": "Lithium",
+    "timestamp": "2025-12-19T01:04:00+01:00"
   },
   {
-    "time": "00:55",
-    "artist": "Mumford and Sons",
-    "title": "Believe",
-    "timestamp": "2025-12-19T00:55:00+01:00"
+    "time": "00:53",
+    "artist": "White Lies",
+    "title": "Juice",
+    "timestamp": "2025-12-19T00:53:00+01:00"
   },
   {
-    "time": "00:51",
-    "artist": "Bon Iver",
-    "title": "Skinny Love",
-    "timestamp": "2025-12-19T00:51:00+01:00"
+    "time": "00:48",
+    "artist": "Bush",
+    "title": "Letting The Cables Sleep",
+    "timestamp": "2025-12-19T00:48:00+01:00"
   },
   {
-    "time": "00:47",
-    "artist": "Pearl Jam",
-    "title": "Who You Are",
-    "timestamp": "2025-12-19T00:47:00+01:00"
+    "time": "00:45",
+    "artist": "Madness",
+    "title": "Embarrassment",
+    "timestamp": "2025-12-19T00:45:00+01:00"
   },
   {
-    "time": "00:44",
-    "artist": "Son Mieux",
-    "title": "Nothing",
-    "timestamp": "2025-12-19T00:44:00+01:00"
+    "time": "00:42",
+    "artist": "Linkin Park",
+    "title": "The Emptiness Machine",
+    "timestamp": "2025-12-19T00:42:00+01:00"
   },
   {
-    "time": "00:39",
-    "artist": "Radiohead",
-    "title": "Creep",
-    "timestamp": "2025-12-19T00:39:00+01:00"
+    "time": "00:38",
+    "artist": "Keane",
+    "title": "Spiralling",
+    "timestamp": "2025-12-19T00:38:00+01:00"
   },
   {
-    "time": "00:36",
-    "artist": "De Staat",
-    "title": "Peace, Love & Profit",
-    "timestamp": "2025-12-19T00:36:00+01:00"
+    "time": "00:34",
+    "artist": "Placebo",
+    "title": "Every You Every Me",
+    "timestamp": "2025-12-19T00:34:00+01:00"
   },
   {
-    "time": "00:32",
-    "artist": "Crosby, Stills, Nash & Young",
-    "title": "Almost Cut My Hair",
-    "timestamp": "2025-12-19T00:32:00+01:00"
+    "time": "00:26",
+    "artist": "Hiqpy",
+    "title": "Girl In Red",
+    "timestamp": "2025-12-19T00:26:00+01:00"
   },
   {
-    "time": "00:25",
-    "artist": "Dropkick Murphys",
-    "title": "I'm Shipping Up To Boston",
-    "timestamp": "2025-12-19T00:25:00+01:00"
+    "time": "00:22",
+    "artist": "Kings Of Leon",
+    "title": "Use Somebody",
+    "timestamp": "2025-12-19T00:22:00+01:00"
   },
   {
-    "time": "00:20",
-    "artist": "The Black Crowes",
-    "title": "Remedy",
-    "timestamp": "2025-12-19T00:20:00+01:00"
+    "time": "00:19",
+    "artist": "The Smiths",
+    "title": "Heaven Knows I'm Miserable Now",
+    "timestamp": "2025-12-19T00:19:00+01:00"
   },
   {
-    "time": "00:16",
-    "artist": "Gaslight Anthem",
-    "title": "American Slang",
-    "timestamp": "2025-12-19T00:16:00+01:00"
+    "time": "00:13",
+    "artist": "Foo Fighters",
+    "title": "Asking For A Friend",
+    "timestamp": "2025-12-19T00:13:00+01:00"
   },
   {
-    "time": "00:12",
-    "artist": "Eels",
-    "title": "Mr. E's Beautiful Blues",
-    "timestamp": "2025-12-19T00:12:00+01:00"
-  },
-  {
-    "time": "00:08",
-    "artist": "The Smashing Pumpkins",
-    "title": "Ava Adore",
-    "timestamp": "2025-12-19T00:08:00+01:00"
+    "time": "00:09",
+    "artist": "Vance Joy",
+    "title": "Riptide",
+    "timestamp": "2025-12-19T00:09:00+01:00"
   },
   {
     "time": "00:04",
-    "artist": "Red Hot Chili Peppers",
-    "title": "Black Summer",
+    "artist": "Candlebox",
+    "title": "Far Behind",
     "timestamp": "2025-12-19T00:04:00+01:00"
+  },
+  {
+    "time": "00:01",
+    "artist": "U2 & Green Day",
+    "title": "The Saints Are Coming",
+    "timestamp": "2025-12-19T00:01:00+01:00"
   }
 ]
