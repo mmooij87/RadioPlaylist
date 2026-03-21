@@ -1,200 +1,74 @@
 [
   {
     "time": "Live",
+    "artist": "The Killers",
+    "title": "All These Things That I've Done",
+    "timestamp": "2026-03-21T08:54:32.711362+01:00"
+  },
+  {
+    "time": "00:46",
+    "artist": "Kate Bush",
+    "title": "Cloudbusting",
+    "timestamp": "2026-03-21T00:46:00+01:00"
+  },
+  {
+    "time": "00:41",
+    "artist": "Muse",
+    "title": "Be With You",
+    "timestamp": "2026-03-21T00:41:00+01:00"
+  },
+  {
+    "time": "00:38",
+    "artist": "Garbage",
+    "title": "Push It",
+    "timestamp": "2026-03-21T00:38:00+01:00"
+  },
+  {
+    "time": "00:33",
+    "artist": "Fontaines D.C.",
+    "title": "In The Modern World",
+    "timestamp": "2026-03-21T00:33:00+01:00"
+  },
+  {
+    "time": "00:26",
     "artist": "Mumford and Sons",
     "title": "Winter Winds",
-    "timestamp": "2026-03-21T08:30:24.725244+01:00"
+    "timestamp": "2026-03-21T00:26:00+01:00"
   },
   {
-    "time": "02:23",
+    "time": "00:23",
     "artist": "Nirvana",
     "title": "Come As You Are",
-    "timestamp": "2026-03-21T02:23:00+01:00"
+    "timestamp": "2026-03-21T00:23:00+01:00"
   },
   {
-    "time": "02:19",
+    "time": "00:19",
     "artist": "Royal Blood",
     "title": "Trouble's Coming",
-    "timestamp": "2026-03-21T02:19:00+01:00"
+    "timestamp": "2026-03-21T00:19:00+01:00"
   },
   {
-    "time": "02:15",
+    "time": "00:15",
     "artist": "Talking Heads",
     "title": "Road to Nowhere",
-    "timestamp": "2026-03-21T02:15:00+01:00"
+    "timestamp": "2026-03-21T00:15:00+01:00"
   },
   {
-    "time": "02:10",
+    "time": "00:10",
     "artist": "Within Temptation",
     "title": "Stand My Ground",
-    "timestamp": "2026-03-21T02:10:00+01:00"
-  },
-  {
-    "time": "02:07",
-    "artist": "The Black Keys",
-    "title": "You Got To Lose",
-    "timestamp": "2026-03-21T02:07:00+01:00"
-  },
-  {
-    "time": "02:03",
-    "artist": "K's Choice",
-    "title": "Everything For Free",
-    "timestamp": "2026-03-21T02:03:00+01:00"
-  },
-  {
-    "time": "01:54",
-    "artist": "Led Zeppelin",
-    "title": "Whole Lotta Love",
-    "timestamp": "2026-03-21T01:54:00+01:00"
-  },
-  {
-    "time": "01:49",
-    "artist": "Yungblud",
-    "title": "Suburban Requiem",
-    "timestamp": "2026-03-21T01:49:00+01:00"
-  },
-  {
-    "time": "01:47",
-    "artist": "The Presidents of The USA",
-    "title": "Lump",
-    "timestamp": "2026-03-21T01:47:00+01:00"
-  },
-  {
-    "time": "01:44",
-    "artist": "Queens Of The Stone Age",
-    "title": "My God Is The Sun",
-    "timestamp": "2026-03-21T01:44:00+01:00"
-  },
-  {
-    "time": "01:39",
-    "artist": "Florence The Machine",
-    "title": "Dog Days Are Over",
-    "timestamp": "2026-03-21T01:39:00+01:00"
-  },
-  {
-    "time": "01:36",
-    "artist": "Queen's Pleasure",
-    "title": "The Drop",
-    "timestamp": "2026-03-21T01:36:00+01:00"
-  },
-  {
-    "time": "01:32",
-    "artist": "Oasis",
-    "title": "Whatever",
-    "timestamp": "2026-03-21T01:32:00+01:00"
-  },
-  {
-    "time": "01:24",
-    "artist": "Bruce Springsteen",
-    "title": "Badlands",
-    "timestamp": "2026-03-21T01:24:00+01:00"
-  },
-  {
-    "time": "01:20",
-    "artist": "The Automatic",
-    "title": "Monster",
-    "timestamp": "2026-03-21T01:20:00+01:00"
-  },
-  {
-    "time": "01:17",
-    "artist": "Nothing But Thieves",
-    "title": "Trip Switch",
-    "timestamp": "2026-03-21T01:17:00+01:00"
-  },
-  {
-    "time": "01:08",
-    "artist": "Arctic Monkeys",
-    "title": "Opening Night",
-    "timestamp": "2026-03-21T01:08:00+01:00"
-  },
-  {
-    "time": "01:05",
-    "artist": "Thin Lizzy",
-    "title": "The Boys Are Back In Town",
-    "timestamp": "2026-03-21T01:05:00+01:00"
-  },
-  {
-    "time": "01:02",
-    "artist": "Papa Roach",
-    "title": "Last Resort",
-    "timestamp": "2026-03-21T01:02:00+01:00"
-  },
-  {
-    "time": "00:55",
-    "artist": "Ramones",
-    "title": "Blitzkriegbop",
-    "timestamp": "2026-03-21T00:55:00+01:00"
-  },
-  {
-    "time": "00:52",
-    "artist": "Wet Leg",
-    "title": "Mangetout",
-    "timestamp": "2026-03-21T00:52:00+01:00"
-  },
-  {
-    "time": "00:47",
-    "artist": "Limp Bizkit",
-    "title": "Behind Blue Eyes",
-    "timestamp": "2026-03-21T00:47:00+01:00"
-  },
-  {
-    "time": "00:43",
-    "artist": "Foo Fighters",
-    "title": "Monkey Wrench",
-    "timestamp": "2026-03-21T00:43:00+01:00"
-  },
-  {
-    "time": "00:39",
-    "artist": "Villanelle",
-    "title": "Placebo",
-    "timestamp": "2026-03-21T00:39:00+01:00"
-  },
-  {
-    "time": "00:35",
-    "artist": "Elbow",
-    "title": "One Day Like This",
-    "timestamp": "2026-03-21T00:35:00+01:00"
-  },
-  {
-    "time": "00:27",
-    "artist": "Fiction Plane",
-    "title": "Two Sisters",
-    "timestamp": "2026-03-21T00:27:00+01:00"
-  },
-  {
-    "time": "00:24",
-    "artist": "The Smashing Pumpkins",
-    "title": "Today",
-    "timestamp": "2026-03-21T00:24:00+01:00"
-  },
-  {
-    "time": "00:21",
-    "artist": "Kingfishr",
-    "title": "I Cried I Wept",
-    "timestamp": "2026-03-21T00:21:00+01:00"
-  },
-  {
-    "time": "00:17",
-    "artist": "Depeche Mode",
-    "title": "People are People",
-    "timestamp": "2026-03-21T00:17:00+01:00"
-  },
-  {
-    "time": "00:11",
-    "artist": "Green Day",
-    "title": "21 Guns",
-    "timestamp": "2026-03-21T00:11:00+01:00"
+    "timestamp": "2026-03-21T00:10:00+01:00"
   },
   {
     "time": "00:07",
-    "artist": "Hiqpy",
-    "title": "Youman",
+    "artist": "The Black Keys",
+    "title": "You Got To Lose",
     "timestamp": "2026-03-21T00:07:00+01:00"
   },
   {
     "time": "00:03",
-    "artist": "Blur",
-    "title": "Girls & Boys",
+    "artist": "K's Choice",
+    "title": "Everything For Free",
     "timestamp": "2026-03-21T00:03:00+01:00"
   }
 ]
