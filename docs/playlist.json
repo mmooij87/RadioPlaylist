@@ -1,9 +1,399 @@
 [
   {
     "time": "Live",
+    "artist": "Phoebe Bridgers",
+    "title": "Lost Boys",
+    "timestamp": "2026-09-29T21:18:49.842914+02:00"
+  },
+  {
+    "time": "12:10",
+    "artist": "The Scene",
+    "title": "Blauw",
+    "timestamp": "2026-09-29T12:10:00+02:00"
+  },
+  {
+    "time": "12:06",
+    "artist": "Bring Me The Horizon",
+    "title": "Follow You",
+    "timestamp": "2026-09-29T12:06:00+02:00"
+  },
+  {
+    "time": "12:03",
+    "artist": "The Wombats",
+    "title": "Let's Dance To Joy Division",
+    "timestamp": "2026-09-29T12:03:00+02:00"
+  },
+  {
+    "time": "11:56",
+    "artist": "Keo",
+    "title": "That's Me",
+    "timestamp": "2026-09-29T11:56:00+02:00"
+  },
+  {
+    "time": "11:53",
+    "artist": "Linkin' Park",
+    "title": "One Step Closer",
+    "timestamp": "2026-09-29T11:53:00+02:00"
+  },
+  {
+    "time": "11:49",
+    "artist": "R.E.M.",
+    "title": "Losing My Religion",
+    "timestamp": "2026-09-29T11:49:00+02:00"
+  },
+  {
+    "time": "11:45",
+    "artist": "The Boxer Rebellion",
+    "title": "Diamonds",
+    "timestamp": "2026-09-29T11:45:00+02:00"
+  },
+  {
+    "time": "11:41",
+    "artist": "The Haunted Youth",
+    "title": "forget me",
+    "timestamp": "2026-09-29T11:41:00+02:00"
+  },
+  {
+    "time": "11:37",
+    "artist": "Talking Heads",
+    "title": "Once in a Lifetime",
+    "timestamp": "2026-09-29T11:37:00+02:00"
+  },
+  {
+    "time": "11:31",
+    "artist": "Wet Leg",
+    "title": "Chaise Longue",
+    "timestamp": "2026-09-29T11:31:00+02:00"
+  },
+  {
+    "time": "11:27",
+    "artist": "Blur",
+    "title": "Country House",
+    "timestamp": "2026-09-29T11:27:00+02:00"
+  },
+  {
+    "time": "11:25",
+    "artist": "Villanelle",
+    "title": "Some Chew Lip",
+    "timestamp": "2026-09-29T11:25:00+02:00"
+  },
+  {
+    "time": "11:20",
+    "artist": "Bruce Springsteen",
+    "title": "Glory Days",
+    "timestamp": "2026-09-29T11:20:00+02:00"
+  },
+  {
+    "time": "11:17",
+    "artist": "Pearl Jam",
+    "title": "The Fixer",
+    "timestamp": "2026-09-29T11:17:00+02:00"
+  },
+  {
+    "time": "11:12",
+    "artist": "Fontaines D.C.",
+    "title": "Marianne",
+    "timestamp": "2026-09-29T11:12:00+02:00"
+  },
+  {
+    "time": "11:07",
+    "artist": "The Black Crowes",
+    "title": "Remedy",
+    "timestamp": "2026-09-29T11:07:00+02:00"
+  },
+  {
+    "time": "10:59",
+    "artist": "Kingfishr",
+    "title": "How Lonely",
+    "timestamp": "2026-09-29T10:59:00+02:00"
+  },
+  {
+    "time": "10:52",
+    "artist": "Muse",
+    "title": "Psycho",
+    "timestamp": "2026-09-29T10:52:00+02:00"
+  },
+  {
+    "time": "10:50",
+    "artist": "Welly",
+    "title": "Skinny Boy",
+    "timestamp": "2026-09-29T10:50:00+02:00"
+  },
+  {
+    "time": "10:44",
+    "artist": "Carolina Liar",
+    "title": "Show Me What I'm Looking For",
+    "timestamp": "2026-09-29T10:44:00+02:00"
+  },
+  {
+    "time": "10:40",
+    "artist": "POM",
+    "title": "Hi",
+    "timestamp": "2026-09-29T10:40:00+02:00"
+  },
+  {
+    "time": "10:36",
+    "artist": "Radiohead",
+    "title": "High & Dry",
+    "timestamp": "2026-09-29T10:36:00+02:00"
+  },
+  {
+    "time": "10:29",
+    "artist": "Bleech 9:3",
+    "title": "Figure 8",
+    "timestamp": "2026-09-29T10:29:00+02:00"
+  },
+  {
+    "time": "10:24",
+    "artist": "Stone Temple Pilots",
+    "title": "Creep",
+    "timestamp": "2026-09-29T10:24:00+02:00"
+  },
+  {
+    "time": "10:19",
+    "artist": "The Fratellis",
+    "title": "Chelsea Dagger",
+    "timestamp": "2026-09-29T10:19:00+02:00"
+  },
+  {
+    "time": "10:15",
+    "artist": "Mood Bored",
+    "title": "Skin",
+    "timestamp": "2026-09-29T10:15:00+02:00"
+  },
+  {
+    "time": "10:08",
+    "artist": "Massive Attack",
+    "title": "Unfinished Sympathy",
+    "timestamp": "2026-09-29T10:08:00+02:00"
+  },
+  {
+    "time": "10:05",
+    "artist": "Panic! at the Disco",
+    "title": "I Write Sins Not Tragedies",
+    "timestamp": "2026-09-29T10:05:00+02:00"
+  },
+  {
+    "time": "09:56",
+    "artist": "Volbeat",
+    "title": "Lola Montez",
+    "timestamp": "2026-09-29T09:56:00+02:00"
+  },
+  {
+    "time": "09:53",
+    "artist": "The Cure",
+    "title": "Boys Don't Cry",
+    "timestamp": "2026-09-29T09:53:00+02:00"
+  },
+  {
+    "time": "09:49",
+    "artist": "Foo Fighters",
+    "title": "Window",
+    "timestamp": "2026-09-29T09:49:00+02:00"
+  },
+  {
+    "time": "09:46",
+    "artist": "Arctic Monkeys",
+    "title": "Crying Lightning",
+    "timestamp": "2026-09-29T09:46:00+02:00"
+  },
+  {
+    "time": "09:42",
+    "artist": "Beck",
+    "title": "Loser",
+    "timestamp": "2026-09-29T09:42:00+02:00"
+  },
+  {
+    "time": "09:38",
+    "artist": "Queens of the Stone Age",
+    "title": "Where The Goth Girls At",
+    "timestamp": "2026-09-29T09:38:00+02:00"
+  },
+  {
+    "time": "09:34",
+    "artist": "Red Hot Chili Peppers",
+    "title": "Dark Necessities",
+    "timestamp": "2026-09-29T09:34:00+02:00"
+  },
+  {
+    "time": "09:25",
+    "artist": "Green Lizard",
+    "title": "Autumn",
+    "timestamp": "2026-09-29T09:25:00+02:00"
+  },
+  {
+    "time": "09:23",
+    "artist": "The Presidents of The USA",
+    "title": "Peaches",
+    "timestamp": "2026-09-29T09:23:00+02:00"
+  },
+  {
+    "time": "09:19",
+    "artist": "M83",
+    "title": "Midnight City",
+    "timestamp": "2026-09-29T09:19:00+02:00"
+  },
+  {
+    "time": "09:14",
+    "artist": "Sex Pistols",
+    "title": "Pretty Vacant",
+    "timestamp": "2026-09-29T09:14:00+02:00"
+  },
+  {
+    "time": "09:10",
+    "artist": "Editors",
+    "title": "Seriously",
+    "timestamp": "2026-09-29T09:10:00+02:00"
+  },
+  {
+    "time": "09:05",
+    "artist": "Within Temptation",
+    "title": "Ice Queen",
+    "timestamp": "2026-09-29T09:05:00+02:00"
+  },
+  {
+    "time": "09:01",
+    "artist": "The Smashing Pumpkins",
+    "title": "Tonight, Tonight",
+    "timestamp": "2026-09-29T09:01:00+02:00"
+  },
+  {
+    "time": "08:50",
+    "artist": "AC/DC",
+    "title": "Back in Black",
+    "timestamp": "2026-09-29T08:50:00+02:00"
+  },
+  {
+    "time": "08:43",
+    "artist": "White Lies",
+    "title": "Time To Give",
+    "timestamp": "2026-09-29T08:43:00+02:00"
+  },
+  {
+    "time": "08:37",
+    "artist": "Paramore",
+    "title": "Ignorance",
+    "timestamp": "2026-09-29T08:37:00+02:00"
+  },
+  {
+    "time": "08:34",
+    "artist": "Eels",
+    "title": "Novocaine for the Soul",
+    "timestamp": "2026-09-29T08:34:00+02:00"
+  },
+  {
+    "time": "08:23",
+    "artist": "Placebo",
+    "title": "Helen Keller",
+    "timestamp": "2026-09-29T08:23:00+02:00"
+  },
+  {
+    "time": "08:19",
+    "artist": "Van Halen",
+    "title": "Jump",
+    "timestamp": "2026-09-29T08:19:00+02:00"
+  },
+  {
+    "time": "08:12",
+    "artist": "The War On Drugs",
+    "title": "Who’s That",
+    "timestamp": "2026-09-29T08:12:00+02:00"
+  },
+  {
+    "time": "08:10",
+    "artist": "Beastie Boys",
+    "title": "Sabotage",
+    "timestamp": "2026-09-29T08:10:00+02:00"
+  },
+  {
+    "time": "08:05",
+    "artist": "Elbow",
+    "title": "Lippy Kids",
+    "timestamp": "2026-09-29T08:05:00+02:00"
+  },
+  {
+    "time": "08:03",
+    "artist": "Kings Of Leon",
+    "title": "Notion",
+    "timestamp": "2026-09-29T08:03:00+02:00"
+  },
+  {
+    "time": "07:53",
+    "artist": "The Warning",
+    "title": "Bite My Tongue",
+    "timestamp": "2026-09-29T07:53:00+02:00"
+  },
+  {
+    "time": "07:49",
+    "artist": "The Hives",
+    "title": "Hate To Say I Told You So",
+    "timestamp": "2026-09-29T07:49:00+02:00"
+  },
+  {
+    "time": "07:45",
+    "artist": "Cracker",
+    "title": "Low",
+    "timestamp": "2026-09-29T07:45:00+02:00"
+  },
+  {
+    "time": "07:42",
+    "artist": "Mumford and Sons",
+    "title": "The Cave",
+    "timestamp": "2026-09-29T07:42:00+02:00"
+  },
+  {
+    "time": "07:36",
+    "artist": "Weezer",
+    "title": "We Might As Well Be Strangers (ft. Wednesday)",
+    "timestamp": "2026-09-29T07:36:00+02:00"
+  },
+  {
+    "time": "07:32",
+    "artist": "David Bowie",
+    "title": "Jean Genie",
+    "timestamp": "2026-09-29T07:32:00+02:00"
+  },
+  {
+    "time": "07:22",
+    "artist": "The Gathering",
+    "title": "Strange Machines",
+    "timestamp": "2026-09-29T07:22:00+02:00"
+  },
+  {
+    "time": "07:18",
+    "artist": "Tom Odell",
+    "title": "Another Love",
+    "timestamp": "2026-09-29T07:18:00+02:00"
+  },
+  {
+    "time": "07:14",
+    "artist": "Faith No More",
+    "title": "We Care A Lot",
+    "timestamp": "2026-09-29T07:14:00+02:00"
+  },
+  {
+    "time": "07:10",
+    "artist": "The Temper Trap",
+    "title": "Sweet Disposition",
+    "timestamp": "2026-09-29T07:10:00+02:00"
+  },
+  {
+    "time": "07:04",
+    "artist": "Florence Road",
+    "title": "7563",
+    "timestamp": "2026-09-29T07:04:00+02:00"
+  },
+  {
+    "time": "07:02",
+    "artist": "Blink-182",
+    "title": "What's My Age Again",
+    "timestamp": "2026-09-29T07:02:00+02:00"
+  },
+  {
+    "time": "06:53",
     "artist": "Iron Maiden",
     "title": "Can I Play With Madness",
-    "timestamp": "2026-09-29T16:00:16.337830+02:00"
+    "timestamp": "2026-09-29T06:53:00+02:00"
   },
   {
     "time": "06:47",
