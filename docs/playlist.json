@@ -1,9 +1,495 @@
 [
   {
     "time": "Live",
+    "artist": "The Cult",
+    "title": "She Sells Sanctuary",
+    "timestamp": "2026-10-10T14:55:58.017538+02:00"
+  },
+  {
+    "time": "07:48",
+    "artist": "Muse",
+    "title": "Cryogen",
+    "timestamp": "2026-10-10T07:48:00+02:00"
+  },
+  {
+    "time": "07:44",
+    "artist": "Maximo Park",
+    "title": "Apply Some Pressure",
+    "timestamp": "2026-10-10T07:44:00+02:00"
+  },
+  {
+    "time": "07:40",
+    "artist": "Bruce Springsteen",
+    "title": "Badlands",
+    "timestamp": "2026-10-10T07:40:00+02:00"
+  },
+  {
+    "time": "07:36",
+    "artist": "Fontaines D.C.",
+    "title": "Marianne",
+    "timestamp": "2026-10-10T07:36:00+02:00"
+  },
+  {
+    "time": "07:32",
+    "artist": "Red Hot Chili Peppers",
+    "title": "Dani California",
+    "timestamp": "2026-10-10T07:32:00+02:00"
+  },
+  {
+    "time": "07:25",
+    "artist": "Arctic Monkeys",
+    "title": "Teddy Picker",
+    "timestamp": "2026-10-10T07:25:00+02:00"
+  },
+  {
+    "time": "07:22",
+    "artist": "Neck Deep",
+    "title": "Can't Kick Up The Roots",
+    "timestamp": "2026-10-10T07:22:00+02:00"
+  },
+  {
+    "time": "07:18",
+    "artist": "Therapy?",
+    "title": "Diane",
+    "timestamp": "2026-10-10T07:18:00+02:00"
+  },
+  {
+    "time": "07:12",
+    "artist": "Aerosmith",
+    "title": "Janie's Got A Gun",
+    "timestamp": "2026-10-10T07:12:00+02:00"
+  },
+  {
+    "time": "07:09",
+    "artist": "Radio Free Alice",
+    "title": "Kick In The Shins",
+    "timestamp": "2026-10-10T07:09:00+02:00"
+  },
+  {
+    "time": "07:05",
+    "artist": "The Killers",
+    "title": "Mr. Brightside",
+    "timestamp": "2026-10-10T07:05:00+02:00"
+  },
+  {
+    "time": "07:01",
+    "artist": "K's Choice",
+    "title": "Everything For Free",
+    "timestamp": "2026-10-10T07:01:00+02:00"
+  },
+  {
+    "time": "06:53",
+    "artist": "Placebo",
+    "title": "Helen Keller",
+    "timestamp": "2026-10-10T06:53:00+02:00"
+  },
+  {
+    "time": "06:49",
+    "artist": "Manic Street Preachers",
+    "title": "A Design For Life",
+    "timestamp": "2026-10-10T06:49:00+02:00"
+  },
+  {
+    "time": "06:45",
+    "artist": "The Last Dinner Party",
+    "title": "Nothing Matters",
+    "timestamp": "2026-10-10T06:45:00+02:00"
+  },
+  {
+    "time": "06:40",
+    "artist": "Pearl Jam",
+    "title": "Even Flow",
+    "timestamp": "2026-10-10T06:40:00+02:00"
+  },
+  {
+    "time": "06:35",
+    "artist": "Audioslave",
+    "title": "Be Yourself",
+    "timestamp": "2026-10-10T06:35:00+02:00"
+  },
+  {
+    "time": "06:25",
+    "artist": "Hiqpy",
+    "title": "Nothing",
+    "timestamp": "2026-10-10T06:25:00+02:00"
+  },
+  {
+    "time": "06:23",
+    "artist": "Ramones",
+    "title": "Rock 'n' Roll High School",
+    "timestamp": "2026-10-10T06:23:00+02:00"
+  },
+  {
+    "time": "06:20",
+    "artist": "Twenty One Pilots",
+    "title": "Drum Show",
+    "timestamp": "2026-10-10T06:20:00+02:00"
+  },
+  {
+    "time": "06:16",
+    "artist": "The Cure",
+    "title": "Friday I'm In Love",
+    "timestamp": "2026-10-10T06:16:00+02:00"
+  },
+  {
+    "time": "06:13",
+    "artist": "Bleech 9:3",
+    "title": "Figure 8",
+    "timestamp": "2026-10-10T06:13:00+02:00"
+  },
+  {
+    "time": "06:08",
+    "artist": "Oasis",
+    "title": "Rock 'n' Roll Star",
+    "timestamp": "2026-10-10T06:08:00+02:00"
+  },
+  {
+    "time": "06:04",
+    "artist": "3 Doors Down",
+    "title": "Kryptonite",
+    "timestamp": "2026-10-10T06:04:00+02:00"
+  },
+  {
+    "time": "05:55",
+    "artist": "The Warning",
+    "title": "Bite My Tongue",
+    "timestamp": "2026-10-10T05:55:00+02:00"
+  },
+  {
+    "time": "05:52",
+    "artist": "Depeche Mode",
+    "title": "Stripped",
+    "timestamp": "2026-10-10T05:52:00+02:00"
+  },
+  {
+    "time": "05:44",
+    "artist": "Rage Against The Machine",
+    "title": "Killing in the Name",
+    "timestamp": "2026-10-10T05:44:00+02:00"
+  },
+  {
+    "time": "05:38",
+    "artist": "dEUS",
+    "title": "Instant Street",
+    "timestamp": "2026-10-10T05:38:00+02:00"
+  },
+  {
+    "time": "05:34",
+    "artist": "Sam Fender",
+    "title": "Seventeen Going Under",
+    "timestamp": "2026-10-10T05:34:00+02:00"
+  },
+  {
+    "time": "05:25",
+    "artist": "Cloudsurfers",
+    "title": "If’s, But’s and Maybes",
+    "timestamp": "2026-10-10T05:25:00+02:00"
+  },
+  {
+    "time": "05:22",
+    "artist": "The White Stripes",
+    "title": "The Hardest Button to Button",
+    "timestamp": "2026-10-10T05:22:00+02:00"
+  },
+  {
+    "time": "05:17",
+    "artist": "U2",
+    "title": "One",
+    "timestamp": "2026-10-10T05:17:00+02:00"
+  },
+  {
+    "time": "05:13",
+    "artist": "Franz Ferdinand",
+    "title": "Matinée",
+    "timestamp": "2026-10-10T05:13:00+02:00"
+  },
+  {
+    "time": "05:09",
+    "artist": "Queens of the Stone Age",
+    "title": "Where The Goth Girls At",
+    "timestamp": "2026-10-10T05:09:00+02:00"
+  },
+  {
+    "time": "05:05",
+    "artist": "Faith No More",
+    "title": "Epic",
+    "timestamp": "2026-10-10T05:05:00+02:00"
+  },
+  {
+    "time": "04:54",
+    "artist": "De Staat",
+    "title": "Freedom",
+    "timestamp": "2026-10-10T04:54:00+02:00"
+  },
+  {
+    "time": "04:50",
+    "artist": "Of Monsters and Men",
+    "title": "Little Talks",
+    "timestamp": "2026-10-10T04:50:00+02:00"
+  },
+  {
+    "time": "04:42",
+    "artist": "Black Sabbath",
+    "title": "War Pigs",
+    "timestamp": "2026-10-10T04:42:00+02:00"
+  },
+  {
+    "time": "04:39",
+    "artist": "Ting Tings",
+    "title": "Great DJ",
+    "timestamp": "2026-10-10T04:39:00+02:00"
+  },
+  {
+    "time": "04:35",
+    "artist": "Weezer",
+    "title": "Say It Ain't So",
+    "timestamp": "2026-10-10T04:35:00+02:00"
+  },
+  {
+    "time": "04:26",
+    "artist": "Phoebe Bridgers",
+    "title": "Lost Boys",
+    "timestamp": "2026-10-10T04:26:00+02:00"
+  },
+  {
+    "time": "04:23",
+    "artist": "Primal Scream",
+    "title": "Rocks",
+    "timestamp": "2026-10-10T04:23:00+02:00"
+  },
+  {
+    "time": "04:18",
+    "artist": "MGMT",
+    "title": "Kids",
+    "timestamp": "2026-10-10T04:18:00+02:00"
+  },
+  {
+    "time": "04:15",
+    "artist": "Bad Religion",
+    "title": "21 Century (Digital Boy)",
+    "timestamp": "2026-10-10T04:15:00+02:00"
+  },
+  {
+    "time": "04:11",
+    "artist": "Editors",
+    "title": "Seriously",
+    "timestamp": "2026-10-10T04:11:00+02:00"
+  },
+  {
+    "time": "04:07",
+    "artist": "Van Halen",
+    "title": "Ain't Talkin' 'Bout Love",
+    "timestamp": "2026-10-10T04:07:00+02:00"
+  },
+  {
+    "time": "04:03",
+    "artist": "Evanescence",
+    "title": "My Immortal",
+    "timestamp": "2026-10-10T04:03:00+02:00"
+  },
+  {
+    "time": "03:55",
+    "artist": "The Haunted Youth",
+    "title": "forget me",
+    "timestamp": "2026-10-10T03:55:00+02:00"
+  },
+  {
+    "time": "03:50",
+    "artist": "Golden Earring",
+    "title": "Radar Love",
+    "timestamp": "2026-10-10T03:50:00+02:00"
+  },
+  {
+    "time": "03:46",
+    "artist": "Kings Of Leon",
+    "title": "Radioactive",
+    "timestamp": "2026-10-10T03:46:00+02:00"
+  },
+  {
+    "time": "03:43",
+    "artist": "Blink-182",
+    "title": "The Rock Show",
+    "timestamp": "2026-10-10T03:43:00+02:00"
+  },
+  {
+    "time": "03:38",
+    "artist": "Skunk Anansie",
+    "title": "Charity",
+    "timestamp": "2026-10-10T03:38:00+02:00"
+  },
+  {
+    "time": "03:34",
+    "artist": "Yungblud",
+    "title": "Zombie",
+    "timestamp": "2026-10-10T03:34:00+02:00"
+  },
+  {
+    "time": "03:30",
+    "artist": "Stone Sour",
+    "title": "Through Glass",
+    "timestamp": "2026-10-10T03:30:00+02:00"
+  },
+  {
+    "time": "03:20",
+    "artist": "The War On Drugs",
+    "title": "Who’s That",
+    "timestamp": "2026-10-10T03:20:00+02:00"
+  },
+  {
+    "time": "03:16",
+    "artist": "Deep Purple",
+    "title": "Smoke On The Water",
+    "timestamp": "2026-10-10T03:16:00+02:00"
+  },
+  {
+    "time": "03:13",
+    "artist": "Muse",
+    "title": "Feeling Good",
+    "timestamp": "2026-10-10T03:13:00+02:00"
+  },
+  {
+    "time": "03:08",
+    "artist": "Blur",
+    "title": "Coffee & TV",
+    "timestamp": "2026-10-10T03:08:00+02:00"
+  },
+  {
+    "time": "03:05",
+    "artist": "Palaye Royale",
+    "title": "Lost In Translation",
+    "timestamp": "2026-10-10T03:05:00+02:00"
+  },
+  {
+    "time": "03:00",
+    "artist": "David Bowie",
+    "title": "Rebel Rebel",
+    "timestamp": "2026-10-10T03:00:00+02:00"
+  },
+  {
+    "time": "02:52",
+    "artist": "Kingfishr",
+    "title": "How Lonely",
+    "timestamp": "2026-10-10T02:52:00+02:00"
+  },
+  {
+    "time": "02:49",
+    "artist": "Bring Me The Horizon",
+    "title": "Follow You",
+    "timestamp": "2026-10-10T02:49:00+02:00"
+  },
+  {
+    "time": "02:44",
+    "artist": "Red Hot Chili Peppers",
+    "title": "Give It Away",
+    "timestamp": "2026-10-10T02:44:00+02:00"
+  },
+  {
+    "time": "02:40",
+    "artist": "Rag'n'Bone Man",
+    "title": "Human",
+    "timestamp": "2026-10-10T02:40:00+02:00"
+  },
+  {
+    "time": "02:36",
+    "artist": "Incubus",
+    "title": "Megalomaniac",
+    "timestamp": "2026-10-10T02:36:00+02:00"
+  },
+  {
+    "time": "02:33",
+    "artist": "Nirvana",
+    "title": "About A Girl (unplugged)",
+    "timestamp": "2026-10-10T02:33:00+02:00"
+  },
+  {
+    "time": "02:25",
+    "artist": "POM",
+    "title": "Hi",
+    "timestamp": "2026-10-10T02:25:00+02:00"
+  },
+  {
+    "time": "02:22",
+    "artist": "The Offspring",
+    "title": "Why Don't You Get A Job",
+    "timestamp": "2026-10-10T02:22:00+02:00"
+  },
+  {
+    "time": "02:18",
+    "artist": "The Killers",
+    "title": "Spaceman",
+    "timestamp": "2026-10-10T02:18:00+02:00"
+  },
+  {
+    "time": "02:15",
+    "artist": "Nothing But Thieves",
+    "title": "A Different Kind of Happiness",
+    "timestamp": "2026-10-10T02:15:00+02:00"
+  },
+  {
+    "time": "02:10",
+    "artist": "The Waterboys",
+    "title": "Girl Called Johnny",
+    "timestamp": "2026-10-10T02:10:00+02:00"
+  },
+  {
+    "time": "02:06",
+    "artist": "The Cult",
+    "title": "Love Removal Machine",
+    "timestamp": "2026-10-10T02:06:00+02:00"
+  },
+  {
+    "time": "01:58",
+    "artist": "Depeche Mode",
+    "title": "Master and Servant",
+    "timestamp": "2026-10-10T01:58:00+02:00"
+  },
+  {
+    "time": "01:56",
+    "artist": "The Cure",
+    "title": "Lovesong",
+    "timestamp": "2026-10-10T01:56:00+02:00"
+  },
+  {
+    "time": "01:51",
+    "artist": "Placebo",
+    "title": "Helen Keller",
+    "timestamp": "2026-10-10T01:51:00+02:00"
+  },
+  {
+    "time": "01:47",
+    "artist": "Manic Street Preachers",
+    "title": "Your Love Alone Is Not Enough",
+    "timestamp": "2026-10-10T01:47:00+02:00"
+  },
+  {
+    "time": "01:44",
+    "artist": "The Smiths",
+    "title": "Bigmouth Strikes Again",
+    "timestamp": "2026-10-10T01:44:00+02:00"
+  },
+  {
+    "time": "01:40",
+    "artist": "Billy Talent",
+    "title": "Fallen Leaves",
+    "timestamp": "2026-10-10T01:40:00+02:00"
+  },
+  {
+    "time": "01:36",
+    "artist": "Bush",
+    "title": "Glycerine",
+    "timestamp": "2026-10-10T01:36:00+02:00"
+  },
+  {
+    "time": "01:33",
+    "artist": "Linkin Park",
+    "title": "The Emptiness Machine",
+    "timestamp": "2026-10-10T01:33:00+02:00"
+  },
+  {
+    "time": "01:25",
     "artist": "Foo Fighters",
     "title": "Window",
-    "timestamp": "2026-10-10T08:26:45.787041+02:00"
+    "timestamp": "2026-10-10T01:25:00+02:00"
   },
   {
     "time": "01:23",
